@@ -1,0 +1,30 @@
+{
+  "args": {
+    "data": "/content/video-gaussian-pipeline/results/rgb-video-02/sfm/scene",
+    "prefixes": "/content/video-gaussian-pipeline/results/rgb-video-02/prefixes",
+    "masks": "/content/video-gaussian-pipeline/results/rgb-video-02/teachers",
+    "output": "/content/video-gaussian-pipeline/results/rgb-video-02/training",
+    "factors": "111",
+    "seed": 7,
+    "cap": 200000,
+    "width": 640,
+    "stages": 4,
+    "semantic_strength": 0.1,
+    "replay_max": 0.6,
+    "steps": 800,
+    "degree": 2
+  },
+  "dataset_kind": "offline_COLMAP",
+  "units": "normalized offline COLMAP units",
+  "seconds_including_evaluation_and_export": 475.219992587,
+  "device": "NVIDIA L4",
+  "optimizer_steps": 3200,
+  "cache_capacity": 32,
+  "replay_capacity": 48,
+  "qualifications": [
+    "Input camera poses estimated offline by RGB SfM; not real-time camera tracking",
+    "SAM pseudo region evaluation, not human part accuracy",
+    "Teacher preprocessing is timed separately and shared; not an end-to-end real-time claim",
+    "B uses a marginal coverage proxy, not an exact counterfactual query-loss oracle"
+  ]
+}

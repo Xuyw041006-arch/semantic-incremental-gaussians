@@ -1,0 +1,3878 @@
+{
+  "experiment-plan-original-48.json": {
+    "bytes": 611,
+    "sha256": "98304d0a6767b1c2c473938495e9f8d5351db98f214e9fa8c55ccd611e5c4e79"
+  },
+  "colab_semantic_ablations.ipynb": {
+    "bytes": 80560,
+    "sha256": "516edcae7796274746f2b48a12247781135fc2df89b5fc4a7088f55247d8eca7"
+  },
+  "EXPERIMENT_REPORT.md": {
+    "bytes": 12812,
+    "sha256": "163f4cb9f3fdd4eb61f3403be5366011704fe74b3896eaba37c6dd28d00a5c9c"
+  },
+  "run_ablation.py": {
+    "bytes": 3602,
+    "sha256": "5e483de42e8cce19f86db201cf0378b89975cc1d9dff4184d47c625bf5bbe41f"
+  },
+  "job-order.json": {
+    "bytes": 3466,
+    "sha256": "7c5de842abba5985a5fe7def7cef6f5f43fc196424dd28f4a1f3102ccd9e35d3"
+  },
+  "status-before-amendment.json": {
+    "bytes": 2955,
+    "sha256": "049c9851d2ffb7c6dd8d926b6d31c9a73ad12ebf61b976944a2ed9fb7b098e34"
+  },
+  "teacher-benchmark.json": {
+    "bytes": 1313,
+    "sha256": "52bcfae839a721776c190b6f07df132fed5c301c9b6e6be4e6af5e6f2d2603e2"
+  },
+  "experiment-provenance.json": {
+    "bytes": 114400,
+    "sha256": "dd011f7b9de1a5019a78310835b6f9fdf7a82e37893fc348c69919b2f54ae8e0"
+  },
+  "source-sha256.json": {
+    "bytes": 1291,
+    "sha256": "65de190244d07aa589ea0418927423add8330061ac7351e5e1b65cc836dd788c"
+  },
+  "README.md": {
+    "bytes": 4214,
+    "sha256": "fa18813ac6b57498a3c1b79baae5a92a3e9fa822476b1b60193a0bb8bd0416b8"
+  },
+  "bootstrap_colab.py": {
+    "bytes": 1932,
+    "sha256": "58ede5169e0fdfdd828bf2f0a5bed655f812680c0cf68ab4a857497a26cd8710"
+  },
+  "gpu-telemetry.csv": {
+    "bytes": 159823,
+    "sha256": "4dcb6390ca7b755bde3c8c814df46a0d31fa772c8d2ec62d0d1cb4be5b9d887f"
+  },
+  "smoke.log": {
+    "bytes": 5204,
+    "sha256": "6dc975e9bc586884c0c1f34ed2d79a6b13f2695e9321ca30d19cf995f8364a1e"
+  },
+  "tests.log": {
+    "bytes": 720,
+    "sha256": "f33cbaed9c90247477d4a8c569f0fa7056c970d96a0dc6185c5c79615c076323"
+  },
+  "status.json": {
+    "bytes": 2737,
+    "sha256": "76671ed6c86ce3bc2c6f11d36cf159a05457a03e74d8c818e5903a6461ce0978"
+  },
+  "analysis-tests.log": {
+    "bytes": 1425,
+    "sha256": "a54ed10c6e025fac3ca4503554c1e032dcae485a11102a18bda677b858aa970e"
+  },
+  "causality-tests.log": {
+    "bytes": 946,
+    "sha256": "5466709e3879135d4b00295d631288528587d92724e0d2d8602baa8d9f6ae000"
+  },
+  "environment-pip-freeze.txt": {
+    "bytes": 14562,
+    "sha256": "da8cf1265a28c6c580932bf9831fb7cdd1390ed7f9227729fbebcc90fae1b3e7"
+  },
+  "protocol-amendment.json": {
+    "bytes": 3200,
+    "sha256": "4799854f7c671177a02ae47da29912d9815a39db4ec9d3387120b2c427b6cee9"
+  },
+  "experiment-plan.json": {
+    "bytes": 603,
+    "sha256": "a1d2c51118632370c44aabf11af99157d78f1dad420be03dc454d2b1690f57de"
+  },
+  "job-order-used.json": {
+    "bytes": 2306,
+    "sha256": "dffb6c75043a2b75de5aa642341ab6ac9b6efb0dd5fc3bd972f226f67cf180f9"
+  },
+  "write_report.py": {
+    "bytes": 10031,
+    "sha256": "c0d80bdb8e6a7cc2ea7dc9a729d29a7b1455fae2755996c1c2cc58e8bd0889e0"
+  },
+  "finish_experiment.py": {
+    "bytes": 5492,
+    "sha256": "c52668536b9b0114804d29d21e4434ce999dbaa9eabeb97355b81269cf23f3fe"
+  },
+  "GSPLAT_LICENSE.txt": {
+    "bytes": 11345,
+    "sha256": "96a4f89293c0df19880da9b0e35f67589f5885ea61b224ef16bb2bd599a8a44d"
+  },
+  "prepare_data.py": {
+    "bytes": 1734,
+    "sha256": "932066f732f7140cd611402c012bea9a9384d15afa428b637e87fdee180dc58a"
+  },
+  "analyze_results.py": {
+    "bytes": 15596,
+    "sha256": "b8a96042563df30b0a022a3babe21be26f21b0156c673f2eaa886cf87a342492"
+  },
+  "monitor_memory.py": {
+    "bytes": 1058,
+    "sha256": "b8868ac1e3f1baa843e98b33d1749d7909a362836dc0840c56ef78fcdb72b856"
+  },
+  "benchmark_teacher.py": {
+    "bytes": 3539,
+    "sha256": "7f71f2bfe3304b0b301e2298f93353f3b9cf70bbc071141f2a2bcc2c26e5d4c7"
+  },
+  "make_comparisons.py": {
+    "bytes": 1911,
+    "sha256": "427d0e9c9ade35da98025bc4d1612f73c0e14561fe798c926b6362e427f956f5"
+  },
+  "auxiliary-tests.log": {
+    "bytes": 1425,
+    "sha256": "7e3ebea5d6aca8284db140987c0facc929abf0b1a5492241be36d709f1f425ee"
+  },
+  "analysis/kitchen-visual-early.png": {
+    "bytes": 1805482,
+    "sha256": "69342dd4d803d74c299d0072ff6545b6ea787a496f9efc20920db62448c7ff81"
+  },
+  "analysis/tum-desk-factorial.png": {
+    "bytes": 92760,
+    "sha256": "5e7fd8f10f12dc96f44306d4c0967859be068604f95550d4ef093861d12a35d6"
+  },
+  "analysis/contrasts.json": {
+    "bytes": 85950,
+    "sha256": "358bc60f6e0d9617efb3275daf7e1e734c7957e29547e6fea587dd71d8e887ac"
+  },
+  "analysis/audit.json": {
+    "bytes": 6900,
+    "sha256": "6c6c53c7337c0e0d02228a3f371d78cdab6956b43bd09290ccd8fd78d540d2c5"
+  },
+  "analysis/runs.csv": {
+    "bytes": 11678,
+    "sha256": "cc4917a12d2d1d7f32633a3fcc98d70b6eb7620706a13ad66c3122ec32c07be1"
+  },
+  "analysis/contrasts.csv": {
+    "bytes": 40777,
+    "sha256": "b78a96ac852a35e525ff0beb922e2137d09bf116b7bbd688a526140f921edf1b"
+  },
+  "analysis/kitchen-factorial.png": {
+    "bytes": 87620,
+    "sha256": "4c6083b4912cc648fc9393a5d634cdb49c04f765f544dde57afddf62bec2a092"
+  },
+  "analysis/summary.json": {
+    "bytes": 34877,
+    "sha256": "f610e777e4e41240383a2ec8325598f6fb29a91cae5f1927d4550fac27891e0d"
+  },
+  "analysis/stages.csv": {
+    "bytes": 73344,
+    "sha256": "476e6e8ebbafd09dfee6fec357aeeeaf7a32efc94d4739324a0949c33fe7901c"
+  },
+  "analysis/tum-desk-visual-late.png": {
+    "bytes": 1745297,
+    "sha256": "a51a0d5d6e5528c6427165c063bf5232ab8c9d88974d69db87d78deb48259d8f"
+  },
+  "analysis/tum-desk-stages.png": {
+    "bytes": 230202,
+    "sha256": "4b05bc3caee5f047c2e142ad26f8604089b6fe9d4fc3a7a39fb529ff03292643"
+  },
+  "analysis/kitchen-visual-late.png": {
+    "bytes": 1841040,
+    "sha256": "bf01d25299e985996ba85fbaa6e652604d415babbb9c836851484a58ec94cd1c"
+  },
+  "analysis/kitchen-stages.png": {
+    "bytes": 220731,
+    "sha256": "c19ff73dd69bd573512856d9bbbb085464b54ee3198c60fe3938763329c8b0a2"
+  },
+  "analysis/prefix-audit.json": {
+    "bytes": 3716,
+    "sha256": "668a77ef20185e6584c593ef06b7bfcd22537dc07a1990ccb8fa80449696fa43"
+  },
+  "analysis/tum-desk-visual-early.png": {
+    "bytes": 1553996,
+    "sha256": "fa03561beb7b5f899d015a4af1f8c64c6a7a860ab82e9d106f3da8e1883d2fef"
+  },
+  "sglab/tum.py": {
+    "bytes": 3695,
+    "sha256": "782a747f5c1603488d7058a58263f6a25ecac1b626f37523e79f2eb1f7230f36"
+  },
+  "sglab/__init__.py": {
+    "bytes": 65,
+    "sha256": "121654f44d32f1423b855c31f5ea36609284c70727ee3097195f934621b77e34"
+  },
+  "tests/test_analysis.py": {
+    "bytes": 1111,
+    "sha256": "5486d0caa8999637093aec4d623a399da325bd508fedf80545b0c1529c580bab"
+  },
+  "tests/test_evaluation.py": {
+    "bytes": 937,
+    "sha256": "396af7034adaf957bb3ab636667274a87d35030b730f60b32b9688338e728417"
+  },
+  "tests/test_policies.py": {
+    "bytes": 1478,
+    "sha256": "6c0731985a1af0a1a2e00bbf5037c9fec17ac6c5049948cddf44fabea7028bc1"
+  },
+  "tests/test_causality.py": {
+    "bytes": 2041,
+    "sha256": "6fa9006454d7345281a663844787635be3982c5c857f40b510f540c84b4d0cf7"
+  },
+  "hglab/hierarchy.py": {
+    "bytes": 3661,
+    "sha256": "374deae0a0ca39c873832321e05fbb91a423952e06f4add852d5c2c005a46a8e"
+  },
+  "hglab/base_train.py": {
+    "bytes": 12027,
+    "sha256": "29cad6c9ef65ba1b5a7ad453bc1fa64d622b7fb628f25405df47d42d433dfcde"
+  },
+  "hglab/evaluation.py": {
+    "bytes": 5649,
+    "sha256": "d7fc00896ccaf99a8ee3932cf9089f6a0b1f23809a66316e86fd234972f9d3cc"
+  },
+  "hglab/colmap.py": {
+    "bytes": 4107,
+    "sha256": "543d61e060014ec8334492c1136f2f8335b85ceb482c5b55b268946ce399bd15"
+  },
+  "hglab/gpu_smoke.py": {
+    "bytes": 1754,
+    "sha256": "95b4e431a5e98bb35cf2eac0057949dd2350e81581283e8e7a02ab191e7a218e"
+  },
+  "hglab/__init__.py": {
+    "bytes": 82,
+    "sha256": "c2488d76725804a5d09b9b31f76bb02ad25a3f77ec6fc7dacf0356792cd01b57"
+  },
+  "hglab/incremental.py": {
+    "bytes": 14624,
+    "sha256": "01fbc57998115558bc88c32ec65045efd1042a3c2d603c2f977f910ee2a54513"
+  },
+  "hglab/policies.py": {
+    "bytes": 3525,
+    "sha256": "475b447f56b067f93af746ae9201470e3eff4a45ad0d906e23606832afae9ba6"
+  },
+  "hglab/teachers.py": {
+    "bytes": 5300,
+    "sha256": "07c588c2e4673643e3ccff4edcec87bfefa45e0974f72fbdb9e2b246b7eb1630"
+  },
+  "hglab/online_semantics.py": {
+    "bytes": 8134,
+    "sha256": "5bc491446cfdde56418c5ffb546b2f7ede747c4ed265f15e0089a31fe2b42f35"
+  },
+  "hglab/readers.py": {
+    "bytes": 3160,
+    "sha256": "3e4941cdb402322d408458cf06ec2e58b281105fad821d78aabc1ff5c7340bd1"
+  },
+  "results/tum-desk/111/seed-17/run.json": {
+    "bytes": 983,
+    "sha256": "e6fef0cb4c417d6f9f845dbcffe4badfccedf8920f9a59eeff73e32343c94f53"
+  },
+  "results/tum-desk/111/seed-17/semantic-quality-5.json": {
+    "bytes": 4475,
+    "sha256": "807bf24404dab91833d07478edd850b4efe06a5b062f8aea7ed5bf27c1856b9f"
+  },
+  "results/tum-desk/111/seed-17/semantic-quality-6.json": {
+    "bytes": 5042,
+    "sha256": "a2072780afdfd33cca5cfb33b1412541d8b38f1ca35ec7fa053d3b8722d2a045"
+  },
+  "results/tum-desk/111/seed-17/semantic-quality-2.json": {
+    "bytes": 2104,
+    "sha256": "800b15e3c8f476c4ff6f1979029ffa28f652d27ca50d3da0222be934414659da"
+  },
+  "results/tum-desk/111/seed-17/rgb-quality-2.json": {
+    "bytes": 621,
+    "sha256": "b9f29e83a8e0ea088fbe701754a8c86da507c4e790196475f200d9bd28999b1a"
+  },
+  "results/tum-desk/111/seed-17/rgb-quality-4.json": {
+    "bytes": 1148,
+    "sha256": "3bc4daada00b4c688c13e92eefb490d4ec99f777970d18a8428af980479cf96a"
+  },
+  "results/tum-desk/111/seed-17/sampling-audit.json": {
+    "bytes": 2797,
+    "sha256": "e64dd352082689cd5f76d280a5be0eaa9a1e039141c7e53d1110135dc3770662"
+  },
+  "results/tum-desk/111/seed-17/density-events.json": {
+    "bytes": 5701,
+    "sha256": "66d2e1860ac1230f119210e516db4e0a83175d04d94b5d4cfa2a55f791feeaa9"
+  },
+  "results/tum-desk/111/seed-17/metrics.json": {
+    "bytes": 7671,
+    "sha256": "a1d1aa31d88058d696f7d187529f93d4d3890bc8c59bd035d2eb5f22a1ae065c"
+  },
+  "results/tum-desk/111/seed-17/process-wall.json": {
+    "bytes": 29,
+    "sha256": "9b303b732619e657aa4d40fbb380653030e62690dad54ce04c23ab78409c53d4"
+  },
+  "results/tum-desk/111/seed-17/rgb-quality-5.json": {
+    "bytes": 1410,
+    "sha256": "f086c504d0ba17b8fb0be17a9f751883d81ca2d290ada9a18783e40e2d197ef6"
+  },
+  "results/tum-desk/111/seed-17/semantic-quality-4.json": {
+    "bytes": 3539,
+    "sha256": "fcd5e9664b20c5992af2f5e4bea333aa6ba0632e123f50e1cdd6cd0c2940e0c4"
+  },
+  "results/tum-desk/111/seed-17/semantic-quality-3.json": {
+    "bytes": 2756,
+    "sha256": "e506d40dc2da1e895813bcdaf9e5b707bc03a1621fe584623e5c0a0d4d28bbb7"
+  },
+  "results/tum-desk/111/seed-17/rgb-quality-3.json": {
+    "bytes": 882,
+    "sha256": "06ddf62de48659ed7f53efc3cf52bd8609761bd932b19eb85184794e4a389601"
+  },
+  "results/tum-desk/111/seed-17/rgb-quality-6.json": {
+    "bytes": 1773,
+    "sha256": "5a2dfd35f7191c86e7f3764444e68e9041e06bee4b1110e1893b8de2fac78576"
+  },
+  "results/tum-desk/111/seed-17/train.log": {
+    "bytes": 6174,
+    "sha256": "891946ba864cd5053915d7371d2df03ace834d1e9223c47057aab08c7de659c0"
+  },
+  "results/tum-desk/111/seed-17/rgb-quality-1.json": {
+    "bytes": 265,
+    "sha256": "b3c44319f7b7c220870e5f923e1f3b9683069480645e6e90c3a0bda89148d481"
+  },
+  "results/tum-desk/111/seed-17/semantic-quality-1.json": {
+    "bytes": 692,
+    "sha256": "670c2a79688c755ac00aad78254ac6b21616eb3846661d96af9b21e3081b1fc0"
+  },
+  "results/tum-desk/111/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "226062dab697a821a11f5f7638d9a72baf7e5819799f88b7dcb659e6b0142aa6"
+  },
+  "results/tum-desk/111/seed-7/map.npz": {
+    "bytes": 22210958,
+    "sha256": "938984322e7c4471164c648c02a72a1955c47eb4e9e0c261d670ddc828a1833a"
+  },
+  "results/tum-desk/111/seed-7/semantic-quality-5.json": {
+    "bytes": 4475,
+    "sha256": "191058addc2c7ac7e09caf3e25e7950f4e6682d236bc64482a25c4b8628e18da"
+  },
+  "results/tum-desk/111/seed-7/view-1-0003.jpg": {
+    "bytes": 49822,
+    "sha256": "3f0719f3836b63ce71216041c83a63e657731537d6752719c37c64c32015a7fc"
+  },
+  "results/tum-desk/111/seed-7/semantic-quality-6.json": {
+    "bytes": 5017,
+    "sha256": "8374d447845dc99c3d7bdae9dba6f1897ffec4e53d0b6ba202bed0d3e556a629"
+  },
+  "results/tum-desk/111/seed-7/view-6-0003.jpg": {
+    "bytes": 54832,
+    "sha256": "d3a2b6c4083e80446a210976845879c7b58365cf719e523134fa1d670dddecb5"
+  },
+  "results/tum-desk/111/seed-7/semantic-quality-2.json": {
+    "bytes": 2095,
+    "sha256": "50904c25b047db543ed84500fe119ab8a1ca71923af022ec73b760a7102d107e"
+  },
+  "results/tum-desk/111/seed-7/rgb-quality-2.json": {
+    "bytes": 620,
+    "sha256": "d676c3cd6d7aa844138892d836e37cb86123e5de345381b713a76617ed558523"
+  },
+  "results/tum-desk/111/seed-7/rgb-quality-4.json": {
+    "bytes": 1153,
+    "sha256": "4fd48a1ea9a1dae003819291d86ca3784d3d40050fa6197f5e29f9c115f6fed0"
+  },
+  "results/tum-desk/111/seed-7/semantic-6-0057.jpg": {
+    "bytes": 30765,
+    "sha256": "dc235ba70afd87c1adf184fb507f1b9c69c30eddf2ce8a4ab9a09db695b89d1d"
+  },
+  "results/tum-desk/111/seed-7/semantic-ids.npy": {
+    "bytes": 2391944,
+    "sha256": "2289cc64e66433729e95d5ba85da6893e9c949e8d61dd47b44f96c74b2f28ca9"
+  },
+  "results/tum-desk/111/seed-7/sampling-audit.json": {
+    "bytes": 2802,
+    "sha256": "f3724f5d9db0a51ef49958b01b138df36f97c4a13dfa2cf15070eedbfcad4c6c"
+  },
+  "results/tum-desk/111/seed-7/semantic-6-0021.jpg": {
+    "bytes": 61107,
+    "sha256": "eb93043e263508d1ce017ad4c1a53fe27f0237f42d68eee865d656c24164eaad"
+  },
+  "results/tum-desk/111/seed-7/semantic-1-0003.jpg": {
+    "bytes": 31433,
+    "sha256": "5ee87c387c55f3ea8e608953a36810544f37df74e3842f2655244964aaab599c"
+  },
+  "results/tum-desk/111/seed-7/checkpoint.pt": {
+    "bytes": 50286968,
+    "sha256": "ae6376a66fc93e7c381fb7ed8a3397c36b9778f71cecf6483be9ae628c1e1d80"
+  },
+  "results/tum-desk/111/seed-7/density-events.json": {
+    "bytes": 5700,
+    "sha256": "ce668590c57c2fe2f75beb6e37a825aa09c79880294c27cfb57d075342d47515"
+  },
+  "results/tum-desk/111/seed-7/metrics.json": {
+    "bytes": 7681,
+    "sha256": "91330381a7423e8ea27cc7384692851d869d8867e790991bdf5aabffc94498db"
+  },
+  "results/tum-desk/111/seed-7/semantic-6-0003.jpg": {
+    "bytes": 44780,
+    "sha256": "57d3c864b751ba218a906838967570fc97cbcc77789248552b5489884cf9689d"
+  },
+  "results/tum-desk/111/seed-7/semantic-6-0075.jpg": {
+    "bytes": 56987,
+    "sha256": "0b758a8b0e6f30c5247dd7706759c6175c59418938cf2bbde21c93ee24417538"
+  },
+  "results/tum-desk/111/seed-7/process-wall.json": {
+    "bytes": 30,
+    "sha256": "d97c14cff7b5d8641f9bb5bfd748a6f936cb53d388af9e316deb4ff1bb47dc0d"
+  },
+  "results/tum-desk/111/seed-7/rgb-quality-5.json": {
+    "bytes": 1414,
+    "sha256": "e77d94ac776e116036fd27c20c0bf6084dc2d95e239e7476c3c1644f3ca96fc6"
+  },
+  "results/tum-desk/111/seed-7/semantic-6-0039.jpg": {
+    "bytes": 50012,
+    "sha256": "a4c1811e7434123619318a9feb1d343e6a74a27f855dc3588644490725e63c62"
+  },
+  "results/tum-desk/111/seed-7/semantic-6-0093.jpg": {
+    "bytes": 51654,
+    "sha256": "9def405e7380cd3d91547fea16e3a4ae6bef856e8681db7d7f4095c291896175"
+  },
+  "results/tum-desk/111/seed-7/semantic-quality-4.json": {
+    "bytes": 3548,
+    "sha256": "ce05d95102765688f2d913ea6f46d46ef804b8126518db2736bed7e8e30dafe0"
+  },
+  "results/tum-desk/111/seed-7/view-6-0075.jpg": {
+    "bytes": 74709,
+    "sha256": "8ba79d6ea3c22c436d34a94f1b98a9380fff2233a00b81959f8cf5b7c572c8ad"
+  },
+  "results/tum-desk/111/seed-7/view-6-0021.jpg": {
+    "bytes": 79678,
+    "sha256": "f5e44b640a4a1ec56652b4103f8ad12f05ac84f4f9059ada7f9f74148dd1f999"
+  },
+  "results/tum-desk/111/seed-7/semantic-quality-3.json": {
+    "bytes": 2745,
+    "sha256": "56792d681cec28b4352263b3f33b0aa0196a5336114fb7d948e3d551e8ebcd8d"
+  },
+  "results/tum-desk/111/seed-7/rgb-quality-3.json": {
+    "bytes": 888,
+    "sha256": "ad931b48a1e7d6b268bc86b76fe4c720e09b70596f50430066aeb0a8baaf6619"
+  },
+  "results/tum-desk/111/seed-7/semantic-6-0111.jpg": {
+    "bytes": 52477,
+    "sha256": "9f7b7790ab8dd091981cb8cc4eb014e92bcd3624e40a918a830a8474e243540a"
+  },
+  "results/tum-desk/111/seed-7/view-6-0111.jpg": {
+    "bytes": 67438,
+    "sha256": "894b592d1a7af7c8f558b3517b41e0f9d6883603c9958147007b0828849a7038"
+  },
+  "results/tum-desk/111/seed-7/view-6-0057.jpg": {
+    "bytes": 48621,
+    "sha256": "15ec0ca3b247d6592fb1a9418e37b208e73479c0b50fef8c7b9eabbfce1649bf"
+  },
+  "results/tum-desk/111/seed-7/rgb-quality-6.json": {
+    "bytes": 1775,
+    "sha256": "18ee26e95954b4b6a40a88e5b73c2268ee4cbfc5a5994e5884c3dedd0e10eb2b"
+  },
+  "results/tum-desk/111/seed-7/view-6-0093.jpg": {
+    "bytes": 70230,
+    "sha256": "cce8bfb21afec26976b7015877e2815e71e90bab084028afab6f4b45a62a1399"
+  },
+  "results/tum-desk/111/seed-7/train.log": {
+    "bytes": 6157,
+    "sha256": "c768ed8902e9a18b3c96707a1874c855d09a9a12bef67d95e48e53ce0cf70286"
+  },
+  "results/tum-desk/111/seed-7/view-6-0039.jpg": {
+    "bytes": 66637,
+    "sha256": "9d46cb17fb5c3f7fcbb8478ad500d53f09c3993bcb49790138812b27363ceaf3"
+  },
+  "results/tum-desk/111/seed-7/rgb-quality-1.json": {
+    "bytes": 265,
+    "sha256": "3dcd3db61f3caaf1851b399b0a9e5f08007c4c59992f60c564b6103308662460"
+  },
+  "results/tum-desk/111/seed-7/semantic-quality-1.json": {
+    "bytes": 677,
+    "sha256": "77d7d303e28f7e422b8301ce993a18c2e98a92fc4d80beffc68d6050460e696b"
+  },
+  "results/tum-desk/000/seed-27/semantic-quality-2.json": {
+    "bytes": 2079,
+    "sha256": "faf5eb6b167407a0437ace7cde8f2700a18b92faa3e5f9104293fb1dd1891909"
+  },
+  "results/tum-desk/000/seed-27/rgb-quality-2.json": {
+    "bytes": 617,
+    "sha256": "cfa7e641d4716a7c9f02c11873168f8e0d73afc65234c5c3523affd0c3564f73"
+  },
+  "results/tum-desk/000/seed-27/metrics.json": {
+    "bytes": 2065,
+    "sha256": "393d2681a712bb33b612d2473358495c8e5c1fc9458e7f1013833fb78d8123a7"
+  },
+  "results/tum-desk/000/seed-27/train.log": {
+    "bytes": 2216,
+    "sha256": "75b42dc26551285e5a06355de3fce64b3ebd8b22346f531f93add7d7b19949bc"
+  },
+  "results/tum-desk/000/seed-27/rgb-quality-1.json": {
+    "bytes": 267,
+    "sha256": "fc7eb3042d56d45edd4c064407e11047628a5b65052890c7b276b78f359a08c4"
+  },
+  "results/tum-desk/000/seed-27/semantic-quality-1.json": {
+    "bytes": 691,
+    "sha256": "31157d9177179afd1b2544179e8def21f73be0b115c888aa4ffbc0103d024171"
+  },
+  "results/tum-desk/000/seed-17/run.json": {
+    "bytes": 983,
+    "sha256": "60f1b846bb78e6a8450539ac030327f4aaacc61fa9fe031134df991731c7e74e"
+  },
+  "results/tum-desk/000/seed-17/semantic-quality-5.json": {
+    "bytes": 4476,
+    "sha256": "69f4a11bb771e8914eb3b79cccf5cb198e5f9043644de33ffa1e2116ba3a5a99"
+  },
+  "results/tum-desk/000/seed-17/semantic-quality-6.json": {
+    "bytes": 5008,
+    "sha256": "b4ddbb21d3d709e7efe69849189fdfddecc1d7e2532d0f5e176e11b1d663c743"
+  },
+  "results/tum-desk/000/seed-17/semantic-quality-2.json": {
+    "bytes": 2104,
+    "sha256": "ad8d0d168e0f0af91535bf97ee8440496d46bf715d19cc52670fc688ad612b4f"
+  },
+  "results/tum-desk/000/seed-17/rgb-quality-2.json": {
+    "bytes": 618,
+    "sha256": "20cc5f24925a6df087bdf2bd8167945e5a8174268ac9fba50a379429723ff05c"
+  },
+  "results/tum-desk/000/seed-17/rgb-quality-4.json": {
+    "bytes": 1146,
+    "sha256": "e70e370a5ade9c23cb99457b396242d72ac61ad16a3672ee4cf090518c35e9b9"
+  },
+  "results/tum-desk/000/seed-17/sampling-audit.json": {
+    "bytes": 2805,
+    "sha256": "e3d081dce75fd9da70b3d68811a584f1e43d19c5a49906c30cf81d0b6c9526c6"
+  },
+  "results/tum-desk/000/seed-17/density-events.json": {
+    "bytes": 5637,
+    "sha256": "fff34b81ded03ef94bbfa22c2d280dbeb105b34bda8c1ef45757bd7322192502"
+  },
+  "results/tum-desk/000/seed-17/metrics.json": {
+    "bytes": 7660,
+    "sha256": "8a564973b485d464185bfaca1cb2eef915de80de230ef9baff4fc3fd05e0e6c5"
+  },
+  "results/tum-desk/000/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "e747bbce0e337e9084dab07a095dfda12c4a2cfe3d68129c77e099ad5412e9f4"
+  },
+  "results/tum-desk/000/seed-17/rgb-quality-5.json": {
+    "bytes": 1414,
+    "sha256": "e61171814d79986eebe171c64724e03291201bc86975db3822017263b421a083"
+  },
+  "results/tum-desk/000/seed-17/semantic-quality-4.json": {
+    "bytes": 3577,
+    "sha256": "1474624357b90c3e828ea6de91982bc386780f5ef56007866866d5031617539e"
+  },
+  "results/tum-desk/000/seed-17/semantic-quality-3.json": {
+    "bytes": 2765,
+    "sha256": "250c42eca1e67d7236b38c65457805fe9f8303423abc54e56045e05303f9a979"
+  },
+  "results/tum-desk/000/seed-17/rgb-quality-3.json": {
+    "bytes": 886,
+    "sha256": "e0980b50b9e426698a74babfac322f159c70f057f2dc37af110b0b362fd32d21"
+  },
+  "results/tum-desk/000/seed-17/rgb-quality-6.json": {
+    "bytes": 1770,
+    "sha256": "aa6b85046a1fb5f239c1b42499818151621ba0ede6aba76778831541356d0d7b"
+  },
+  "results/tum-desk/000/seed-17/train.log": {
+    "bytes": 6170,
+    "sha256": "22214644e220cccfbaff353aa2887299bf7594314c08919650e986bfb7d8ef9e"
+  },
+  "results/tum-desk/000/seed-17/rgb-quality-1.json": {
+    "bytes": 267,
+    "sha256": "9c339356065a15afc186987a20d80257db9ada403e2c0ae1c37eb87d23a131e0"
+  },
+  "results/tum-desk/000/seed-17/semantic-quality-1.json": {
+    "bytes": 692,
+    "sha256": "6c44bfcb43d91b80d036f2d1ed47ef93d45c8e89864ead2130d9828f09f3b4da"
+  },
+  "results/tum-desk/000/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "73ca55081ab0c260d43ade2e79461fca39c9ac161058d83b53f8a58fc59fdefe"
+  },
+  "results/tum-desk/000/seed-7/map.npz": {
+    "bytes": 22192024,
+    "sha256": "c94e7c964691bbc21cda279660aa699ec5d81fd0cd8acaf8a36221155f89ebff"
+  },
+  "results/tum-desk/000/seed-7/semantic-quality-5.json": {
+    "bytes": 4503,
+    "sha256": "0247f77b7b21f43d407434f9e71fbbe647fffb728ad0f00f37ee8d987afa4548"
+  },
+  "results/tum-desk/000/seed-7/view-1-0003.jpg": {
+    "bytes": 50451,
+    "sha256": "8161d90c4b69d9c0922baefc22e905194237b39f6cf4ecd1682a190904cc5ad2"
+  },
+  "results/tum-desk/000/seed-7/semantic-quality-6.json": {
+    "bytes": 5028,
+    "sha256": "3c7857a720bf82f773d0e9c415e91fbe852e39920aa0eb46e164318f2f12e45b"
+  },
+  "results/tum-desk/000/seed-7/view-6-0003.jpg": {
+    "bytes": 54828,
+    "sha256": "1244822cffa8c4d54766758f504f9e467ffa7abdd05a64d55a0d83764d7c8d73"
+  },
+  "results/tum-desk/000/seed-7/semantic-quality-2.json": {
+    "bytes": 2099,
+    "sha256": "9b0d17aaf9c6ec3d19a05139e8b5ad9f07272113da70c0c9252f2f0edebf8d31"
+  },
+  "results/tum-desk/000/seed-7/rgb-quality-2.json": {
+    "bytes": 615,
+    "sha256": "affb4e29995a5a64fe04ac92069f54beb1c591b42900a6444d17e56eac7792d5"
+  },
+  "results/tum-desk/000/seed-7/rgb-quality-4.json": {
+    "bytes": 1152,
+    "sha256": "073a6ae131f1af49414e6dab8aa5d54753f230c9f3bd55f1faa781c95b6bd579"
+  },
+  "results/tum-desk/000/seed-7/semantic-6-0057.jpg": {
+    "bytes": 31123,
+    "sha256": "4a8c07f363ed1bba7e35c87a5f18312562bb44d8207c625e560324d05b971191"
+  },
+  "results/tum-desk/000/seed-7/semantic-ids.npy": {
+    "bytes": 2394304,
+    "sha256": "6847b0e9ea4d658034fc7a8e4f12a09a605b66a2d738db5221c9d2299f8b3c3b"
+  },
+  "results/tum-desk/000/seed-7/sampling-audit.json": {
+    "bytes": 2808,
+    "sha256": "298a6d4a0a2bfe258196dc5566763757a93127b10d0fd624a7ea58d8c7108766"
+  },
+  "results/tum-desk/000/seed-7/semantic-6-0021.jpg": {
+    "bytes": 58009,
+    "sha256": "1eca7db215563d60c7ca61efbde5938e61efcac2d11bc1d27fc536256f0d6853"
+  },
+  "results/tum-desk/000/seed-7/semantic-1-0003.jpg": {
+    "bytes": 32379,
+    "sha256": "796e444386571ae0a488043085b4863814c983c33498cbd77332d27012f3949f"
+  },
+  "results/tum-desk/000/seed-7/checkpoint.pt": {
+    "bytes": 50323256,
+    "sha256": "fe33aac0acd10b597b3d01a187dfbd0b613e681194539cf2df1108ab8e30dc6d"
+  },
+  "results/tum-desk/000/seed-7/density-events.json": {
+    "bytes": 5632,
+    "sha256": "9c76cd2b397b278e75d8d9015eea2fe2eb4107894d3b16478a5f30041f38b3bf"
+  },
+  "results/tum-desk/000/seed-7/metrics.json": {
+    "bytes": 7670,
+    "sha256": "558a65708d5be21ebb447f761f684807369a0ca20f2e3c2d99b4986f2cb89344"
+  },
+  "results/tum-desk/000/seed-7/semantic-6-0003.jpg": {
+    "bytes": 44969,
+    "sha256": "6928fa9bf0727b9f70f13cef965f21807d15da54d25e76879db3a69570920dea"
+  },
+  "results/tum-desk/000/seed-7/semantic-6-0075.jpg": {
+    "bytes": 56097,
+    "sha256": "45b7e9a848da2a3a02364f48c813b9866920e78d1c7756d731fb53d7c001aab9"
+  },
+  "results/tum-desk/000/seed-7/process-wall.json": {
+    "bytes": 30,
+    "sha256": "432599efee6c648d35a272d3d8fddb8547183cabb4f21611a4af01334059bde0"
+  },
+  "results/tum-desk/000/seed-7/rgb-quality-5.json": {
+    "bytes": 1416,
+    "sha256": "bd2e64e5aa3992adcd1b21836124422ecc5f29d340b3e8ca095faf071e4d516f"
+  },
+  "results/tum-desk/000/seed-7/semantic-6-0039.jpg": {
+    "bytes": 50569,
+    "sha256": "73cb41a8d7f16dae699c561925a7a19b5b2f3f70f449b72e9f91457cb34bd088"
+  },
+  "results/tum-desk/000/seed-7/semantic-6-0093.jpg": {
+    "bytes": 51509,
+    "sha256": "c723875b527a8c67d58688a4772343495b5eba9ce6c2b015009a458a379d1689"
+  },
+  "results/tum-desk/000/seed-7/semantic-quality-4.json": {
+    "bytes": 3567,
+    "sha256": "5bceff9eef2ba076911391960d188fe9d53b00a6db18753f29913ff3b54e4028"
+  },
+  "results/tum-desk/000/seed-7/view-6-0075.jpg": {
+    "bytes": 74526,
+    "sha256": "5fe1e60b09aea44927c5dbe34f0517b013aefc9d3d22d33a371a490a88c1f568"
+  },
+  "results/tum-desk/000/seed-7/view-6-0021.jpg": {
+    "bytes": 79515,
+    "sha256": "bd50c1899a6ff3e30df7c9d86d725fdd0c5c79b6a377baf79a5bf738d5ba585d"
+  },
+  "results/tum-desk/000/seed-7/semantic-quality-3.json": {
+    "bytes": 2759,
+    "sha256": "86f84f36a8558f1ec4cf5b73bce12777ca2999a12fb211f8e59ea5da5608d565"
+  },
+  "results/tum-desk/000/seed-7/rgb-quality-3.json": {
+    "bytes": 884,
+    "sha256": "48c391ba6d4ac1030bb214d6e38a7d58b1021fb75a2a67c38646df37f667985f"
+  },
+  "results/tum-desk/000/seed-7/semantic-6-0111.jpg": {
+    "bytes": 49505,
+    "sha256": "c7fcf3ff296ded7400a23637f9314f14f503ec9e4346ddefc897399df4af63ee"
+  },
+  "results/tum-desk/000/seed-7/view-6-0111.jpg": {
+    "bytes": 67620,
+    "sha256": "f9195290bee9123861cac85d1558fc8893f7f2f91c30c03be300a541673ccc98"
+  },
+  "results/tum-desk/000/seed-7/view-6-0057.jpg": {
+    "bytes": 48696,
+    "sha256": "bc73cb3be101290723101683b8723ec14cfbb04bbf608d20bf73c9e312b0f505"
+  },
+  "results/tum-desk/000/seed-7/rgb-quality-6.json": {
+    "bytes": 1770,
+    "sha256": "c167ddc4be3fef3599c5ec597926e0348679f4bb0e0cac101fa9824c22ac881b"
+  },
+  "results/tum-desk/000/seed-7/view-6-0093.jpg": {
+    "bytes": 69211,
+    "sha256": "a2d6918363de222469516b86cceb68a85a1a910ae5eb5407c47880b23b8311fc"
+  },
+  "results/tum-desk/000/seed-7/train.log": {
+    "bytes": 6151,
+    "sha256": "ed0b211c1970f83c45d822772495c399b49064baed858dbede996d0b6e8c99d3"
+  },
+  "results/tum-desk/000/seed-7/view-6-0039.jpg": {
+    "bytes": 67284,
+    "sha256": "66324465e8786cbb78d8aae55aba5bcc8457ac403be24a40eb1dc62259d3e346"
+  },
+  "results/tum-desk/000/seed-7/rgb-quality-1.json": {
+    "bytes": 266,
+    "sha256": "7e92bcce5e508dc6e1dd31a871c71411e7bffd011404b7eaac3abe3d4b1f3b88"
+  },
+  "results/tum-desk/000/seed-7/semantic-quality-1.json": {
+    "bytes": 692,
+    "sha256": "453e05fa10290fcc9aa5e140113c71273feca73ca82e34f2962ab7c11498f663"
+  },
+  "results/tum-desk/011/seed-17/run.json": {
+    "bytes": 982,
+    "sha256": "71acf07028c2e8acdde8b9ccbf1d2a0328daed7d30447bf45046f337f9119002"
+  },
+  "results/tum-desk/011/seed-17/semantic-quality-5.json": {
+    "bytes": 4432,
+    "sha256": "cd1a686634ffadeda201830e0779deceac648cacb1229e5bf77a7c7d0c16f480"
+  },
+  "results/tum-desk/011/seed-17/semantic-quality-6.json": {
+    "bytes": 4964,
+    "sha256": "4fda6ce317d514023d6bed409261091abcc89f123beb34e2232b5f5e60beb501"
+  },
+  "results/tum-desk/011/seed-17/semantic-quality-2.json": {
+    "bytes": 2052,
+    "sha256": "d059176b1105aeb35dc62baf07291beb7e33dc7bfb7e26b3454a92b3bee28d8f"
+  },
+  "results/tum-desk/011/seed-17/rgb-quality-2.json": {
+    "bytes": 622,
+    "sha256": "7f6f8b106310f48addcfffd4c8cb70fc317cfc8b2ca579aead705677882d1cda"
+  },
+  "results/tum-desk/011/seed-17/rgb-quality-4.json": {
+    "bytes": 1146,
+    "sha256": "b94231adbb42b6a22109b49428c8aacff1ad8da5a6017ee01b2afda0d37e8b56"
+  },
+  "results/tum-desk/011/seed-17/sampling-audit.json": {
+    "bytes": 2804,
+    "sha256": "37db2928364bbbdc42a2110c33e121324de0e977140d70bc768f2efd052a191e"
+  },
+  "results/tum-desk/011/seed-17/density-events.json": {
+    "bytes": 5699,
+    "sha256": "cb0ede3f7bc8a9365aab8cde4f241a1a0dc83170e09490fc07f27db9750ce074"
+  },
+  "results/tum-desk/011/seed-17/metrics.json": {
+    "bytes": 7657,
+    "sha256": "877ab2bc8c0435299a17c5524f54c7ded76d28fd6cb1227d9db1a2427d54f470"
+  },
+  "results/tum-desk/011/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "8ace2e0dae31c656f98c30770f606799819b71e78d902cb4234a92eb9dfa998a"
+  },
+  "results/tum-desk/011/seed-17/rgb-quality-5.json": {
+    "bytes": 1416,
+    "sha256": "fcb83e822e72ab8f9fd119219b917cc058ada886e28c89353872c4d16e0cbec8"
+  },
+  "results/tum-desk/011/seed-17/semantic-quality-4.json": {
+    "bytes": 3579,
+    "sha256": "08a1c758410f5814204bcac18aeb48562ef91549a1490d4719a175b9cc57ecb3"
+  },
+  "results/tum-desk/011/seed-17/semantic-quality-3.json": {
+    "bytes": 2748,
+    "sha256": "59f1afa2533d316cd06c1f8952500172e214f6d3399746a30eaf6d8bb93a6c69"
+  },
+  "results/tum-desk/011/seed-17/rgb-quality-3.json": {
+    "bytes": 885,
+    "sha256": "2ce82e6a8a0171ec96d9781c312880db7264a4e81652c1fcb9258db6f16c61d9"
+  },
+  "results/tum-desk/011/seed-17/rgb-quality-6.json": {
+    "bytes": 1772,
+    "sha256": "4db66d21b4350a4e5796b65a63ef94f51c65c35455c3522a30f1bdd9d9099b2d"
+  },
+  "results/tum-desk/011/seed-17/train.log": {
+    "bytes": 6163,
+    "sha256": "a1a7b7f69aa7f6a03a284ff5a4108d89198a43a752506cc141b016ef6c2dd208"
+  },
+  "results/tum-desk/011/seed-17/rgb-quality-1.json": {
+    "bytes": 265,
+    "sha256": "eff87c2e5f06fe6014e8340739f8bde357deaf1c0aa66a058c24d64dcb3c40e3"
+  },
+  "results/tum-desk/011/seed-17/semantic-quality-1.json": {
+    "bytes": 688,
+    "sha256": "4c650db198b14e2568b85cedc03587fb74f63e6d8a14baedfb0925c15ce67499"
+  },
+  "results/tum-desk/011/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "f7756abe30009b914acd549ed6d55c1c68a771a5ceec61fd42d43c1deb0d5b98"
+  },
+  "results/tum-desk/011/seed-7/semantic-quality-5.json": {
+    "bytes": 4467,
+    "sha256": "80ba078f7780930e405357af56abf5764efdc59419d43420cd86f7eac516721b"
+  },
+  "results/tum-desk/011/seed-7/semantic-quality-6.json": {
+    "bytes": 5013,
+    "sha256": "2ad284f256a907148890c3add868b363ad7a84bd3ac1457de1f25e257f065810"
+  },
+  "results/tum-desk/011/seed-7/semantic-quality-2.json": {
+    "bytes": 2076,
+    "sha256": "96aacf3e4643efe00ce2300e3ccc7043d0475a6d2637bd96fb915aafe27e0059"
+  },
+  "results/tum-desk/011/seed-7/rgb-quality-2.json": {
+    "bytes": 620,
+    "sha256": "1457e6241abd73523ac93f7cda2f54973d7ef661c2316589f2da07f691917703"
+  },
+  "results/tum-desk/011/seed-7/rgb-quality-4.json": {
+    "bytes": 1152,
+    "sha256": "3f256b893fbdc454e689268f181fcd82f4f3d3b0f4469548c364db8dfc6a8585"
+  },
+  "results/tum-desk/011/seed-7/sampling-audit.json": {
+    "bytes": 2808,
+    "sha256": "a280edcf1a5fcf66eb3ac7b72b7495cd2bfeeeffa358ffa7f525b00e347a8860"
+  },
+  "results/tum-desk/011/seed-7/density-events.json": {
+    "bytes": 5699,
+    "sha256": "a63242b5bed4694d95cdeba54dcd9577c791948a3e0295cb650769916ac63b83"
+  },
+  "results/tum-desk/011/seed-7/metrics.json": {
+    "bytes": 7668,
+    "sha256": "6c546cf12b16bd7c2b7fc366995b4416361672d8b2e20bc2bc42ef51a9e4a459"
+  },
+  "results/tum-desk/011/seed-7/process-wall.json": {
+    "bytes": 30,
+    "sha256": "5354eafe79bdd447e7fb4425422015e5214830d2ad7d7ca74de82e92c9e1eb41"
+  },
+  "results/tum-desk/011/seed-7/rgb-quality-5.json": {
+    "bytes": 1418,
+    "sha256": "76ae43c2acbd569afed124385c43de65c524aea64580b426bfba6d97d471be30"
+  },
+  "results/tum-desk/011/seed-7/semantic-quality-4.json": {
+    "bytes": 3544,
+    "sha256": "a2c5a65308515f20694022a68bd3126993128ebfd4b46853693318328e5ebaf2"
+  },
+  "results/tum-desk/011/seed-7/semantic-quality-3.json": {
+    "bytes": 2729,
+    "sha256": "805d2831abfb7c586b7d4d2734f4ae1845a9016558dd86ee858717f9ef4cd254"
+  },
+  "results/tum-desk/011/seed-7/rgb-quality-3.json": {
+    "bytes": 889,
+    "sha256": "203f1067cc5673133645fbb7889d34b88e4a93b894befd983bbe5a0624c26863"
+  },
+  "results/tum-desk/011/seed-7/rgb-quality-6.json": {
+    "bytes": 1778,
+    "sha256": "1e7d0d129f01aefa1d29ffe7316ba2949c905fd7a1b5d9e25072bb28e6067a91"
+  },
+  "results/tum-desk/011/seed-7/train.log": {
+    "bytes": 6149,
+    "sha256": "f033f654af8dc97c731f3c8824c6548afdef13934543b7233beb9f5d91a25929"
+  },
+  "results/tum-desk/011/seed-7/rgb-quality-1.json": {
+    "bytes": 266,
+    "sha256": "49e9a797572e94fb112349f7eb964243c161778194f70d6704e2cecc7fbc2bc0"
+  },
+  "results/tum-desk/011/seed-7/semantic-quality-1.json": {
+    "bytes": 691,
+    "sha256": "989c196b561cc6a4b66895a4523525d42978c54257139a78667286c59f57819c"
+  },
+  "results/tum-desk/001/seed-17/run.json": {
+    "bytes": 983,
+    "sha256": "ac489458b27242227b5d19cef6caa026c3aa7e01664a313aab295a2250c7dfe8"
+  },
+  "results/tum-desk/001/seed-17/semantic-quality-5.json": {
+    "bytes": 4474,
+    "sha256": "73243584aed7dc50294b6bd60acb2e5e12ed26911ff086d50b4081828e3e1659"
+  },
+  "results/tum-desk/001/seed-17/semantic-quality-6.json": {
+    "bytes": 5028,
+    "sha256": "0e5b583e9cdde0a8b41d4fe57f59d44e20e3bd71656195c61e66d4c3f302206f"
+  },
+  "results/tum-desk/001/seed-17/semantic-quality-2.json": {
+    "bytes": 2103,
+    "sha256": "8991b674827f6f01bd4d4286036a675d3ce277b63ee87c403ad36c6ea0511848"
+  },
+  "results/tum-desk/001/seed-17/rgb-quality-2.json": {
+    "bytes": 619,
+    "sha256": "3f04468d342da25697ea3f906593be16572635c9f6a15d23acd0ca44739030e9"
+  },
+  "results/tum-desk/001/seed-17/rgb-quality-4.json": {
+    "bytes": 1151,
+    "sha256": "13979b7291ae12ac02c1a51d3e808db6e6ebf753043f913fbf987372cf52d136"
+  },
+  "results/tum-desk/001/seed-17/sampling-audit.json": {
+    "bytes": 2803,
+    "sha256": "d5953b5742c6ed2ca34407fdc918fe69b8e971d840da168bd790e44e7dd2a694"
+  },
+  "results/tum-desk/001/seed-17/density-events.json": {
+    "bytes": 5633,
+    "sha256": "bf869097418a06259e9f95a60315a310447852d9a369d23497d1d09d7932c711"
+  },
+  "results/tum-desk/001/seed-17/metrics.json": {
+    "bytes": 7677,
+    "sha256": "0a9bb27b0ae5a138690eca4754601dcf8a229cccd1727ac2c06d8ae7a3abad0b"
+  },
+  "results/tum-desk/001/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "1bd9e284a478b279a7d7bec88b7eb3519b61f802a3b1f9b2ffb03dab142487cb"
+  },
+  "results/tum-desk/001/seed-17/rgb-quality-5.json": {
+    "bytes": 1416,
+    "sha256": "b0f1f481639b3a854b1298ca513d8ec6eab92eda0fcb4a95067e20381405d2f8"
+  },
+  "results/tum-desk/001/seed-17/semantic-quality-4.json": {
+    "bytes": 3597,
+    "sha256": "c9fcb91f1093d9abe0d685f7f9d4d025bf657dd59d4a226e7681ea15bd26f37a"
+  },
+  "results/tum-desk/001/seed-17/semantic-quality-3.json": {
+    "bytes": 2767,
+    "sha256": "c337156b096f9b87e73bdcecee25fafa8d4b7f49806c9206866a28a68bec7146"
+  },
+  "results/tum-desk/001/seed-17/rgb-quality-3.json": {
+    "bytes": 882,
+    "sha256": "9b739d5be71222ad2f3924f03e9d33377c33de1d40268347938cf3249d031a01"
+  },
+  "results/tum-desk/001/seed-17/rgb-quality-6.json": {
+    "bytes": 1770,
+    "sha256": "3c3980514b3ab1b3c2ffc72e165ddb5c3650644bf93ed1eac33c687438c132a1"
+  },
+  "results/tum-desk/001/seed-17/train.log": {
+    "bytes": 6180,
+    "sha256": "90afa0eb298691719f582aef9c29cde437de854a9374381d3de89500aa3cffeb"
+  },
+  "results/tum-desk/001/seed-17/rgb-quality-1.json": {
+    "bytes": 264,
+    "sha256": "9f0b92bc4182589ddc16b50cc103ef938f5a08248b05be84c74db5286b999eb2"
+  },
+  "results/tum-desk/001/seed-17/semantic-quality-1.json": {
+    "bytes": 685,
+    "sha256": "70dde37f30b164c468bab77074da387358d17af106c63de24f8077320a820ecd"
+  },
+  "results/tum-desk/001/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "1e3a2399e42975fef6f888eeffe3b21abf6f4c3b48dc7a4400bdfaac93384fdc"
+  },
+  "results/tum-desk/001/seed-7/semantic-quality-5.json": {
+    "bytes": 4510,
+    "sha256": "bfd21e081b46d8512f1580520033d3ed43e0cd1ee2b7d4b259320297d9e4d672"
+  },
+  "results/tum-desk/001/seed-7/semantic-quality-6.json": {
+    "bytes": 5011,
+    "sha256": "191d0383075dfc7abfa48aa28cbd17aaa4eb2ec894a86bb53779b187426d3a97"
+  },
+  "results/tum-desk/001/seed-7/semantic-quality-2.json": {
+    "bytes": 2088,
+    "sha256": "89517d052e249139af86c5819fab0a20d8187c997a55d8f630732f366d708e8e"
+  },
+  "results/tum-desk/001/seed-7/rgb-quality-2.json": {
+    "bytes": 619,
+    "sha256": "aea872929c144e2fab41e9963783c1b7a2d8a84ef601b097a4d48e1641cdfa2a"
+  },
+  "results/tum-desk/001/seed-7/rgb-quality-4.json": {
+    "bytes": 1151,
+    "sha256": "df54bd66d07b41a44dec1401bc034f52435906d472ed5f5dfd9acfb4182e1ee7"
+  },
+  "results/tum-desk/001/seed-7/sampling-audit.json": {
+    "bytes": 2807,
+    "sha256": "1bc9ec81f6589b572a25dea42f2825566698b818f6a58bdb48de2b343e057de8"
+  },
+  "results/tum-desk/001/seed-7/density-events.json": {
+    "bytes": 5636,
+    "sha256": "358087dd9280bf5aca2c3db966212291a0e5882557d4a48dd196795e43a1d02c"
+  },
+  "results/tum-desk/001/seed-7/metrics.json": {
+    "bytes": 7677,
+    "sha256": "7c3d7d066736d613a8228f5734214f835000e9b9eb0c60a63dc871512372445b"
+  },
+  "results/tum-desk/001/seed-7/process-wall.json": {
+    "bytes": 30,
+    "sha256": "450ea0d1adacfd1f60b7e2f3408b770b6e500396af64d21a1a578fb903eea372"
+  },
+  "results/tum-desk/001/seed-7/rgb-quality-5.json": {
+    "bytes": 1409,
+    "sha256": "64cdd2bde66fbf9da1ae7346f582d7ec44fd6f36dc9fc5bb74a467b556361f0b"
+  },
+  "results/tum-desk/001/seed-7/semantic-quality-4.json": {
+    "bytes": 3590,
+    "sha256": "d8601bc8fb63e9ad40cdbc3800f11655b4a7567dba3cce45ea7024eec32fc97c"
+  },
+  "results/tum-desk/001/seed-7/semantic-quality-3.json": {
+    "bytes": 2752,
+    "sha256": "e00df4c4e84f063df8013f82c386b3b239ddb3840287bbbb1eab86ca2be2f04b"
+  },
+  "results/tum-desk/001/seed-7/rgb-quality-3.json": {
+    "bytes": 885,
+    "sha256": "4d074a385e8dc7265a004d7f4479f19983b898e81a7dca600ba7bb0a923883ab"
+  },
+  "results/tum-desk/001/seed-7/rgb-quality-6.json": {
+    "bytes": 1775,
+    "sha256": "0e95bad9003d3c81abf1942599e05722291c9e19a2fd3003961d0c408ef753f1"
+  },
+  "results/tum-desk/001/seed-7/train.log": {
+    "bytes": 6161,
+    "sha256": "1b8e31f35064f5f5f72f530d5af32a08f3a382fca1c77c48f872ede4c30eed20"
+  },
+  "results/tum-desk/001/seed-7/rgb-quality-1.json": {
+    "bytes": 265,
+    "sha256": "68973d3d875f87fa645149773150f5d14cbe215917854acdb35444e6fc460f2e"
+  },
+  "results/tum-desk/001/seed-7/semantic-quality-1.json": {
+    "bytes": 686,
+    "sha256": "4e5b2316ede468b3a88ed54d1f434ee5ccb9ced5d419890f5c9eba1f1a1609e6"
+  },
+  "results/tum-desk/101/seed-27/run.json": {
+    "bytes": 983,
+    "sha256": "2548bb4f31af66ad8defa5553b17d8b1caa81fe8cc1f8ad37e0fe20e2779146f"
+  },
+  "results/tum-desk/101/seed-27/semantic-quality-5.json": {
+    "bytes": 4485,
+    "sha256": "feb5954df1a931e2ecdd58ce70fd1cada2ee77434756c432875133c71f55d69e"
+  },
+  "results/tum-desk/101/seed-27/semantic-quality-6.json": {
+    "bytes": 5022,
+    "sha256": "a21d20531d7dbad774a660c2dc7268e9d38fe91dd1fcf54749c62c399b165d65"
+  },
+  "results/tum-desk/101/seed-27/semantic-quality-2.json": {
+    "bytes": 2099,
+    "sha256": "b138a4f7bcf3b89cad542cac30351d041c4a4224fdabd61dedff207d08dbb351"
+  },
+  "results/tum-desk/101/seed-27/rgb-quality-2.json": {
+    "bytes": 619,
+    "sha256": "542be687f26b195862b2f79cb229082de130e7db813feb95c6c093c8a4b305d3"
+  },
+  "results/tum-desk/101/seed-27/rgb-quality-4.json": {
+    "bytes": 1152,
+    "sha256": "8ee8d2511762dc857bf62f0e4e89c17f164333d14a15c1f6eda7f17187ff9d53"
+  },
+  "results/tum-desk/101/seed-27/sampling-audit.json": {
+    "bytes": 3029,
+    "sha256": "440797c64807f52654423c037264d429950cee9e13bd01a492ab6f921f334342"
+  },
+  "results/tum-desk/101/seed-27/density-events.json": {
+    "bytes": 5711,
+    "sha256": "fd831849b9da6a0dfef86c6edd63031c4aeeee257d2efe8171dd555c5e96e235"
+  },
+  "results/tum-desk/101/seed-27/metrics.json": {
+    "bytes": 7654,
+    "sha256": "b8119122d72f0bfd173ade8e18cd7833187ea9fd0a5c0ef167d341f4511098ed"
+  },
+  "results/tum-desk/101/seed-27/process-wall.json": {
+    "bytes": 30,
+    "sha256": "412ca8ecf768181c5e2a6bc08820e96c4c8d4b83063046df3153443116bf27b6"
+  },
+  "results/tum-desk/101/seed-27/rgb-quality-5.json": {
+    "bytes": 1417,
+    "sha256": "12d34893ad34cf9836848daf4eca5f1cf0a19f041d74281c3bdfcbc7f62697eb"
+  },
+  "results/tum-desk/101/seed-27/semantic-quality-4.json": {
+    "bytes": 3555,
+    "sha256": "1d6dc3883f94c40abebf7bce06a0f29c5b90720aa0351961069012a7723c622a"
+  },
+  "results/tum-desk/101/seed-27/semantic-quality-3.json": {
+    "bytes": 2757,
+    "sha256": "fa9ab971d7f75565be4c8921a6a5e203420882d391f7dd1f5146f0b3ec166822"
+  },
+  "results/tum-desk/101/seed-27/rgb-quality-3.json": {
+    "bytes": 881,
+    "sha256": "03bd8ac1a4f17e69a830f6947801cff46b994eb23565115b1984466aebd0b163"
+  },
+  "results/tum-desk/101/seed-27/rgb-quality-6.json": {
+    "bytes": 1773,
+    "sha256": "f9bf5565b2125024630e6cc78e3bbba0ffd4846004868b3a9cbaf3cd4072d03c"
+  },
+  "results/tum-desk/101/seed-27/train.log": {
+    "bytes": 6160,
+    "sha256": "6a2180e9a502f89eded42ac4bff870107d1b68754e7b2508f613d57ac9981e2e"
+  },
+  "results/tum-desk/101/seed-27/rgb-quality-1.json": {
+    "bytes": 265,
+    "sha256": "808500791aaddc1b3f416da6b4b4565a30b86d021899c14561ecdb73de8730df"
+  },
+  "results/tum-desk/101/seed-27/semantic-quality-1.json": {
+    "bytes": 691,
+    "sha256": "83357b0703b601de5010aed9fae3650b8fa1fddbf65f30553fc57a37487427e7"
+  },
+  "results/tum-desk/101/seed-17/run.json": {
+    "bytes": 982,
+    "sha256": "351244e27303d59ba7b03cc7ed20c329d76524e3535bd1fbd2fd8197d377387c"
+  },
+  "results/tum-desk/101/seed-17/semantic-quality-5.json": {
+    "bytes": 4446,
+    "sha256": "d5d54385dfc77a783186236d5c0ed4986a777bd0f9e4e90ceb77ca9e49f8da6c"
+  },
+  "results/tum-desk/101/seed-17/semantic-quality-6.json": {
+    "bytes": 4995,
+    "sha256": "e5969bcea8ca130b0f0841f5a1a8a8d98979dd2490e4de048db6e4b5586d26aa"
+  },
+  "results/tum-desk/101/seed-17/semantic-quality-2.json": {
+    "bytes": 2046,
+    "sha256": "cf3b961e1712e1ac29629a7f5480db95d0d54a7de46dceba15216aa8e484be39"
+  },
+  "results/tum-desk/101/seed-17/rgb-quality-2.json": {
+    "bytes": 619,
+    "sha256": "f4898e1b8159c397cfbf1ed23be2ca60898987ec17ef4959abbc47b494e03f1d"
+  },
+  "results/tum-desk/101/seed-17/rgb-quality-4.json": {
+    "bytes": 1150,
+    "sha256": "1f1433c92cbfd85443c152a176cb8c30adfd53cfc3cd2c2578c5d059ce022372"
+  },
+  "results/tum-desk/101/seed-17/sampling-audit.json": {
+    "bytes": 2799,
+    "sha256": "f586ab40f87b81546ccec1ca5559130deab0cd05e386497848e57f8dce1c6ed8"
+  },
+  "results/tum-desk/101/seed-17/density-events.json": {
+    "bytes": 5710,
+    "sha256": "da4b7249b22f6543d2e66442ec26e56b75d4b4e4594d71805782dadf67c1eaab"
+  },
+  "results/tum-desk/101/seed-17/metrics.json": {
+    "bytes": 7674,
+    "sha256": "21f05bbe4d4ded0af88f52edbd1c2d6dc110b6e6075508eb07c5d1aa4ce6f589"
+  },
+  "results/tum-desk/101/seed-17/process-wall.json": {
+    "bytes": 28,
+    "sha256": "4c6814f9652fa6938d7a5d9e6aaaac98edf249e2eb23e50397ebc9e25291c69e"
+  },
+  "results/tum-desk/101/seed-17/rgb-quality-5.json": {
+    "bytes": 1417,
+    "sha256": "7054d661cf36b072be8e37960abcb707c7c0ea54dbaee8ae107898d5d6632b0b"
+  },
+  "results/tum-desk/101/seed-17/semantic-quality-4.json": {
+    "bytes": 3579,
+    "sha256": "c85b99573ec832f5b07bbc3553dcfffe7382c1161c2b23739c152f094f109542"
+  },
+  "results/tum-desk/101/seed-17/semantic-quality-3.json": {
+    "bytes": 2752,
+    "sha256": "198d612e63171103891ddccec605ca85c054f864bd37c757bd209ba8511a6f0c"
+  },
+  "results/tum-desk/101/seed-17/rgb-quality-3.json": {
+    "bytes": 886,
+    "sha256": "fabc01cd3b3d93d9c62c89678ddfe67f09d6484ac912be86d62126f75ff8b9f5"
+  },
+  "results/tum-desk/101/seed-17/rgb-quality-6.json": {
+    "bytes": 1774,
+    "sha256": "5d7d82becb6d6ea355021cdd37702a7414c3947e97b2ce05867239cc308aa46d"
+  },
+  "results/tum-desk/101/seed-17/train.log": {
+    "bytes": 6180,
+    "sha256": "0d9104b00bf3b9c79158429ecec81940c32075ec47119dbf12001d14494616c7"
+  },
+  "results/tum-desk/101/seed-17/rgb-quality-1.json": {
+    "bytes": 267,
+    "sha256": "50106b88fdcdd25de087ff950d25afb7cd57be0385d00482a3871aa19a10b47e"
+  },
+  "results/tum-desk/101/seed-17/semantic-quality-1.json": {
+    "bytes": 690,
+    "sha256": "adafb0eee1d2346bcd16f58ded55e89955c7a4fa3ca4d2382af56b50a08d1b9b"
+  },
+  "results/tum-desk/101/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "f966cc25d1722704e1879ddffe014d0ed1582783cc12a86c3deadbc118feb42e"
+  },
+  "results/tum-desk/101/seed-7/semantic-quality-5.json": {
+    "bytes": 4465,
+    "sha256": "bfcaa1ccdea72cb49114190523395a942cfc46e80ce20557ea91623cd671ce1a"
+  },
+  "results/tum-desk/101/seed-7/semantic-quality-6.json": {
+    "bytes": 4997,
+    "sha256": "f073e6e6c40b409580ba0fa06fa87471bef467ff04624c4eda824055364c1a3b"
+  },
+  "results/tum-desk/101/seed-7/semantic-quality-2.json": {
+    "bytes": 2083,
+    "sha256": "35b99f3a0f15bf447446ff05d8f2078a08fb71c4d712240af731606d71fe4bdb"
+  },
+  "results/tum-desk/101/seed-7/rgb-quality-2.json": {
+    "bytes": 621,
+    "sha256": "06198ab65bc5254086205b9d4656b142d2acd23ed597b84df8bee2132113fc6e"
+  },
+  "results/tum-desk/101/seed-7/rgb-quality-4.json": {
+    "bytes": 1148,
+    "sha256": "061e546d41cc6b39af7b40a120575f2b230443c186f85c18fd579ae421fb75ae"
+  },
+  "results/tum-desk/101/seed-7/sampling-audit.json": {
+    "bytes": 2801,
+    "sha256": "ee08c46d482fd76a8693b22e67ab9b7784a2cf7feaf7704c85650b29527283e5"
+  },
+  "results/tum-desk/101/seed-7/density-events.json": {
+    "bytes": 5637,
+    "sha256": "4f03fc75c7179dcc20307b0942eae7b11efd55cc8f2afde96d8489948eb462c8"
+  },
+  "results/tum-desk/101/seed-7/metrics.json": {
+    "bytes": 7682,
+    "sha256": "ebd489ebd876df0907d9946b85c65ff462c28b516d965ce1f1c7b2d5fb742af5"
+  },
+  "results/tum-desk/101/seed-7/process-wall.json": {
+    "bytes": 30,
+    "sha256": "efc2e8bf8f3e30280a7398eee51fc1e49fa44b7c76c74e47d76c384a3f5a8739"
+  },
+  "results/tum-desk/101/seed-7/rgb-quality-5.json": {
+    "bytes": 1419,
+    "sha256": "1c394d8616a4381253560aabecbd3fcf6a773fccef993587ca380956e9f3cbcc"
+  },
+  "results/tum-desk/101/seed-7/semantic-quality-4.json": {
+    "bytes": 3573,
+    "sha256": "6e40bdef203c5087f0a4c392b8f498633bc830d7984e8ed85f5d5e39902ecebd"
+  },
+  "results/tum-desk/101/seed-7/semantic-quality-3.json": {
+    "bytes": 2755,
+    "sha256": "870fe629912bb387bf4d006501315cbe705cce148d7d2d2bc1001e3941f8905d"
+  },
+  "results/tum-desk/101/seed-7/rgb-quality-3.json": {
+    "bytes": 885,
+    "sha256": "03eb9da0ba837808aa40cc92cb37141da704a3cfed5fb18526d12f72f62385ad"
+  },
+  "results/tum-desk/101/seed-7/rgb-quality-6.json": {
+    "bytes": 1767,
+    "sha256": "00c1517a44f3c0a6f1b1dcd0fa8b35993443f624b341aea9759d491cbe500be9"
+  },
+  "results/tum-desk/101/seed-7/train.log": {
+    "bytes": 6161,
+    "sha256": "09458cecab3f77e5094ca03a83ff776d8ec162bccc9c7570f2b9fb48b013c36f"
+  },
+  "results/tum-desk/101/seed-7/rgb-quality-1.json": {
+    "bytes": 267,
+    "sha256": "f3b9ace465544b573d70372363cb040095263a2d4f98feee189d85eb11091663"
+  },
+  "results/tum-desk/101/seed-7/semantic-quality-1.json": {
+    "bytes": 691,
+    "sha256": "9f4f22a04e5367253822a6833e76af73c077f7860eefcb72b7a2132b368a5bed"
+  },
+  "results/tum-desk/100/seed-27/run.json": {
+    "bytes": 983,
+    "sha256": "1731f0fcd952ed90a18207326837b2922c49a8779fabffa904ed2e0b5689b711"
+  },
+  "results/tum-desk/100/seed-27/semantic-quality-5.json": {
+    "bytes": 4492,
+    "sha256": "54e3f9b7e650fd0df60c0878765751a8a6b431673d40d15357ac6e0d0fb1faf3"
+  },
+  "results/tum-desk/100/seed-27/semantic-quality-6.json": {
+    "bytes": 5020,
+    "sha256": "dfa72b3dfe5622c7e0edea75efd67e84ebc9b96b18d8e4bc8439cf3f1650222c"
+  },
+  "results/tum-desk/100/seed-27/semantic-quality-2.json": {
+    "bytes": 2080,
+    "sha256": "853fd4d3f532240d5e0eefba35ddc08b044916a1eea32ebd80d8e22b8542d6b0"
+  },
+  "results/tum-desk/100/seed-27/rgb-quality-2.json": {
+    "bytes": 616,
+    "sha256": "a097ccb8aa8763165a4491c9a163b67dd67b4b72e741a6f0a28d807024c0e25a"
+  },
+  "results/tum-desk/100/seed-27/rgb-quality-4.json": {
+    "bytes": 1146,
+    "sha256": "d56009dc1c475e59a94825bf25972cdc80a199f461a08e9ff12bfc5a76b04a1b"
+  },
+  "results/tum-desk/100/seed-27/sampling-audit.json": {
+    "bytes": 3026,
+    "sha256": "79d17f2503729b843db85b76eefa0cbe8101985984708ba1568e650fcdc47b8e"
+  },
+  "results/tum-desk/100/seed-27/density-events.json": {
+    "bytes": 5712,
+    "sha256": "d2aa4acfc79edc978cb4a3a488c91aed68457828fd3f5ca2d4a1d3ad285c5b19"
+  },
+  "results/tum-desk/100/seed-27/metrics.json": {
+    "bytes": 7670,
+    "sha256": "837a358f00ca1e614a2965ec11416b58a0ce12fa0d4c60955dbc65b9f3906b56"
+  },
+  "results/tum-desk/100/seed-27/process-wall.json": {
+    "bytes": 30,
+    "sha256": "e176b8368989b63ad2582b14d39aa72c048c5fb96f398336a21a3d7b0989be7c"
+  },
+  "results/tum-desk/100/seed-27/rgb-quality-5.json": {
+    "bytes": 1417,
+    "sha256": "677ddc3960a958f5eb3aa3006aca00dcac0ec7064d0e9f08c431eec4768490dd"
+  },
+  "results/tum-desk/100/seed-27/semantic-quality-4.json": {
+    "bytes": 3578,
+    "sha256": "faf3667beefbba27c42112fce31be4979eb0acb51df65126f4e72a9fa4405a90"
+  },
+  "results/tum-desk/100/seed-27/semantic-quality-3.json": {
+    "bytes": 2725,
+    "sha256": "c0d72dc8cb115690d604a7f5d8f033f1fe3af54c26608d31023fabb7fcd1bb70"
+  },
+  "results/tum-desk/100/seed-27/rgb-quality-3.json": {
+    "bytes": 886,
+    "sha256": "1d85536895c1a3030654b4a51118281381e0e271b5c74d60a19827c318edd8df"
+  },
+  "results/tum-desk/100/seed-27/rgb-quality-6.json": {
+    "bytes": 1770,
+    "sha256": "068e97a1a72064c90d36c5de12945e832f0fc411b77ad902b55dfc19ad02dc61"
+  },
+  "results/tum-desk/100/seed-27/train.log": {
+    "bytes": 6177,
+    "sha256": "39ca5da46f7f05473425b032ba75ea7a15b14a7079e3e29509dcdcf7533f57d7"
+  },
+  "results/tum-desk/100/seed-27/rgb-quality-1.json": {
+    "bytes": 267,
+    "sha256": "53256b220ad9eba642c352bfec4a0d6d4ff746a1ffac103091cae6422dd3b225"
+  },
+  "results/tum-desk/100/seed-27/semantic-quality-1.json": {
+    "bytes": 691,
+    "sha256": "622fcddd82c3c5bce7c98092bd90207b8e274bc1cad9cca1d76564647c963a43"
+  },
+  "results/tum-desk/100/seed-17/run.json": {
+    "bytes": 983,
+    "sha256": "8d266b5eb118fe9b45fddebb66e3c372d7ce5ea5e2e9d70c8096509cb5c81afd"
+  },
+  "results/tum-desk/100/seed-17/semantic-quality-5.json": {
+    "bytes": 4463,
+    "sha256": "94b710d1119328b0baab7dfb383dadfcf357fcc95276ba667a3975bb97dc5977"
+  },
+  "results/tum-desk/100/seed-17/semantic-quality-6.json": {
+    "bytes": 4986,
+    "sha256": "0958181e58b07c6563b3a40f31b0712d557c9658e6aa577ea0fa4a75400b02e2"
+  },
+  "results/tum-desk/100/seed-17/semantic-quality-2.json": {
+    "bytes": 2113,
+    "sha256": "08e2365bd099c36e2badd4da097c57c7f89383d7df38489cae170eb76019c64a"
+  },
+  "results/tum-desk/100/seed-17/rgb-quality-2.json": {
+    "bytes": 619,
+    "sha256": "e3f303eb379fcf655016ab636f51fc1f87b656f8a4ec06ce3c01c6a35659dbe4"
+  },
+  "results/tum-desk/100/seed-17/rgb-quality-4.json": {
+    "bytes": 1148,
+    "sha256": "b255d479147b6a6b979a2e2a65e02f4461200b20806d4ac7c28617e5c68ec8d6"
+  },
+  "results/tum-desk/100/seed-17/sampling-audit.json": {
+    "bytes": 2801,
+    "sha256": "0fcc6bd4e1326f53ee6195381ab0ed8e0e74b52e5e0bf93920cdc45993c6a28c"
+  },
+  "results/tum-desk/100/seed-17/density-events.json": {
+    "bytes": 5711,
+    "sha256": "7f9418f3f9e0bfe4abbf177658e00d40961c835bf7fecc7da762b5ea6c1dd815"
+  },
+  "results/tum-desk/100/seed-17/metrics.json": {
+    "bytes": 7638,
+    "sha256": "c865586091975717733db32570f32f2001e42c2ef32e2a8831bb468cdd6bf929"
+  },
+  "results/tum-desk/100/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "39b3ccc28c0157b7feea4e30edbae1f0285c73217b54f52409f4ad29297bb763"
+  },
+  "results/tum-desk/100/seed-17/rgb-quality-5.json": {
+    "bytes": 1417,
+    "sha256": "75f24b3faac2ab356e347110ddd0524384a2d50717c75508cc6f34892fa5809a"
+  },
+  "results/tum-desk/100/seed-17/semantic-quality-4.json": {
+    "bytes": 3555,
+    "sha256": "eb34ba7e5f015f4f24af8af266940bd7b9a3faa8aa0a4f25f3c70b5984107af6"
+  },
+  "results/tum-desk/100/seed-17/semantic-quality-3.json": {
+    "bytes": 2751,
+    "sha256": "ac8936a51cf9537addfa68a2c2f53db22772c0d6a001601cb2be7bacdeb3289d"
+  },
+  "results/tum-desk/100/seed-17/rgb-quality-3.json": {
+    "bytes": 883,
+    "sha256": "2d9533df67fcb005321f6f355d4967239d4b159be5a2f75bbfa4cbbe49aceff0"
+  },
+  "results/tum-desk/100/seed-17/rgb-quality-6.json": {
+    "bytes": 1767,
+    "sha256": "f7591ad6694d7daa3b051112963c7823db48078613cc9f411dd4159364af0edf"
+  },
+  "results/tum-desk/100/seed-17/train.log": {
+    "bytes": 6143,
+    "sha256": "af9bb7912766d267e8796c3f324bd41ddf92180e258e92da8933cf2af4a51128"
+  },
+  "results/tum-desk/100/seed-17/rgb-quality-1.json": {
+    "bytes": 266,
+    "sha256": "f0464ac4093c940ffbe39403355a1d0c6013b8247398b18b128ab5a03342163c"
+  },
+  "results/tum-desk/100/seed-17/semantic-quality-1.json": {
+    "bytes": 687,
+    "sha256": "1c251bb9960e85827dd69cc67e89165a174aa440816530c6dce7ca0658f18329"
+  },
+  "results/tum-desk/100/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "e4b73d19b7c9a5755a7cd49444653a099f61b891494533064430f1aaf8d64f38"
+  },
+  "results/tum-desk/100/seed-7/semantic-quality-5.json": {
+    "bytes": 4433,
+    "sha256": "bbb46c2ef111e822f8b669daac94bf4b88e08d82058ce28877100ee4065e4d04"
+  },
+  "results/tum-desk/100/seed-7/semantic-quality-6.json": {
+    "bytes": 5057,
+    "sha256": "b59b17b2b65492896f4e74dcfcfc379fee4528594f2326295566c03650c42f2c"
+  },
+  "results/tum-desk/100/seed-7/semantic-quality-2.json": {
+    "bytes": 2086,
+    "sha256": "bdeae95c61aa87a13d35c9f4dbacba2a5431e1ef07abcb6d45dec998eba9d954"
+  },
+  "results/tum-desk/100/seed-7/rgb-quality-2.json": {
+    "bytes": 618,
+    "sha256": "4ea30de4dbaf990b7cbe925be65f2a0749ae88ee975107b1fc50a3c2562aceb4"
+  },
+  "results/tum-desk/100/seed-7/rgb-quality-4.json": {
+    "bytes": 1151,
+    "sha256": "ed4325260ad1b0a52acb0168d378e4fc38b37335638ceedf0b3b84770c614d3a"
+  },
+  "results/tum-desk/100/seed-7/sampling-audit.json": {
+    "bytes": 2794,
+    "sha256": "0ddf76190baab833a9c5b855658b02279db5a1daba5129748857f6dfa76daf79"
+  },
+  "results/tum-desk/100/seed-7/density-events.json": {
+    "bytes": 5636,
+    "sha256": "b30f81474fa317a0c7f611ab084a00b73f5463ef57363bb7c7732d1f373d3a14"
+  },
+  "results/tum-desk/100/seed-7/metrics.json": {
+    "bytes": 7672,
+    "sha256": "4711401e75f05ff04f49972ab038e74c1bbeaaac0327ab3a7a9d7cb05e26ba03"
+  },
+  "results/tum-desk/100/seed-7/process-wall.json": {
+    "bytes": 30,
+    "sha256": "0b0ce8deeefaf088e15f904b9ebf10fd4570b4d1fbcefacb25208ceeddc8a6f1"
+  },
+  "results/tum-desk/100/seed-7/rgb-quality-5.json": {
+    "bytes": 1414,
+    "sha256": "dbadec49ffb6c28d48dc902a97a8b1eaf1bb9a168ed53292666cada5241b7185"
+  },
+  "results/tum-desk/100/seed-7/semantic-quality-4.json": {
+    "bytes": 3582,
+    "sha256": "6fb7469fe32a1000a4acd4fe2be57f73f635847587729bc7546a5488a552cb84"
+  },
+  "results/tum-desk/100/seed-7/semantic-quality-3.json": {
+    "bytes": 2732,
+    "sha256": "be1ab07eaaaee517f5d50d2b82476321516dabab34f7b24ca367b0329b81ad38"
+  },
+  "results/tum-desk/100/seed-7/rgb-quality-3.json": {
+    "bytes": 885,
+    "sha256": "d818e68226b2bf555e9036fc48a92a1c675bad2d2f8b29ba543730692dd3a81a"
+  },
+  "results/tum-desk/100/seed-7/rgb-quality-6.json": {
+    "bytes": 1772,
+    "sha256": "6bb2b9885b5542484ccec8288002098c4088096463d8cfcd514d71a960c42c61"
+  },
+  "results/tum-desk/100/seed-7/train.log": {
+    "bytes": 6156,
+    "sha256": "15880045979d5637ee219d106374e57fb1548c6378618e0675e62e9c36085463"
+  },
+  "results/tum-desk/100/seed-7/rgb-quality-1.json": {
+    "bytes": 266,
+    "sha256": "b057137cb8e898c7bf5b97a6314ed77f46871851e0698d88068b34def7097796"
+  },
+  "results/tum-desk/100/seed-7/semantic-quality-1.json": {
+    "bytes": 692,
+    "sha256": "1d19be3b64e15366227c25541c86dda695bda2d2c0c90ed94c2afc6d625ed14c"
+  },
+  "results/tum-desk/010/seed-17/run.json": {
+    "bytes": 983,
+    "sha256": "5b9a720c2e1b66aa58d28b11c22eacffc3354e8b8edda329534a6152bd7c6b24"
+  },
+  "results/tum-desk/010/seed-17/semantic-quality-5.json": {
+    "bytes": 4498,
+    "sha256": "24a987c9003e3dd923b23c3c5d89007b6759f861efabc0b57b6c57413ca159ca"
+  },
+  "results/tum-desk/010/seed-17/semantic-quality-6.json": {
+    "bytes": 4999,
+    "sha256": "7155eb48bb9396804a9283d29618619a528a1370389271ed71d69f3b3b55f00d"
+  },
+  "results/tum-desk/010/seed-17/semantic-quality-2.json": {
+    "bytes": 2099,
+    "sha256": "465739ca68dd697c377652d91032490ed87ec1694892198e8145d327ef1db621"
+  },
+  "results/tum-desk/010/seed-17/rgb-quality-2.json": {
+    "bytes": 619,
+    "sha256": "e76f34ed6e79650b51caf7f1113abd4a11cb3ac76272836811fc89c6e2359332"
+  },
+  "results/tum-desk/010/seed-17/rgb-quality-4.json": {
+    "bytes": 1153,
+    "sha256": "fd688dc37036ea14e0a3c8c28ec8cf473c6112e32b6c20f722a5843c50eda829"
+  },
+  "results/tum-desk/010/seed-17/sampling-audit.json": {
+    "bytes": 2804,
+    "sha256": "cd449d198418fcd5daf12ef6bdf2bd1cc726a31d6f276387034504dcca747793"
+  },
+  "results/tum-desk/010/seed-17/density-events.json": {
+    "bytes": 5695,
+    "sha256": "7221712cea7813c739bb9a5592be8823ef6e4846a9b31361452eec41cc6347ff"
+  },
+  "results/tum-desk/010/seed-17/metrics.json": {
+    "bytes": 7650,
+    "sha256": "76d3ba4157097070aa43a3666071c6c97008af0e1c4d588a1aa72037c71dfa4e"
+  },
+  "results/tum-desk/010/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "f5addae0afb96816d11e82e058372a55733f9c2196cd8d80a3fff6a20ce8eec8"
+  },
+  "results/tum-desk/010/seed-17/rgb-quality-5.json": {
+    "bytes": 1412,
+    "sha256": "4c842d7a8a372f2d4056917944b63473a0c5bbc8de1f392e9c33d811c50c2671"
+  },
+  "results/tum-desk/010/seed-17/semantic-quality-4.json": {
+    "bytes": 3534,
+    "sha256": "2c6ab16bf6aa494a297319bbb1720d94a96521ed318d39db4d4b5f8913ff7c0a"
+  },
+  "results/tum-desk/010/seed-17/semantic-quality-3.json": {
+    "bytes": 2771,
+    "sha256": "7b52a5f838994de26fe8539b8aa414938623a09a6122c16aeb6069d41db88255"
+  },
+  "results/tum-desk/010/seed-17/rgb-quality-3.json": {
+    "bytes": 885,
+    "sha256": "9da905823b2ede2ba1c1226314377c50f751d7fa08da8e7657a7b5eeed8db54c"
+  },
+  "results/tum-desk/010/seed-17/rgb-quality-6.json": {
+    "bytes": 1779,
+    "sha256": "37867202ae90612d3db96b6219ca3a2353692ddb4395f28283e38b1f826ff08c"
+  },
+  "results/tum-desk/010/seed-17/train.log": {
+    "bytes": 6158,
+    "sha256": "5d70f32661d436f2ce8b6b72ff7f506e889a75c73d681d87e082f299063d4e9a"
+  },
+  "results/tum-desk/010/seed-17/rgb-quality-1.json": {
+    "bytes": 267,
+    "sha256": "a22256fe10bf3c33cd7570ef7245b10276bfbd162db7525cde95849ddc315947"
+  },
+  "results/tum-desk/010/seed-17/semantic-quality-1.json": {
+    "bytes": 678,
+    "sha256": "93ff907419fefbc423687bcd909ecb89e754272e4115280fc9c5b977f53e8274"
+  },
+  "results/tum-desk/010/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "333bbc783b9b33d3632587a7c5f36c1996e060c49ac5db9339e39d9a2cfe17e1"
+  },
+  "results/tum-desk/010/seed-7/semantic-quality-5.json": {
+    "bytes": 4446,
+    "sha256": "de1598dc34d43971226b2ecb2dd80cfbcffc9ab2a31dc2dd65728582b6fefa0a"
+  },
+  "results/tum-desk/010/seed-7/semantic-quality-6.json": {
+    "bytes": 4961,
+    "sha256": "ca6532f1fc4addf2a123f099c7d6c20d71a3d23e4de0523165c2be8f07db35c6"
+  },
+  "results/tum-desk/010/seed-7/semantic-quality-2.json": {
+    "bytes": 2114,
+    "sha256": "25af3b0b547ed1f75066c023acdcde1ab0e62ab1277d178f99622cb281448f9b"
+  },
+  "results/tum-desk/010/seed-7/rgb-quality-2.json": {
+    "bytes": 618,
+    "sha256": "63b1192361e17b15ace39906138a54d5c31ff63f7957da2af66749ce595e6bc3"
+  },
+  "results/tum-desk/010/seed-7/rgb-quality-4.json": {
+    "bytes": 1150,
+    "sha256": "7dc1d1613e30036f2eb53cc9b21c8a9f11d4d7aaabb858a9182ecf5d188722d5"
+  },
+  "results/tum-desk/010/seed-7/sampling-audit.json": {
+    "bytes": 2806,
+    "sha256": "ff82e22f4e62fedc2552fadfb24111c35bb4dbce776fdb06d868e6908ce70dbd"
+  },
+  "results/tum-desk/010/seed-7/density-events.json": {
+    "bytes": 5700,
+    "sha256": "4b63545562e24ebf739320d05ea299d40784a51e03f5780bacdab32e40d411d4"
+  },
+  "results/tum-desk/010/seed-7/metrics.json": {
+    "bytes": 7677,
+    "sha256": "629bdfd151de2bbfadf4168cd9f36e6782248bccd37ca1f932cddd8b5ed771c8"
+  },
+  "results/tum-desk/010/seed-7/process-wall.json": {
+    "bytes": 29,
+    "sha256": "293d10af2d6faeaf53e2e2a6e6c7bc273202024275e483466500a0c25fcbeeb6"
+  },
+  "results/tum-desk/010/seed-7/rgb-quality-5.json": {
+    "bytes": 1412,
+    "sha256": "92f7a98a4f6ba65bda56f03fc4d815dbc03a3dc999602d07586398c3cf69b640"
+  },
+  "results/tum-desk/010/seed-7/semantic-quality-4.json": {
+    "bytes": 3540,
+    "sha256": "f354b3c71554a145193427a8b69c5d760bba2da580f7b70fa58d096d800b340c"
+  },
+  "results/tum-desk/010/seed-7/semantic-quality-3.json": {
+    "bytes": 2767,
+    "sha256": "22c04076e90dcf6823817ea680f571491dd325fd84c488c79ed37ae48736e2d0"
+  },
+  "results/tum-desk/010/seed-7/rgb-quality-3.json": {
+    "bytes": 881,
+    "sha256": "99e743b47dd5052969642c351242e1d1a48fbd695480b23672ee4fa21f646bbb"
+  },
+  "results/tum-desk/010/seed-7/rgb-quality-6.json": {
+    "bytes": 1771,
+    "sha256": "2bc14d5f12af5eb188fbe99376d2dd3d168e364001461c5a1481405a84c88d1e"
+  },
+  "results/tum-desk/010/seed-7/train.log": {
+    "bytes": 6157,
+    "sha256": "70c0eebb8c64c15dddbcee80079c1e92aca9e75284134ab61f11668c00268541"
+  },
+  "results/tum-desk/010/seed-7/rgb-quality-1.json": {
+    "bytes": 264,
+    "sha256": "b8ce1011aeedf0da8aa9a185c0b4196d9b9eddf168ab30e09ad54201e1fcd274"
+  },
+  "results/tum-desk/010/seed-7/semantic-quality-1.json": {
+    "bytes": 689,
+    "sha256": "f923195a936c4c9e6d8e9dde4ad9fe2ed7a55fd0052f715a5f5e3778ba1815f2"
+  },
+  "results/tum-desk/110/seed-17/run.json": {
+    "bytes": 983,
+    "sha256": "20d0da5e89f05284f897e1953558b1d18697843adb56ec33393b557ef83fa0d0"
+  },
+  "results/tum-desk/110/seed-17/semantic-quality-5.json": {
+    "bytes": 4470,
+    "sha256": "acb102f568f41fe12e85b317b8a69709962a2743c240bf3c2239ae17b9c6c66c"
+  },
+  "results/tum-desk/110/seed-17/semantic-quality-6.json": {
+    "bytes": 5005,
+    "sha256": "e4e12c856504e4fc37388f7a081c787a12084771c5236d85957140757ab09973"
+  },
+  "results/tum-desk/110/seed-17/semantic-quality-2.json": {
+    "bytes": 2098,
+    "sha256": "257ebde47f3df934116424b6f8d1adff883f139c33a0b55be31e5d473fd7220d"
+  },
+  "results/tum-desk/110/seed-17/rgb-quality-2.json": {
+    "bytes": 619,
+    "sha256": "37f82fb1ceb2455574ff3267493e414ed98c4e0f3a477378ba689359946dc991"
+  },
+  "results/tum-desk/110/seed-17/rgb-quality-4.json": {
+    "bytes": 1150,
+    "sha256": "47b2de0e0fb2e4ffb117c5740337970df0ce3c42ff4e590805e2a4a79242948b"
+  },
+  "results/tum-desk/110/seed-17/sampling-audit.json": {
+    "bytes": 2808,
+    "sha256": "a403284c33437a0cdf5a9169763f62f6a240f98da3f9b187cb5c03b790ae08d6"
+  },
+  "results/tum-desk/110/seed-17/density-events.json": {
+    "bytes": 5700,
+    "sha256": "710b8df4429d70e2b7111c7d862d9997a2ecf8d309f857da6900e7e3848aa805"
+  },
+  "results/tum-desk/110/seed-17/metrics.json": {
+    "bytes": 7655,
+    "sha256": "c8d9d56bda0f8c72bbd9e367ab4dec53fe1f2d25b0f03de28ad810a9d9147541"
+  },
+  "results/tum-desk/110/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "bac3ce5753c05f84de27ff6f78f96eb669ba75b46d4abac0dcde2d2fa2e41d4d"
+  },
+  "results/tum-desk/110/seed-17/rgb-quality-5.json": {
+    "bytes": 1415,
+    "sha256": "f3d1a2a292f6726d1cb534715996712a9ea4b6cd5dcff0528fae4c6fa6597c4d"
+  },
+  "results/tum-desk/110/seed-17/semantic-quality-4.json": {
+    "bytes": 3587,
+    "sha256": "c8b527d2a40f752eabfd64dc4c4a310be486a433e540c8b07985c72c5d4e04ae"
+  },
+  "results/tum-desk/110/seed-17/semantic-quality-3.json": {
+    "bytes": 2750,
+    "sha256": "dfc9c4e448ceba7bb33fddc3fe79b7bf413bf040902c6ebd9678c1cca579f9b6"
+  },
+  "results/tum-desk/110/seed-17/rgb-quality-3.json": {
+    "bytes": 880,
+    "sha256": "30a1f120ac2727f20cb5c395da373bc7254f2360728ab28138a1e59645299928"
+  },
+  "results/tum-desk/110/seed-17/rgb-quality-6.json": {
+    "bytes": 1774,
+    "sha256": "9d416f3617ff0f8e017564302fd1904dbc2c34382f09221da1729286eb7cc639"
+  },
+  "results/tum-desk/110/seed-17/train.log": {
+    "bytes": 6165,
+    "sha256": "72ffc0b6965d2ac89d5878023915a51216aed876c57003169596a3c5aea1a924"
+  },
+  "results/tum-desk/110/seed-17/rgb-quality-1.json": {
+    "bytes": 265,
+    "sha256": "eb1e310fd4759791ed0bfb81628ac26c38aa14820bc99a2066211f6a473a0c50"
+  },
+  "results/tum-desk/110/seed-17/semantic-quality-1.json": {
+    "bytes": 690,
+    "sha256": "4c17227ccc65269cfd9baf46996c91f40b74218528c1c8a5cd1cdff4c0862d0a"
+  },
+  "results/tum-desk/110/seed-7/run.json": {
+    "bytes": 981,
+    "sha256": "b30ab8f97e44ec9bfc71e3fff942e269d5d55725d766fc81ff942cf0741adcaa"
+  },
+  "results/tum-desk/110/seed-7/semantic-quality-5.json": {
+    "bytes": 4480,
+    "sha256": "dc9a4443e9a02347eacc72e5ee8cfc5d8bca93c7b93ef067c2de6d9e52948af9"
+  },
+  "results/tum-desk/110/seed-7/semantic-quality-6.json": {
+    "bytes": 4989,
+    "sha256": "8bc24c4638b58731f4150961ce7e4fce132bee9f190ec80729dfbb08b8430acf"
+  },
+  "results/tum-desk/110/seed-7/semantic-quality-2.json": {
+    "bytes": 2096,
+    "sha256": "7afd92ba52d21e8ff10469b54850b5d49483d4faa474a1cbfa92f19d94377eee"
+  },
+  "results/tum-desk/110/seed-7/rgb-quality-2.json": {
+    "bytes": 620,
+    "sha256": "07fc1731d2eceba8f84896d7abdb0b1021e8b9df17cd6d9b26b9d68cf81ffae4"
+  },
+  "results/tum-desk/110/seed-7/rgb-quality-4.json": {
+    "bytes": 1153,
+    "sha256": "beca66bae98048fd31c15a03c6c8e179402cb6d6e655e13a8d1393459b00255c"
+  },
+  "results/tum-desk/110/seed-7/sampling-audit.json": {
+    "bytes": 2801,
+    "sha256": "c04e62cb24e75f7a300115afb2087ff4ea0c19e6a7ffb39fbcd3e562504e80e3"
+  },
+  "results/tum-desk/110/seed-7/density-events.json": {
+    "bytes": 5697,
+    "sha256": "daafd33c233b74d6394026d7de1cc75029078206337a2ac164a5e8dfce0a5e4a"
+  },
+  "results/tum-desk/110/seed-7/metrics.json": {
+    "bytes": 7672,
+    "sha256": "05a1ecc34a527e8724136214657ee67023933776f4133df9ee6f98329954a267"
+  },
+  "results/tum-desk/110/seed-7/process-wall.json": {
+    "bytes": 30,
+    "sha256": "c921f5426e4a2181a84f4e011aa49424f76772de6f1be29e644824666c828dcc"
+  },
+  "results/tum-desk/110/seed-7/rgb-quality-5.json": {
+    "bytes": 1422,
+    "sha256": "8173dd1f953b3416ab97cd674f5f9dbbe62b66be339c9e11a83b6f8cc2c1d898"
+  },
+  "results/tum-desk/110/seed-7/semantic-quality-4.json": {
+    "bytes": 3563,
+    "sha256": "f7922aae35b3550bedb0817e7e771bad7a8846542a6ba83732f9359c28b72da1"
+  },
+  "results/tum-desk/110/seed-7/semantic-quality-3.json": {
+    "bytes": 2756,
+    "sha256": "a0a8b14c16cab0578d20899050f846e6475510dc8ccf958e41961f2a35eb05e3"
+  },
+  "results/tum-desk/110/seed-7/rgb-quality-3.json": {
+    "bytes": 886,
+    "sha256": "df06924b87208adb27542319ef81033dbb4f390927cfa48153d4ec2cb7cdb94e"
+  },
+  "results/tum-desk/110/seed-7/rgb-quality-6.json": {
+    "bytes": 1773,
+    "sha256": "d546463ea4ca93a2504534016a79839d41bd06f08fcfafcb2a32e1c9e89c4719"
+  },
+  "results/tum-desk/110/seed-7/train.log": {
+    "bytes": 6153,
+    "sha256": "06e5ce6a8cb78496ad23b41d6d7ec939fcaada4f8e24a41f1635b2b07c6bf1ab"
+  },
+  "results/tum-desk/110/seed-7/rgb-quality-1.json": {
+    "bytes": 265,
+    "sha256": "3c67c6f0f62f94873a4c7e34425bde041786e77e28bebb8703afed4db20df2c6"
+  },
+  "results/tum-desk/110/seed-7/semantic-quality-1.json": {
+    "bytes": 691,
+    "sha256": "270dd65e1faffdc8bf4c50ab1c4dd555308143bd20456f82dd3c38d3c3cd4c3a"
+  },
+  "results/kitchen/111/seed-17/run.json": {
+    "bytes": 965,
+    "sha256": "f1fdb6ba2961677f6533d47f2e639b7d373a438b2b82833059c785187052ce1a"
+  },
+  "results/kitchen/111/seed-17/semantic-quality-5.json": {
+    "bytes": 9396,
+    "sha256": "f4a54d1d4a0645bfb892d1e1ea6eea9925e84991b63323f168327e579fb38a6f"
+  },
+  "results/kitchen/111/seed-17/semantic-quality-6.json": {
+    "bytes": 11561,
+    "sha256": "d2723380552210910dad5cffd7436a981f7b1f51696f13ee5d76228c34efedd7"
+  },
+  "results/kitchen/111/seed-17/semantic-quality-2.json": {
+    "bytes": 3305,
+    "sha256": "bb90fc722daf277356f2d2a69080f5161755af989f92d256bed0268680dd44a9"
+  },
+  "results/kitchen/111/seed-17/rgb-quality-2.json": {
+    "bytes": 1063,
+    "sha256": "6370edce48099148225f7aa5037d2a59e5b7152e287a829abe8c5697b6779b62"
+  },
+  "results/kitchen/111/seed-17/rgb-quality-4.json": {
+    "bytes": 2135,
+    "sha256": "51b5784dada51ba28a26a34df81f5d9fd0b43e31f62953e8bd3768ccb762eed1"
+  },
+  "results/kitchen/111/seed-17/sampling-audit.json": {
+    "bytes": 2807,
+    "sha256": "4caded6a6c2308ee05e90916563f3c07d2c718cf415c53a199cda5c9d6a7c53b"
+  },
+  "results/kitchen/111/seed-17/density-events.json": {
+    "bytes": 5686,
+    "sha256": "2a1cde91d6a8fb76211e0efca395d3525db245e747c0c15a29894ca6f23ba06d"
+  },
+  "results/kitchen/111/seed-17/metrics.json": {
+    "bytes": 8141,
+    "sha256": "39e3733e7b093b69bcb96ed467398cb48bbcddb33e364f05fe6059e09ddcc258"
+  },
+  "results/kitchen/111/seed-17/process-wall.json": {
+    "bytes": 31,
+    "sha256": "ab09f2eaef1bd16d2d0518da93942a797387a0a80e9c9254ae01496bdce8b332"
+  },
+  "results/kitchen/111/seed-17/rgb-quality-5.json": {
+    "bytes": 2584,
+    "sha256": "11be59af6a31d28dbec7aac84684a6a32e8f5d83272886f58e1dfade5cf18940"
+  },
+  "results/kitchen/111/seed-17/semantic-quality-4.json": {
+    "bytes": 7662,
+    "sha256": "2350b0e89d2ed5bc7b46ffb93ac5aab0c55b13508c076777f7458e89a29db12a"
+  },
+  "results/kitchen/111/seed-17/semantic-quality-3.json": {
+    "bytes": 5432,
+    "sha256": "2f428671b2b3ce493fb8cca837f304a271d3851c5906e52d2eca89800cd064bf"
+  },
+  "results/kitchen/111/seed-17/rgb-quality-3.json": {
+    "bytes": 1594,
+    "sha256": "a80cd0f66a40012e01d48e393c0cd3abb78722081373aba98dc14ac10911a87d"
+  },
+  "results/kitchen/111/seed-17/rgb-quality-6.json": {
+    "bytes": 3113,
+    "sha256": "dc64cd90cc535f80c9511f9cf37f8960a9d904ce49bc9d43a2a1c6f0e3218ad0"
+  },
+  "results/kitchen/111/seed-17/train.log": {
+    "bytes": 6191,
+    "sha256": "6fec61bb8ae600dcecad93a428c9133aeef8b1d5cb68c622fdb03045415602ce"
+  },
+  "results/kitchen/111/seed-17/rgb-quality-1.json": {
+    "bytes": 532,
+    "sha256": "613d67cf2a8707806bbbbf3d8cdb3b1f163bed175cdbe2a800287a41619c0ea3"
+  },
+  "results/kitchen/111/seed-17/semantic-quality-1.json": {
+    "bytes": 1601,
+    "sha256": "9fffc5248149f7e12049c0a6049a189e32fdf934e3f34b48f86738e6a11b6f94"
+  },
+  "results/kitchen/111/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "e8047e958afc23f269b08e46a1820dd33ef7a265673036ddf48398cf3d34477f"
+  },
+  "results/kitchen/111/seed-7/map.npz": {
+    "bytes": 22313873,
+    "sha256": "ae5cd812e0b58cd535b2617be1b006ac14bb2593afac840a9318448cb1326252"
+  },
+  "results/kitchen/111/seed-7/view-6-0072.jpg": {
+    "bytes": 96140,
+    "sha256": "9e95560542476010d0b363fb9dbe32dc798622552f8a3af45321b751c9f853ea"
+  },
+  "results/kitchen/111/seed-7/semantic-quality-5.json": {
+    "bytes": 9416,
+    "sha256": "a7d5404ba4fa2974a38feb8d01ad85b10de2d916c65b8b9683ea03a2c8cc0a4c"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0192.jpg": {
+    "bytes": 49655,
+    "sha256": "3d61c60425b931d7a7321de6ee733305948fa18e9e0b2e48e59f0d40210c198f"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0240.jpg": {
+    "bytes": 47963,
+    "sha256": "87f5b0003c7697947eb0ebe37661b7bfb5814bec1ce1a01ef562761936a88d71"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0144.jpg": {
+    "bytes": 47964,
+    "sha256": "b60841c6bc81821a973542b45449f736eafc27d8443c91a125e6d0425524e7c6"
+  },
+  "results/kitchen/111/seed-7/semantic-quality-6.json": {
+    "bytes": 11533,
+    "sha256": "b24af01f294fb864eb545b5a09fb986947f318e757a1e691db9ba7de23c0b0c9"
+  },
+  "results/kitchen/111/seed-7/semantic-quality-2.json": {
+    "bytes": 3312,
+    "sha256": "d93e9954aa910c8ad696e9f673cddd69d6c69012bd1ea1d9f280bfa5f341eaaa"
+  },
+  "results/kitchen/111/seed-7/view-1-0024.jpg": {
+    "bytes": 91655,
+    "sha256": "f6379f873f6eeecb0a43233762c4f79aa7dbc8c2d35e8f4f559897e333f74f5f"
+  },
+  "results/kitchen/111/seed-7/rgb-quality-2.json": {
+    "bytes": 1059,
+    "sha256": "c0fa15dc4aed39dcb1cb356e8edffbf82a259f432e4894457bd108b2d10f7aa3"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0168.jpg": {
+    "bytes": 49218,
+    "sha256": "71e3066c3a2e8cd0860c77848bf54588bc309a63f3546c3321349c937ddd4865"
+  },
+  "results/kitchen/111/seed-7/rgb-quality-4.json": {
+    "bytes": 2124,
+    "sha256": "eaec4cb842e7b609c5b65ca64064d7c8f3f4f99b261bda58e7ec00d1ef0f7150"
+  },
+  "results/kitchen/111/seed-7/semantic-ids.npy": {
+    "bytes": 2393392,
+    "sha256": "ff49400cbcb6097977615e32b4d26edc32aa23410f919a330bf1be7a6fbce63c"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0096.jpg": {
+    "bytes": 46383,
+    "sha256": "6f737806a52945da32f507cb1833af69908a35dfb3b566c9c94eae4c422e1137"
+  },
+  "results/kitchen/111/seed-7/sampling-audit.json": {
+    "bytes": 2809,
+    "sha256": "0c0bcc758fd70cb62682d95fce985e9ed86fe98e90ca65680f04cc6bf6cf8a65"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0000.jpg": {
+    "bytes": 50980,
+    "sha256": "0437336d2bba46942f1532c42c281736895f16500d529bfb6279c00275177064"
+  },
+  "results/kitchen/111/seed-7/view-6-0192.jpg": {
+    "bytes": 115413,
+    "sha256": "0e2a14cb2f3b3235ef97462ca7e972ada3f58a23245251523ffe56800662914f"
+  },
+  "results/kitchen/111/seed-7/checkpoint.pt": {
+    "bytes": 50332088,
+    "sha256": "d09a63899a1d8b9447d6d8bda06896bba909bf3967afa7a09622ddf4d2006b6d"
+  },
+  "results/kitchen/111/seed-7/density-events.json": {
+    "bytes": 5689,
+    "sha256": "d3116794bf993464f20c6dd862f5670e723f2a9369f5fcfd04e2594e9f12431f"
+  },
+  "results/kitchen/111/seed-7/metrics.json": {
+    "bytes": 8129,
+    "sha256": "1c14b14d10119369ffd1f45618518bbb64582bd88b03a48d28bd95f0b52fe159"
+  },
+  "results/kitchen/111/seed-7/view-6-0120.jpg": {
+    "bytes": 89496,
+    "sha256": "22abcd9a27774790de26c8e4d4a627ef6dd18ada716b88b618f57ae02cce2e52"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0264.jpg": {
+    "bytes": 52366,
+    "sha256": "9ab8b3edb97954f1da76b2d455f9d0bc68b751ee00ed24f0e1fee00b539516cd"
+  },
+  "results/kitchen/111/seed-7/view-6-0216.jpg": {
+    "bytes": 96438,
+    "sha256": "87a94cf92d0dff9c7239271dba7f6b593244c513ef166d837d003297cd17d64f"
+  },
+  "results/kitchen/111/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "f66f68ef4e64ef30c7f9a96490ff02f84481cbb0a677c7fea52fc4c5dec7a2f8"
+  },
+  "results/kitchen/111/seed-7/view-6-0144.jpg": {
+    "bytes": 98019,
+    "sha256": "6085a1c5a45def21ff9a77b261fe4639c8cdfcc8920fb315718cbd0eb5112975"
+  },
+  "results/kitchen/111/seed-7/rgb-quality-5.json": {
+    "bytes": 2587,
+    "sha256": "154d7d51de18fab600c937d80b445e446e78751f85d6ca9338665aa5730e273a"
+  },
+  "results/kitchen/111/seed-7/semantic-1-0000.jpg": {
+    "bytes": 46216,
+    "sha256": "1b388c07730084e6fb81e587fe5295e9bb2b76e555483cc5e2964ae6596cda8c"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0120.jpg": {
+    "bytes": 50535,
+    "sha256": "57a57ccfbfb0b6f1b78f6c0527e55368d24bcaeb1efeab4015b3d1aade430d67"
+  },
+  "results/kitchen/111/seed-7/view-6-0240.jpg": {
+    "bytes": 101430,
+    "sha256": "acdca88d2db6f85cc97411ae2e52dfb3fc939fb8eb8062eaa2aaa6472c23ea2e"
+  },
+  "results/kitchen/111/seed-7/view-6-0264.jpg": {
+    "bytes": 93039,
+    "sha256": "270eae1442c300a0f100a3a04ae394eeb4b06dc3a01ec4e4113ee644b523ac46"
+  },
+  "results/kitchen/111/seed-7/view-6-0168.jpg": {
+    "bytes": 98971,
+    "sha256": "b853a2b0fe17ada2202605b0787f8cd026f6450f1ade7ef52af09e895b245169"
+  },
+  "results/kitchen/111/seed-7/semantic-quality-4.json": {
+    "bytes": 7734,
+    "sha256": "bd0bc14473a1e7be05889298f1cc0da9481af17f8f4630b577f2f519bff1e98b"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0216.jpg": {
+    "bytes": 45093,
+    "sha256": "f62f105b0e7229c63b03fc4ae5c6e6af22122f1a7e8f48f16f0006a238833bfa"
+  },
+  "results/kitchen/111/seed-7/view-6-0024.jpg": {
+    "bytes": 109418,
+    "sha256": "52eecc242aaa1a645cfd8d50abb23f756f966c112d3a7f225fabc29fe235ccbe"
+  },
+  "results/kitchen/111/seed-7/view-6-0048.jpg": {
+    "bytes": 96608,
+    "sha256": "61292f4db28e139ebee2261f4a589f1a89cb5d2395f4644a288ba2326156d2e8"
+  },
+  "results/kitchen/111/seed-7/semantic-quality-3.json": {
+    "bytes": 5474,
+    "sha256": "7327cbad53cc7be6946f70c7858f86c50df7353420c92b599752cd7036b1de1e"
+  },
+  "results/kitchen/111/seed-7/rgb-quality-3.json": {
+    "bytes": 1600,
+    "sha256": "d0c712027455c385d09172ca3424d12ab4cd13762f16cb8803c0077a49dbf2e1"
+  },
+  "results/kitchen/111/seed-7/view-6-0096.jpg": {
+    "bytes": 101957,
+    "sha256": "848033f7933c0056959173d3fdb52d2871b22efc87bbb9ac03675685ebbc1c48"
+  },
+  "results/kitchen/111/seed-7/view-1-0000.jpg": {
+    "bytes": 82175,
+    "sha256": "3bee4555f8d431ad0b83fa61f0076a8b027558e39694ec6c329ec9f970c51630"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0048.jpg": {
+    "bytes": 44088,
+    "sha256": "026eb888ecf06f11970bd831fb5c9c080eecfb6d3f932d6d1b1cc872884e09d8"
+  },
+  "results/kitchen/111/seed-7/rgb-quality-6.json": {
+    "bytes": 3123,
+    "sha256": "01dcaa86adeed0f718be17ceb50e860edef3b9eb1cb6d9148e1ab35b8a551d6e"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0072.jpg": {
+    "bytes": 48747,
+    "sha256": "99e82dedc985ef897c6b58f1e5d8b1cffd236baa80379423454c00dc4920128c"
+  },
+  "results/kitchen/111/seed-7/semantic-1-0024.jpg": {
+    "bytes": 44942,
+    "sha256": "e752d3432f86aeacb5f5bfad040b2be2628c2ea7de89203ffb0357732443115a"
+  },
+  "results/kitchen/111/seed-7/view-6-0000.jpg": {
+    "bytes": 91033,
+    "sha256": "b42d7223bf1f2977b90baba6e545d41d729b7c74e7d23acd89738f385d3d804e"
+  },
+  "results/kitchen/111/seed-7/semantic-6-0024.jpg": {
+    "bytes": 50151,
+    "sha256": "f18ad51bae740e24a28be9f422546ee79348569ed3efcaa07373871f43f5aa11"
+  },
+  "results/kitchen/111/seed-7/train.log": {
+    "bytes": 6158,
+    "sha256": "0d5af08dc455e28de4fea5ed6150e4e80656344246a139a90248694eb81c703d"
+  },
+  "results/kitchen/111/seed-7/rgb-quality-1.json": {
+    "bytes": 531,
+    "sha256": "737949c5a003c73b99b5b7c45feefff5358db7feb5576fbb4466fdd1b9ea4b99"
+  },
+  "results/kitchen/111/seed-7/semantic-quality-1.json": {
+    "bytes": 1623,
+    "sha256": "3de2fec12a3d3d3ac25295bc2062d804f3d08b823bb969f35d834eb8909fe6ea"
+  },
+  "results/kitchen/000/seed-17/run.json": {
+    "bytes": 966,
+    "sha256": "3bd56d82e242356d946b2c5014b261a39b7fc7a82ecd209e25678d4cc0bf90cf"
+  },
+  "results/kitchen/000/seed-17/semantic-quality-5.json": {
+    "bytes": 9444,
+    "sha256": "bf58d068bb3ec8087669b35435cbc7b326d3fe2f3eeea2158388f3abac955ed9"
+  },
+  "results/kitchen/000/seed-17/semantic-quality-6.json": {
+    "bytes": 11443,
+    "sha256": "1fed8349dfe56a9b608d7b98972ab9e5b3314a38af03f5ad7c4da74a220254ba"
+  },
+  "results/kitchen/000/seed-17/semantic-quality-2.json": {
+    "bytes": 3337,
+    "sha256": "3f569e89f5f156b7452987542ed47b8da81d64c301ee4e64989e4b85dc27997b"
+  },
+  "results/kitchen/000/seed-17/rgb-quality-2.json": {
+    "bytes": 1060,
+    "sha256": "769d7b0c919c1ae9415c7be143774234f857ceb5e26545ab45ce6570c9449808"
+  },
+  "results/kitchen/000/seed-17/rgb-quality-4.json": {
+    "bytes": 2130,
+    "sha256": "cdd009d38f89ffb3269ac5be9a8d7268777834f654163685643571fa65f7597a"
+  },
+  "results/kitchen/000/seed-17/sampling-audit.json": {
+    "bytes": 2821,
+    "sha256": "10c37f6ae31652f3cd69c2039833d137ea2447b9abc317c629edc9ef01d685a8"
+  },
+  "results/kitchen/000/seed-17/density-events.json": {
+    "bytes": 5693,
+    "sha256": "e9415a83d5329aed3ff8dd0d131d03216493c33741ffb55080de4dfb78cb4f08"
+  },
+  "results/kitchen/000/seed-17/metrics.json": {
+    "bytes": 8134,
+    "sha256": "31a10977ac7f2ec4cfe4d796e0af837cec5173c083f90481bb10d423cbadd6e0"
+  },
+  "results/kitchen/000/seed-17/process-wall.json": {
+    "bytes": 31,
+    "sha256": "5eecb7865707ad899bca2706a2e40249fef21086f6f730ff71c3da2550218772"
+  },
+  "results/kitchen/000/seed-17/rgb-quality-5.json": {
+    "bytes": 2580,
+    "sha256": "55be3f4719379fb6ae427c6b45db26b1c849f1b4b3e5acbf7e3b96302c54dbec"
+  },
+  "results/kitchen/000/seed-17/semantic-quality-4.json": {
+    "bytes": 7768,
+    "sha256": "073d026d5154a0212eac2ba5fc7603c2fddd8438afd6e630776aafaa062fa8a0"
+  },
+  "results/kitchen/000/seed-17/semantic-quality-3.json": {
+    "bytes": 5553,
+    "sha256": "af88ba4e3b507775866ca320bdf46da06be909ccde1c8b06f1be14cda56e1b97"
+  },
+  "results/kitchen/000/seed-17/rgb-quality-3.json": {
+    "bytes": 1596,
+    "sha256": "c024f72ea5258191728b11150b1dcb97432491736ab63b6fff413090cab0ad7a"
+  },
+  "results/kitchen/000/seed-17/rgb-quality-6.json": {
+    "bytes": 3118,
+    "sha256": "e316cdf200bcb1719b997843514f97835512bcfe4e6eb305305c976ab70d8bc1"
+  },
+  "results/kitchen/000/seed-17/train.log": {
+    "bytes": 6187,
+    "sha256": "d6627fd96b92a1979bd7d583928acd5b60802fd97a9b7ea0ab41f252f33255fd"
+  },
+  "results/kitchen/000/seed-17/rgb-quality-1.json": {
+    "bytes": 531,
+    "sha256": "b63f469e5f258138273b5c01fbd398fd11dd4f23370645666678830c0d0062e4"
+  },
+  "results/kitchen/000/seed-17/semantic-quality-1.json": {
+    "bytes": 1632,
+    "sha256": "bb93c0f37e4d6f71deaae0defbc17987b7f50bb00f41c6697ef4ae56f4b41235"
+  },
+  "results/kitchen/000/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "90e2c41c6aabc356aaca843247b7bbd11c732ae370eeea16b528946e094ae58c"
+  },
+  "results/kitchen/000/seed-7/map.npz": {
+    "bytes": 22304481,
+    "sha256": "43cdeb0d9c0f9cbb050caa604409e43483143ae81df2e4f04265fd0003a653ef"
+  },
+  "results/kitchen/000/seed-7/view-6-0072.jpg": {
+    "bytes": 97586,
+    "sha256": "bb4df20214817949f62178343a369339a970b88990d22830b689a3917e1dd1c8"
+  },
+  "results/kitchen/000/seed-7/semantic-quality-5.json": {
+    "bytes": 9290,
+    "sha256": "9e0ce4dd9d1bbda25b651c00177d28b76435de97d364ccb63c2893c475a1508a"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0192.jpg": {
+    "bytes": 49498,
+    "sha256": "3bbf619aec1f0a9ca08b2b711a4fe0fe724b0c5605cc913e4a3608032d40532a"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0240.jpg": {
+    "bytes": 47124,
+    "sha256": "3a7033413123d498f88180304f2eddbdb5de6859ea77ae3ea900c720f0cb5e7e"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0144.jpg": {
+    "bytes": 48886,
+    "sha256": "5706a843cc7fa3e14f39a0c835a56d0da128bb12cacbc2a49426c57a193b1ea9"
+  },
+  "results/kitchen/000/seed-7/semantic-quality-6.json": {
+    "bytes": 11560,
+    "sha256": "2b2c5a5070b0fd00ac7bde327e66d173289dee50e61db591e06bad1658df90f2"
+  },
+  "results/kitchen/000/seed-7/semantic-quality-2.json": {
+    "bytes": 3397,
+    "sha256": "6605716dcbb3b6f826864668c6c5cb524abc18609d55e4f4542b8c987e9f0cc1"
+  },
+  "results/kitchen/000/seed-7/view-1-0024.jpg": {
+    "bytes": 92064,
+    "sha256": "aa60628334e2e36dc08acd059ec1b71b35837668f4cfb0e8818596629792b5d8"
+  },
+  "results/kitchen/000/seed-7/rgb-quality-2.json": {
+    "bytes": 1064,
+    "sha256": "5cc2e377cb076edafa04d3b50ab1ef68f21ddeb1e29b55ecc62caba6c4fe3f33"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0168.jpg": {
+    "bytes": 48672,
+    "sha256": "af5e96c033b713888e50abf43a255540daad777c214a482407c3203fca2b51e0"
+  },
+  "results/kitchen/000/seed-7/rgb-quality-4.json": {
+    "bytes": 2134,
+    "sha256": "f97fb4e4a7bfdf61b129592b677891eb1ca516e3dd80f1f6c38f6832c37b5e34"
+  },
+  "results/kitchen/000/seed-7/semantic-ids.npy": {
+    "bytes": 2396648,
+    "sha256": "5b35700a4ebbcef030d79293a10c5dccba312594764bc27b6bb15ff18177c5df"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0096.jpg": {
+    "bytes": 46376,
+    "sha256": "15be85c04b5d866a7933acf930a13e64791ce8fe7388935250f5d366ff042a53"
+  },
+  "results/kitchen/000/seed-7/sampling-audit.json": {
+    "bytes": 2817,
+    "sha256": "d50e60ffe39d20d731321535029d0ecef976711dac9620a18407b7453c9466cd"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0000.jpg": {
+    "bytes": 51581,
+    "sha256": "f7ca3252f559fffe4a91ea477a627fb11094c8d8ffeb5b84d8aee810a91bc77f"
+  },
+  "results/kitchen/000/seed-7/view-6-0192.jpg": {
+    "bytes": 115950,
+    "sha256": "8d9a148fe04858c17fa71e393250010dc238b5bda16f8881fe674313d7848667"
+  },
+  "results/kitchen/000/seed-7/checkpoint.pt": {
+    "bytes": 50388728,
+    "sha256": "1a942b07c01b7261c79761eb21e6c3626add8d7e1a235b6f52b8bead82552aac"
+  },
+  "results/kitchen/000/seed-7/density-events.json": {
+    "bytes": 5693,
+    "sha256": "64209d6174aca57f1a6e2ab55672016208378fbd1071aad06cec9fca98034901"
+  },
+  "results/kitchen/000/seed-7/metrics.json": {
+    "bytes": 8128,
+    "sha256": "0bb58c6c2134944c46cacc62bf54011723b759d958f5c0a1fe41fb496f428213"
+  },
+  "results/kitchen/000/seed-7/view-6-0120.jpg": {
+    "bytes": 89555,
+    "sha256": "20b686d7a9aa506f8ad1bab5c58d37bda79c84ffe4a0b94751fcfd76ea2d825d"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0264.jpg": {
+    "bytes": 51784,
+    "sha256": "325f67946579b1e7621a6df07bac958df75e32c3f56685a9aadcef8d880cab26"
+  },
+  "results/kitchen/000/seed-7/view-6-0216.jpg": {
+    "bytes": 96896,
+    "sha256": "04a9f4a1a857bcac9378349fffb3ffc2f0938eb1ea45f1cf42e1b26fb809a9d9"
+  },
+  "results/kitchen/000/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "c54aa36b67fa7ba2451fc9bb26e88526f92b0ce8bc12fa7f78b37695e54309d6"
+  },
+  "results/kitchen/000/seed-7/view-6-0144.jpg": {
+    "bytes": 98639,
+    "sha256": "956db55e40036dc822c5796a6e89b1c736fa30adda6e27c00f118b333f164cf8"
+  },
+  "results/kitchen/000/seed-7/rgb-quality-5.json": {
+    "bytes": 2579,
+    "sha256": "5c4e1496353354d97a497ad971e947aa3540bae4d8471f4da2d146f9731d9106"
+  },
+  "results/kitchen/000/seed-7/semantic-1-0000.jpg": {
+    "bytes": 45837,
+    "sha256": "2aa3abaa73fd4aea72a7af757da17ec9d26b2b835eba96768517585912ab6281"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0120.jpg": {
+    "bytes": 50332,
+    "sha256": "c21de09902954349ab8152b4fb41f13a5b40c2ff186a9009fbe10ce41563f1b9"
+  },
+  "results/kitchen/000/seed-7/view-6-0240.jpg": {
+    "bytes": 102076,
+    "sha256": "276fd3ad01ca97c2964868f07e349b4ae2d3723543e47cf754275956b3f6bc52"
+  },
+  "results/kitchen/000/seed-7/view-6-0264.jpg": {
+    "bytes": 93330,
+    "sha256": "dbe5cf2b4d33089ade301a47ecea14d3a525945eab1f7913a2b6d8c62b81793d"
+  },
+  "results/kitchen/000/seed-7/view-6-0168.jpg": {
+    "bytes": 99026,
+    "sha256": "2b5066d7be92ca065dce89b0f4d442a77a3229a35a82f278aa5f095a35aa0159"
+  },
+  "results/kitchen/000/seed-7/semantic-quality-4.json": {
+    "bytes": 7764,
+    "sha256": "6ad4e98182b8ba98126bea59d520da2c5dbba4d84ee7c9fd34eb19f74f6cd910"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0216.jpg": {
+    "bytes": 46046,
+    "sha256": "defe92060a0ab7aa41a140dc4396290b8a7b2496d3df8b7fcd71a1e1739b45e3"
+  },
+  "results/kitchen/000/seed-7/view-6-0024.jpg": {
+    "bytes": 110939,
+    "sha256": "68fb471a658862fa48e43fa2a2a862e97ba7d0414df8d3fdf401d68e698bbfa8"
+  },
+  "results/kitchen/000/seed-7/view-6-0048.jpg": {
+    "bytes": 98082,
+    "sha256": "6d0929ac2884ea50f738076ce739b43d9f3086982902dc8f2b99031d6697e5ca"
+  },
+  "results/kitchen/000/seed-7/semantic-quality-3.json": {
+    "bytes": 5539,
+    "sha256": "5c620e0bedee07f82be881f50ae1052f8fae33b85a7d593021005fca0f219c51"
+  },
+  "results/kitchen/000/seed-7/rgb-quality-3.json": {
+    "bytes": 1589,
+    "sha256": "f3c2895b5d6f529811f9ead6113bb997bd68324eacd4a3be29a64bb4029fbb3d"
+  },
+  "results/kitchen/000/seed-7/view-6-0096.jpg": {
+    "bytes": 103420,
+    "sha256": "b25b427a862608ab9130b399b082b9583c1a961eea3304a6dd466d2886851ccb"
+  },
+  "results/kitchen/000/seed-7/view-1-0000.jpg": {
+    "bytes": 83377,
+    "sha256": "8ee5b8f79193fc2286c6889972b4348cfb99c99e54d7725cf72d3215740e865f"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0048.jpg": {
+    "bytes": 43458,
+    "sha256": "de6429ae50ed553dfe9c38af198ff8c77bd37b28e58a7843c1c0663ccaf0f6f5"
+  },
+  "results/kitchen/000/seed-7/rgb-quality-6.json": {
+    "bytes": 3120,
+    "sha256": "dcf4049a9435cf4982a5921f3facfb6178a3eb0cd01223737241dc38083df0a7"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0072.jpg": {
+    "bytes": 49277,
+    "sha256": "07b1de73e118f1c280af7064c4d636bd5c66c68f8d1e771aac39b765d4da3705"
+  },
+  "results/kitchen/000/seed-7/semantic-1-0024.jpg": {
+    "bytes": 46086,
+    "sha256": "6d0861433db1311f78043d954d1ff6ec3923265cf529b5499d06ba8fe75dd13b"
+  },
+  "results/kitchen/000/seed-7/view-6-0000.jpg": {
+    "bytes": 97901,
+    "sha256": "a04326ec511603c38cdf0def709e6b3b863f9c20b8c97cef2f4e0eee50a48bff"
+  },
+  "results/kitchen/000/seed-7/semantic-6-0024.jpg": {
+    "bytes": 49207,
+    "sha256": "53827f7b36345fc4b5e13f9840f88b40e205236b8eb59a3c82312a2b0b4c690b"
+  },
+  "results/kitchen/000/seed-7/train.log": {
+    "bytes": 6176,
+    "sha256": "62494fdb048e250addf7a708ab8a436a6bf38d3f21578059f2b28a6a91347f78"
+  },
+  "results/kitchen/000/seed-7/rgb-quality-1.json": {
+    "bytes": 531,
+    "sha256": "fc94959561358be0a52fbd222c3efc4c25382019bd9918a86dee6b039e7b9982"
+  },
+  "results/kitchen/000/seed-7/semantic-quality-1.json": {
+    "bytes": 1606,
+    "sha256": "d9a17606bde7352ed3b3a1b847a1dba0aded716de83bab67d663e8122ed5185c"
+  },
+  "results/kitchen/011/seed-17/run.json": {
+    "bytes": 966,
+    "sha256": "42c292e8c235631cb6311ece92a8a8f8f9f8533acd6120e03219af94a42d8528"
+  },
+  "results/kitchen/011/seed-17/semantic-quality-5.json": {
+    "bytes": 9415,
+    "sha256": "347a8ef2726427de1678c5ad479c5ea6bde9620df7cbccbd5993c3becbe43b1d"
+  },
+  "results/kitchen/011/seed-17/semantic-quality-6.json": {
+    "bytes": 11632,
+    "sha256": "935d9c214d89321e73b75dcb73ade67cd7e7d765c8fb68a06fab61dd86f3abd4"
+  },
+  "results/kitchen/011/seed-17/semantic-quality-2.json": {
+    "bytes": 3256,
+    "sha256": "a7bf96b45427fd51dfabc177762b25b3ffa6ab4f269109534e863c61df6f4e0e"
+  },
+  "results/kitchen/011/seed-17/rgb-quality-2.json": {
+    "bytes": 1058,
+    "sha256": "d76ab05e86ae8807d8eab8ae387e71118f292ee1a300bfde612c66dffb1a8105"
+  },
+  "results/kitchen/011/seed-17/rgb-quality-4.json": {
+    "bytes": 2128,
+    "sha256": "f1622c3c3b579142b92e479e56418997fc257d0a837e1463cc5b494c20d14225"
+  },
+  "results/kitchen/011/seed-17/sampling-audit.json": {
+    "bytes": 2818,
+    "sha256": "541a805957399ee3a00abfb7215fbe0bb1fc328ec4a3b05cde0952bf602ac7e7"
+  },
+  "results/kitchen/011/seed-17/density-events.json": {
+    "bytes": 5686,
+    "sha256": "baf62ae1360f3b7f0a79e8b6b057c83c8c7a74956af026c34afcee344263b72d"
+  },
+  "results/kitchen/011/seed-17/metrics.json": {
+    "bytes": 8131,
+    "sha256": "012ddc603ec857d3673b219c59b5288548ceba94adc20a9cffb76f648c49b9d3"
+  },
+  "results/kitchen/011/seed-17/process-wall.json": {
+    "bytes": 31,
+    "sha256": "cba24030e4ccf523d4719f31c456f39e1cac44bb2353e2bd1669fa4f222dcd5b"
+  },
+  "results/kitchen/011/seed-17/rgb-quality-5.json": {
+    "bytes": 2585,
+    "sha256": "1c109855a9f12493fcd5198432ea7613b1dedfdd9e5cea741ba8f8e54223ba6f"
+  },
+  "results/kitchen/011/seed-17/semantic-quality-4.json": {
+    "bytes": 7788,
+    "sha256": "64d5a9455f035fcceb516968446a7b76eccb9c117dd316d66ebb0bc583c4f710"
+  },
+  "results/kitchen/011/seed-17/semantic-quality-3.json": {
+    "bytes": 5457,
+    "sha256": "d92ce8f30e59a8ec8cd087422ecb601c826c1a317b48b88983e3d17b4616665e"
+  },
+  "results/kitchen/011/seed-17/rgb-quality-3.json": {
+    "bytes": 1593,
+    "sha256": "2a648daf38c5380e93fe1460dfbeed3e3e2dd1ea386d7d0f70126ef8bc1982c4"
+  },
+  "results/kitchen/011/seed-17/rgb-quality-6.json": {
+    "bytes": 3117,
+    "sha256": "b73e17a8fcc9ffef4f6e3afebeb69bfbacc77619500ddce6db62b5721da4185d"
+  },
+  "results/kitchen/011/seed-17/train.log": {
+    "bytes": 6182,
+    "sha256": "993dab79cd5ce25e6119bbc4b35338f8237f96f1e7e0528968da6e6265d1f961"
+  },
+  "results/kitchen/011/seed-17/rgb-quality-1.json": {
+    "bytes": 530,
+    "sha256": "c985231d70b14d07a8b3b31b02ec456e9d6edb6d2406f315bd148c2daf1efab9"
+  },
+  "results/kitchen/011/seed-17/semantic-quality-1.json": {
+    "bytes": 1656,
+    "sha256": "84cceef0b2b681d8a1a801c255394376d67ecdf465feefaff576d70fe5b7f5d3"
+  },
+  "results/kitchen/011/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "42653e45ed7fc487ff39e6732976ed6d05bdc2b17609f330aa5f00efcdb93b69"
+  },
+  "results/kitchen/011/seed-7/semantic-quality-5.json": {
+    "bytes": 9443,
+    "sha256": "b9e8eabdb87579c92e13e847b5b1f4465d3efbbcea6d98ac344cd8038891bb2c"
+  },
+  "results/kitchen/011/seed-7/semantic-quality-6.json": {
+    "bytes": 11519,
+    "sha256": "0d54cef16fb2f3de5984f3c90e42a9bfd12a1f8426ddff8cb9eb81aa8230e719"
+  },
+  "results/kitchen/011/seed-7/semantic-quality-2.json": {
+    "bytes": 3423,
+    "sha256": "b0e509762fc1a4df30834521326c06ec6170ba22291a841b27b802266cf1f362"
+  },
+  "results/kitchen/011/seed-7/rgb-quality-2.json": {
+    "bytes": 1063,
+    "sha256": "aecc54348805d13fbea030d3e90efc6dab06502ba204e9b1e7393cb4e0d69901"
+  },
+  "results/kitchen/011/seed-7/rgb-quality-4.json": {
+    "bytes": 2139,
+    "sha256": "b4652e21fa2cd9de42080592d8f5ea93d61994de28cb6f7e3cf0d81d8889f573"
+  },
+  "results/kitchen/011/seed-7/sampling-audit.json": {
+    "bytes": 2816,
+    "sha256": "b71ac9ae32d5b862568f06f85afcae405d86292238522bdf0f7fe48fa732f2a9"
+  },
+  "results/kitchen/011/seed-7/density-events.json": {
+    "bytes": 5691,
+    "sha256": "17c1365a6c859a7a6f48fd363f02e731847038b1148a1eda3c4b702f26b10141"
+  },
+  "results/kitchen/011/seed-7/metrics.json": {
+    "bytes": 8143,
+    "sha256": "7e20cdedff6f500b740b4cb2ae0724c465b13f94e78b96fde892d0fbebc76987"
+  },
+  "results/kitchen/011/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "217c4cc962ff1043dc17bc1e6ebe52d35b32a49ee6edb54541dbfd271f380b56"
+  },
+  "results/kitchen/011/seed-7/rgb-quality-5.json": {
+    "bytes": 2576,
+    "sha256": "3f3e7b0d3d1cb6edf4f761c12e1fc1000790ba01b3c4bc09ec3696b9a5dcde77"
+  },
+  "results/kitchen/011/seed-7/semantic-quality-4.json": {
+    "bytes": 7723,
+    "sha256": "e95746bceaaf9872a8aa6485ae164b5955a6f81296762e1b9f5d3ebdb5970d59"
+  },
+  "results/kitchen/011/seed-7/semantic-quality-3.json": {
+    "bytes": 5565,
+    "sha256": "b1b849b05eda02f9bb992e7208ccb78ca86e6b1d951463d3b6a96fa73dcdbb1b"
+  },
+  "results/kitchen/011/seed-7/rgb-quality-3.json": {
+    "bytes": 1592,
+    "sha256": "bcc06c10d0298f5b6fec21c27c44a5713cc31ce314a5a3e8f6795263a966b1db"
+  },
+  "results/kitchen/011/seed-7/rgb-quality-6.json": {
+    "bytes": 3116,
+    "sha256": "aafef621b39b65ea2cd0dda101c95dac85df7290fb135938b5865c43c3594a39"
+  },
+  "results/kitchen/011/seed-7/train.log": {
+    "bytes": 6168,
+    "sha256": "d35999c7c51a38cbdfe18efbc411afbe3edc4226c0df6daa115f62c124c42936"
+  },
+  "results/kitchen/011/seed-7/rgb-quality-1.json": {
+    "bytes": 533,
+    "sha256": "0004ad6bff1b95f7e2e6c7131f3c1bea909bfb9533b348a344aac2aaaaff108c"
+  },
+  "results/kitchen/011/seed-7/semantic-quality-1.json": {
+    "bytes": 1658,
+    "sha256": "088ccbdf9f8d838fdbd224153514834f599b5730477f8e97e47e8e0f756f9638"
+  },
+  "results/kitchen/001/seed-17/run.json": {
+    "bytes": 966,
+    "sha256": "1ef725d12f197b83b88f9d48874b371ffed65310065c2790e32c3b6e102c2c59"
+  },
+  "results/kitchen/001/seed-17/semantic-quality-5.json": {
+    "bytes": 9440,
+    "sha256": "33f802c3acf2237c33a298187041e2b5cb5bd88a8d844899db61ff77a7f6b129"
+  },
+  "results/kitchen/001/seed-17/semantic-quality-6.json": {
+    "bytes": 11585,
+    "sha256": "9b8e77b44113e68a29d4be10fdb9c05dab3a3ddf84b9351a83e4b1a256a0a267"
+  },
+  "results/kitchen/001/seed-17/semantic-quality-2.json": {
+    "bytes": 3363,
+    "sha256": "6829fd6525ffde23ca1b0a32e56c812477021361dcaad54eb6fb5efd28aaaf8d"
+  },
+  "results/kitchen/001/seed-17/rgb-quality-2.json": {
+    "bytes": 1062,
+    "sha256": "fc584948fbddebd0eb620a84c0793d25c569ec7e0877de1261a894e837187c79"
+  },
+  "results/kitchen/001/seed-17/rgb-quality-4.json": {
+    "bytes": 2137,
+    "sha256": "5bfeafb9d0dde24c3b17b4777d5f0eec7bf341d2d272507b8e87c900f7cd8522"
+  },
+  "results/kitchen/001/seed-17/sampling-audit.json": {
+    "bytes": 2816,
+    "sha256": "98818add2024d2538d24c09673cbce2766830d1d5129ff241c6c0c3f7f5e09de"
+  },
+  "results/kitchen/001/seed-17/density-events.json": {
+    "bytes": 5692,
+    "sha256": "682cc763c6d1cb8b69a176aceedcda22641f577e65249f0a276c0e8ed5c37a71"
+  },
+  "results/kitchen/001/seed-17/metrics.json": {
+    "bytes": 8134,
+    "sha256": "586e8542e11e834d011e95629b42f300e5b73a90bc98f53ab145e24e7755e7d8"
+  },
+  "results/kitchen/001/seed-17/process-wall.json": {
+    "bytes": 31,
+    "sha256": "771cf1d05db6cc164e05e7442273198e78997e862d06c5e67474080d221898ea"
+  },
+  "results/kitchen/001/seed-17/rgb-quality-5.json": {
+    "bytes": 2584,
+    "sha256": "9cda6ea87027d9d9a3492eaaed6a040daef882e358795b0c16219ac357835a93"
+  },
+  "results/kitchen/001/seed-17/semantic-quality-4.json": {
+    "bytes": 7663,
+    "sha256": "d2289e558c7999fdc90e12bb0b717bedb00e71ff9389052aea1fb667e54fbabe"
+  },
+  "results/kitchen/001/seed-17/semantic-quality-3.json": {
+    "bytes": 5569,
+    "sha256": "349c53543a08569e0a73c4f3db770256509cdefa10318349ae0ec660f352343c"
+  },
+  "results/kitchen/001/seed-17/rgb-quality-3.json": {
+    "bytes": 1597,
+    "sha256": "71cd6e4cb382ba76f820dc0c40842b9c89a65b2118d4dd8de9fb67ca8f3eab02"
+  },
+  "results/kitchen/001/seed-17/rgb-quality-6.json": {
+    "bytes": 3119,
+    "sha256": "0d8781139e71d569c722d294cb7d4dfd3d1e48caeec7f82237929339db162b88"
+  },
+  "results/kitchen/001/seed-17/train.log": {
+    "bytes": 6184,
+    "sha256": "930bdb3df30481e80b97a0cc058e6dfbb74f7093342275d625462ac493aa4d6c"
+  },
+  "results/kitchen/001/seed-17/rgb-quality-1.json": {
+    "bytes": 532,
+    "sha256": "b95842433c6fd92133cbef6ad3664c75caf0352da4718a5879c657d1f1f573c1"
+  },
+  "results/kitchen/001/seed-17/semantic-quality-1.json": {
+    "bytes": 1640,
+    "sha256": "3b8ad6ffa5d954b0113c40e09ad372cbceb2079ecbb20654ef5a4573ded0f446"
+  },
+  "results/kitchen/001/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "1c24eb6e2f97073a08d0936acc7b76583f106c5b71cc27ff1f29ea3717a5d6d7"
+  },
+  "results/kitchen/001/seed-7/semantic-quality-5.json": {
+    "bytes": 9388,
+    "sha256": "1b59f1a8d9a2366b7dcfef01580fb0f0e6b863e3dfb418635e596b59ca91adad"
+  },
+  "results/kitchen/001/seed-7/semantic-quality-6.json": {
+    "bytes": 11501,
+    "sha256": "135fa1f185e78c867f169aa96d2b9339d8fad17daf744a8b5ae4e61b2c87e68c"
+  },
+  "results/kitchen/001/seed-7/semantic-quality-2.json": {
+    "bytes": 3319,
+    "sha256": "92c0e086aed7f220ade3d7108335f47ec58f51324696abf9a1cbd09497d3578c"
+  },
+  "results/kitchen/001/seed-7/rgb-quality-2.json": {
+    "bytes": 1059,
+    "sha256": "30f0f449692df7bb8feb5ea8c6931780676e39940ef3a2d790535f81d9ca414a"
+  },
+  "results/kitchen/001/seed-7/rgb-quality-4.json": {
+    "bytes": 2139,
+    "sha256": "8b6a164dd3595aa06a6ba4aec4ad0afadd0ff4af3c56473fb33a93e444ced829"
+  },
+  "results/kitchen/001/seed-7/sampling-audit.json": {
+    "bytes": 2817,
+    "sha256": "36da584546e18cdc7f423edaa51a03213c810780d3c3fd00e0a7e82a1f24ca8a"
+  },
+  "results/kitchen/001/seed-7/density-events.json": {
+    "bytes": 5694,
+    "sha256": "ae6df73b40d3d1ddf514b23a8ec42abf7329d2dfe66d32ade98b8c4d5f615cc5"
+  },
+  "results/kitchen/001/seed-7/metrics.json": {
+    "bytes": 8140,
+    "sha256": "fdf86b8742240c27b930dd0a1a3eadf33e76989ba411761930c4774bc2db97f6"
+  },
+  "results/kitchen/001/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "134ee80aa54b11a46b648a36858547e16be517f67d162cdb214fb9a63af8fb68"
+  },
+  "results/kitchen/001/seed-7/rgb-quality-5.json": {
+    "bytes": 2581,
+    "sha256": "3b33415a70d2ddf427f6968deac34f10cda4bb5de74673471d1d10a47b8c5eaf"
+  },
+  "results/kitchen/001/seed-7/semantic-quality-4.json": {
+    "bytes": 7687,
+    "sha256": "d4f8ecd4e578bba218d5549a36ca6f175886e880bb71c90c40d207d080da2a15"
+  },
+  "results/kitchen/001/seed-7/semantic-quality-3.json": {
+    "bytes": 5504,
+    "sha256": "20046360fa299e9355a638b8062ad96052d835b88366c38e1d06f35230ca8259"
+  },
+  "results/kitchen/001/seed-7/rgb-quality-3.json": {
+    "bytes": 1591,
+    "sha256": "3d6010b9f67ac5d276bbaa133e67c60b0a791daf2c699274a34f0d7c7e05cb23"
+  },
+  "results/kitchen/001/seed-7/rgb-quality-6.json": {
+    "bytes": 3121,
+    "sha256": "f60c6e77c3e962458116f33f8d4e278dcea5294eb2cd5cbb7fcde6875967d60a"
+  },
+  "results/kitchen/001/seed-7/train.log": {
+    "bytes": 6164,
+    "sha256": "f980341ac04184a01f81b5ab18baf15756cc4dbbb5bd11863f31fcf73d75486d"
+  },
+  "results/kitchen/001/seed-7/rgb-quality-1.json": {
+    "bytes": 534,
+    "sha256": "fc95c7f8c27d8dba63da8acc775c21676d59a43e60ea32a42b5bfb44e390e486"
+  },
+  "results/kitchen/001/seed-7/semantic-quality-1.json": {
+    "bytes": 1674,
+    "sha256": "0e94e335ca0eec52654adeaa97c26349441f7aecfb5cc453198dfc69ba22326a"
+  },
+  "results/kitchen/101/seed-17/run.json": {
+    "bytes": 965,
+    "sha256": "6064facb7010475a8957a19737675ea2dc03ffb466d2c0185a5bdd1f89af0bc2"
+  },
+  "results/kitchen/101/seed-17/semantic-quality-5.json": {
+    "bytes": 9455,
+    "sha256": "c7ddea9c1f8ab7fd2209aeaf17cb846e1c4601cf76a2a41bd904c6e9f5491fd7"
+  },
+  "results/kitchen/101/seed-17/semantic-quality-6.json": {
+    "bytes": 11495,
+    "sha256": "4b8067dde78548d59a9650fd83a814d522750c1927b8f8bcec189b18089d8719"
+  },
+  "results/kitchen/101/seed-17/semantic-quality-2.json": {
+    "bytes": 3313,
+    "sha256": "81a206fbfe248b3c2165bf8242a1dc10189ca02d292bb1ed9e240677045b2573"
+  },
+  "results/kitchen/101/seed-17/rgb-quality-2.json": {
+    "bytes": 1064,
+    "sha256": "e69258bcca239a6c1c040a9892b0d7d26aa146f391e2ff70acdad3a0ea6ad288"
+  },
+  "results/kitchen/101/seed-17/rgb-quality-4.json": {
+    "bytes": 2136,
+    "sha256": "3147dd3934d9e762ec3f2e6b99bdc40565e6e550744eb6d3b12e48f45c31857e"
+  },
+  "results/kitchen/101/seed-17/sampling-audit.json": {
+    "bytes": 2813,
+    "sha256": "04dce073b42497505a00ad7fc67b0c347ad5d7d03ce4e4f70aa3645e91a49fb1"
+  },
+  "results/kitchen/101/seed-17/density-events.json": {
+    "bytes": 5692,
+    "sha256": "f9f295271234a55f66baeb882fcda3040a6ed7fff43a39576f61fdc73322813c"
+  },
+  "results/kitchen/101/seed-17/metrics.json": {
+    "bytes": 8149,
+    "sha256": "598f9976b01947edd870cbf919f389a2fd851bd7cd690c36b6bd92921d4a35b1"
+  },
+  "results/kitchen/101/seed-17/process-wall.json": {
+    "bytes": 31,
+    "sha256": "adbf39b66eb85d5fdc22fcf47d20e0855b540877620cd23e1e9f94974ef4f0d8"
+  },
+  "results/kitchen/101/seed-17/rgb-quality-5.json": {
+    "bytes": 2580,
+    "sha256": "4d927a6708aa3bb82999040ebd1f728c63aa65f1781547c388189b44460171e1"
+  },
+  "results/kitchen/101/seed-17/semantic-quality-4.json": {
+    "bytes": 7675,
+    "sha256": "c4af421f5c60019941f7aeb96a85a32f9958090c69006d3a7929f747efe14cc0"
+  },
+  "results/kitchen/101/seed-17/semantic-quality-3.json": {
+    "bytes": 5583,
+    "sha256": "45b08c6247d39afc22eea3ee7b9096e50777e3d88e2db69c7ba58626f352c50e"
+  },
+  "results/kitchen/101/seed-17/rgb-quality-3.json": {
+    "bytes": 1598,
+    "sha256": "232625491fb4cd9a61f4cd68bd04f664f30122c5a452be762867124cf795c13d"
+  },
+  "results/kitchen/101/seed-17/rgb-quality-6.json": {
+    "bytes": 3124,
+    "sha256": "666a934f4b6af93e073c7977ab24eb3f9677901fb14eb0ad902fe6024bc85670"
+  },
+  "results/kitchen/101/seed-17/train.log": {
+    "bytes": 6199,
+    "sha256": "60ae7ac56f5a1d8f23e10c8fe2986a8ea9237068e008526eae2c2b598d2092bf"
+  },
+  "results/kitchen/101/seed-17/rgb-quality-1.json": {
+    "bytes": 534,
+    "sha256": "fdbb0d6a7f75405758f1e2d9bbc48041fffc835f59a3bbaf4092ea45fe4444c3"
+  },
+  "results/kitchen/101/seed-17/semantic-quality-1.json": {
+    "bytes": 1614,
+    "sha256": "8e2954638dfe22c54a39876e2e6dd7d0d52f60ca0ec857cdac9d7e42e170740f"
+  },
+  "results/kitchen/101/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "dc81f1b93cb78cbedf49713d4006e982a46100bf054b12bb8ac8c93874db38cc"
+  },
+  "results/kitchen/101/seed-7/semantic-quality-5.json": {
+    "bytes": 9528,
+    "sha256": "de2fefbb92c893fa756fbbfde0c5b5d7ac801289cceed04affe982cc3e6ecf2b"
+  },
+  "results/kitchen/101/seed-7/semantic-quality-6.json": {
+    "bytes": 11595,
+    "sha256": "4244b6d6aa36ab5213f224d97d7c8d106679e8a4e7e49a51638113466154f584"
+  },
+  "results/kitchen/101/seed-7/semantic-quality-2.json": {
+    "bytes": 3320,
+    "sha256": "900a52f1497e1b61f88784297563ccd3c9a590f62098d33e65ed47a7443c0f1e"
+  },
+  "results/kitchen/101/seed-7/rgb-quality-2.json": {
+    "bytes": 1061,
+    "sha256": "ba4eec9cd5d268a0f98105b80238fd801ef0639411a6af2908d61ec2f0d97c89"
+  },
+  "results/kitchen/101/seed-7/rgb-quality-4.json": {
+    "bytes": 2133,
+    "sha256": "f55d94a0d5c50a2db61a58f920f142502c30f6c2e7ecb28736894448d89f21b8"
+  },
+  "results/kitchen/101/seed-7/sampling-audit.json": {
+    "bytes": 2807,
+    "sha256": "b14659e003c56662d2c0ad4f4f6b5bc04c1d434bd6f147cd70ac32089f3deb77"
+  },
+  "results/kitchen/101/seed-7/density-events.json": {
+    "bytes": 5692,
+    "sha256": "1512204320a3d50018c0a1f229c493d6484c6c75d406455a4e99c929c146b753"
+  },
+  "results/kitchen/101/seed-7/metrics.json": {
+    "bytes": 8145,
+    "sha256": "be170f4af477fadee01ef8edd185898479f1f43f39055363e5ffd50c1e259181"
+  },
+  "results/kitchen/101/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "ce5e0055e712e0e384945cfc75549b008ed7e379a32b791275594446ee93b8fb"
+  },
+  "results/kitchen/101/seed-7/rgb-quality-5.json": {
+    "bytes": 2580,
+    "sha256": "bea0735335346c9161bd80cca7b27f768ac7d6d32376f965424b124ed985563c"
+  },
+  "results/kitchen/101/seed-7/semantic-quality-4.json": {
+    "bytes": 7740,
+    "sha256": "cbc145a3e63903e5191f20e463597fb9767d7ec67ef23db9f6de1d6e77d6ae71"
+  },
+  "results/kitchen/101/seed-7/semantic-quality-3.json": {
+    "bytes": 5539,
+    "sha256": "5aed802d436376e859d30f6978101e1260e57fae53865d774be2a8c51b4efd7a"
+  },
+  "results/kitchen/101/seed-7/rgb-quality-3.json": {
+    "bytes": 1597,
+    "sha256": "850cfa9a012586778b0a74238b88f47726f149607f669570312eaa7e286e7eb3"
+  },
+  "results/kitchen/101/seed-7/rgb-quality-6.json": {
+    "bytes": 3118,
+    "sha256": "8fe99fc5248d9377442c1e6bc9900ca6a3dab8bb4d11d8e2877ab059bb0aa9ea"
+  },
+  "results/kitchen/101/seed-7/train.log": {
+    "bytes": 6170,
+    "sha256": "fb466c31cf6ee82865cdba1c57d0442f94f930583e2e896c5ee489a9afaa8898"
+  },
+  "results/kitchen/101/seed-7/rgb-quality-1.json": {
+    "bytes": 532,
+    "sha256": "7e7491ad898c2f27b5db4b3fef415126d3db6c391833209b137dcaf742683d8a"
+  },
+  "results/kitchen/101/seed-7/semantic-quality-1.json": {
+    "bytes": 1572,
+    "sha256": "33d87b62065556bccaae2363ec2799c2eb0207e841a37a4338200af7c29416cd"
+  },
+  "results/kitchen/100/seed-17/run.json": {
+    "bytes": 966,
+    "sha256": "152d4ef724fd988bb4580a7ee340833d494d705633949ac4054ba2e040706098"
+  },
+  "results/kitchen/100/seed-17/semantic-quality-5.json": {
+    "bytes": 9328,
+    "sha256": "91a648efb2f259d20983653a1df5888a733a57fd23b01500f751ad2ec7262e36"
+  },
+  "results/kitchen/100/seed-17/semantic-quality-6.json": {
+    "bytes": 11523,
+    "sha256": "151eab8a999b8b3fe83bd13bb6cc823f92f34f324e021c45d116bab139efa61e"
+  },
+  "results/kitchen/100/seed-17/semantic-quality-2.json": {
+    "bytes": 3315,
+    "sha256": "d8c3a13c494bdc528696add08078aab742b9968a72998ee3a65534c2933ef3de"
+  },
+  "results/kitchen/100/seed-17/rgb-quality-2.json": {
+    "bytes": 1063,
+    "sha256": "76a3936543c51eb5103fb817741c16eb59111cff4a6822968cc99a4dba83a779"
+  },
+  "results/kitchen/100/seed-17/rgb-quality-4.json": {
+    "bytes": 2131,
+    "sha256": "d7169482147a7da380f1ca4cb8c09e8a0efbbe883a98907ff99224145fcd71e7"
+  },
+  "results/kitchen/100/seed-17/sampling-audit.json": {
+    "bytes": 2812,
+    "sha256": "426f2dd393c17755af4a855cf83e4460ac7c86f5100f330e8efd8e49ac16c712"
+  },
+  "results/kitchen/100/seed-17/density-events.json": {
+    "bytes": 5692,
+    "sha256": "c69973c459055b7a0536dfa95f65c1f97269db18d3d94d9623143cf5a99ffc21"
+  },
+  "results/kitchen/100/seed-17/metrics.json": {
+    "bytes": 8135,
+    "sha256": "abf5e564557d1d973ea2f71557d893297284ee0f797fcc61ca5d7c2daa97829c"
+  },
+  "results/kitchen/100/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "1fcd422bcfb710872bb7eaa3ba62b370cdf5cedd9ef0d787779f70c0612cf6f4"
+  },
+  "results/kitchen/100/seed-17/rgb-quality-5.json": {
+    "bytes": 2583,
+    "sha256": "d2303752d23625fdef10cd3e55b8aaa2b910c0b523c1f4d7199830068e891a06"
+  },
+  "results/kitchen/100/seed-17/semantic-quality-4.json": {
+    "bytes": 7666,
+    "sha256": "6e0d1ef6945091bebb30662daea52d4f21ec01f04cff5dd54225ee29e924fbd1"
+  },
+  "results/kitchen/100/seed-17/semantic-quality-3.json": {
+    "bytes": 5485,
+    "sha256": "cadf8e85543fc087f64271cd7b5346ffd10f50ef6bb36fc54bacf8a05bbaaa61"
+  },
+  "results/kitchen/100/seed-17/rgb-quality-3.json": {
+    "bytes": 1599,
+    "sha256": "1068ec491e06ba796a10300a734fa5445b55063c3a3a7b52033ea4a5e408eb13"
+  },
+  "results/kitchen/100/seed-17/rgb-quality-6.json": {
+    "bytes": 3116,
+    "sha256": "6e8b4c146da4f0587b9c6153d20afc7325c59f4f8a4bd65b856b0b2298188fde"
+  },
+  "results/kitchen/100/seed-17/train.log": {
+    "bytes": 6188,
+    "sha256": "7297328d1858d5bafaf5ac5de31dc034cb301ec409061e69f4085c56aea12925"
+  },
+  "results/kitchen/100/seed-17/rgb-quality-1.json": {
+    "bytes": 530,
+    "sha256": "a7ab36657a257fc5b84bd155ddcb9e4e6341fe09c825f1250e08cc14bae0d4b1"
+  },
+  "results/kitchen/100/seed-17/semantic-quality-1.json": {
+    "bytes": 1606,
+    "sha256": "f839a935d9b228ebff8cb22e254b054e77778866fda7047951b51193e8ac3df9"
+  },
+  "results/kitchen/100/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "449e1e497368641858693aa7accd44cf823ebf03af5cd91767ded9fc2bf0d51b"
+  },
+  "results/kitchen/100/seed-7/semantic-quality-5.json": {
+    "bytes": 9419,
+    "sha256": "c4730eb6960d8379ad245fb2814fb4585e58b84b977e6c335b97deb800021580"
+  },
+  "results/kitchen/100/seed-7/semantic-quality-6.json": {
+    "bytes": 11428,
+    "sha256": "28052ed480ae1fbb387556316721945c1fe1ab4b372e4e59b0af3ff149e2248a"
+  },
+  "results/kitchen/100/seed-7/semantic-quality-2.json": {
+    "bytes": 3343,
+    "sha256": "1c2cff143d62517f610edba7fabe8bfb998bd919cd52a1dfdc13d3d97d3f5b2f"
+  },
+  "results/kitchen/100/seed-7/rgb-quality-2.json": {
+    "bytes": 1060,
+    "sha256": "e0708b83492e9c7e18a1f18a150ad0d54ecbc44288eeb5b67c24fbd469f6141f"
+  },
+  "results/kitchen/100/seed-7/rgb-quality-4.json": {
+    "bytes": 2133,
+    "sha256": "ab99c5f0d98d3c27ed4f8df74aabaa23dfbe430e4a9ce51c2684214ebdcb162d"
+  },
+  "results/kitchen/100/seed-7/sampling-audit.json": {
+    "bytes": 2811,
+    "sha256": "c009936a39fc7c480a613960a41623abe0910d03c767b7bc3ef6e45d5151712d"
+  },
+  "results/kitchen/100/seed-7/density-events.json": {
+    "bytes": 5690,
+    "sha256": "53179d5500ad12824f7c4da1b6a03e20bbe9f428b949783d935ffb23d62be337"
+  },
+  "results/kitchen/100/seed-7/metrics.json": {
+    "bytes": 8142,
+    "sha256": "5045ef2e6fbe3f2a30d489ec5c4ffcd86e2839974f3793fca1ff9a4df4a16f5d"
+  },
+  "results/kitchen/100/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "256394e2de90fb72e58b78ae31265bbbf6d291af99ea1c5f5221a44016cad456"
+  },
+  "results/kitchen/100/seed-7/rgb-quality-5.json": {
+    "bytes": 2583,
+    "sha256": "383e978113dbf8154670fce0a0a3753e81c18567d8c698bf3937719453771204"
+  },
+  "results/kitchen/100/seed-7/semantic-quality-4.json": {
+    "bytes": 7773,
+    "sha256": "3dbccb2d094ebfe97fdce319540c7f0de1cbfdb19b5cabfde74b295139e1394c"
+  },
+  "results/kitchen/100/seed-7/semantic-quality-3.json": {
+    "bytes": 5638,
+    "sha256": "ea5b01296a1c23d5c4715dee40b35860baa0108ce06e8736bb6b330cd700cc62"
+  },
+  "results/kitchen/100/seed-7/rgb-quality-3.json": {
+    "bytes": 1594,
+    "sha256": "ec95f54a4fc0042c5b486598048dbf026f2264b3ce9d3167bb1ac777e3cd0f81"
+  },
+  "results/kitchen/100/seed-7/rgb-quality-6.json": {
+    "bytes": 3121,
+    "sha256": "38b95c73f82c0b7e10b2f10f5f4d6aafbd355a63023b18916f579393c967f58d"
+  },
+  "results/kitchen/100/seed-7/train.log": {
+    "bytes": 6164,
+    "sha256": "cd0415310ac0da4930efe6309b4eff58b0a29a42bd0ec6872e2931af057564cc"
+  },
+  "results/kitchen/100/seed-7/rgb-quality-1.json": {
+    "bytes": 532,
+    "sha256": "a9e264a73d7d4b83726484344b6b765d7da1016af211a80fa6717ca207eeec83"
+  },
+  "results/kitchen/100/seed-7/semantic-quality-1.json": {
+    "bytes": 1596,
+    "sha256": "e75f4bb910c0596150a1b3f74fe835637b1d1a60b7a29b3c8716b23dc99b9dca"
+  },
+  "results/kitchen/010/seed-17/run.json": {
+    "bytes": 966,
+    "sha256": "77cc16cdaa3800a859c80417f0b8e6e555ba3e366f470388b1655281b9e666b9"
+  },
+  "results/kitchen/010/seed-17/semantic-quality-5.json": {
+    "bytes": 9500,
+    "sha256": "fb700cb10b8bbb4dd557605d27839223ba82a9e2c9596053f66c292d18dcc968"
+  },
+  "results/kitchen/010/seed-17/semantic-quality-6.json": {
+    "bytes": 11520,
+    "sha256": "38c64b831e539c7aa6fd73facf3bca5a66862bb2ddcba4c09ca2762f0b811c7c"
+  },
+  "results/kitchen/010/seed-17/semantic-quality-2.json": {
+    "bytes": 3290,
+    "sha256": "4a1e6a20958131d7604eaabd6b088dacc7f78376487bf0a09be564a5f5e06a74"
+  },
+  "results/kitchen/010/seed-17/rgb-quality-2.json": {
+    "bytes": 1060,
+    "sha256": "89611dcc4a05b8c19d05410720b2fc66676e685a7e23447c52aaab33239324e6"
+  },
+  "results/kitchen/010/seed-17/rgb-quality-4.json": {
+    "bytes": 2129,
+    "sha256": "be156362a4b62f42ca23f4b89d44892079226e33ae7b3ed72924a9663c71d951"
+  },
+  "results/kitchen/010/seed-17/sampling-audit.json": {
+    "bytes": 2822,
+    "sha256": "6fff7f7f86d9f670d8d06649a4e1d2616cb5a972b242a29746eb7a351acf3ea4"
+  },
+  "results/kitchen/010/seed-17/density-events.json": {
+    "bytes": 5687,
+    "sha256": "cfd606895cfb0211fbe8d687c6db0618192cac87a398a4fbc277b253ced21a17"
+  },
+  "results/kitchen/010/seed-17/metrics.json": {
+    "bytes": 8143,
+    "sha256": "ddee004aa4270740d06ac7465454724c655cdd9933d9646dd61bbc7a831c7ce7"
+  },
+  "results/kitchen/010/seed-17/process-wall.json": {
+    "bytes": 30,
+    "sha256": "c28ac4585c0e9508e7d8c7f04de23f6b6571902a8d0efde65ad772fa480f8d88"
+  },
+  "results/kitchen/010/seed-17/rgb-quality-5.json": {
+    "bytes": 2582,
+    "sha256": "4464ed821d6b6823137dd9956be097fd76f94bd9ce50e04d9fc81bdf5a35fe8c"
+  },
+  "results/kitchen/010/seed-17/semantic-quality-4.json": {
+    "bytes": 7806,
+    "sha256": "18bf1277ee4644e70fdbdaa556ef9a98e9472a5806258481e994449a74d81ea3"
+  },
+  "results/kitchen/010/seed-17/semantic-quality-3.json": {
+    "bytes": 5555,
+    "sha256": "a18338711d80cc9d92b3384b394b250cf4a98cb1048cf2b2758bfe985748298b"
+  },
+  "results/kitchen/010/seed-17/rgb-quality-3.json": {
+    "bytes": 1599,
+    "sha256": "89a6e637b2ff0490047c558ac0607a6b8638021fc53c2b389bfd55bd0cb9a1d3"
+  },
+  "results/kitchen/010/seed-17/rgb-quality-6.json": {
+    "bytes": 3109,
+    "sha256": "5d8a6f11ca77f2ab197d82cbd5983c726ea3c9f4ae26b131b6c272710b726dd5"
+  },
+  "results/kitchen/010/seed-17/train.log": {
+    "bytes": 6194,
+    "sha256": "a478086ed0177a64496e71e9a76a1c3eed01c532c2b222e63e57dc2496b6447c"
+  },
+  "results/kitchen/010/seed-17/rgb-quality-1.json": {
+    "bytes": 534,
+    "sha256": "f7c81b1d14b4a0610cfc276a110687d88f26bf2c943c323b241e65989689f6e2"
+  },
+  "results/kitchen/010/seed-17/semantic-quality-1.json": {
+    "bytes": 1659,
+    "sha256": "8781c2b39205f97adda25065e20c09a2e85486a0ec15606f4f50daf95b9bcf38"
+  },
+  "results/kitchen/010/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "2424cabc0d7971700e083d89768092734b1b11845932940ed810aa09ac96187f"
+  },
+  "results/kitchen/010/seed-7/semantic-quality-5.json": {
+    "bytes": 9207,
+    "sha256": "72178267b3a41aef08ab1269a52d2b4adaf6ef5180872832ef74c38911bc8767"
+  },
+  "results/kitchen/010/seed-7/semantic-quality-6.json": {
+    "bytes": 11303,
+    "sha256": "8b8b52b3d04256147ab7460ffb096ebabb753a9d574cc1e67918220379250f99"
+  },
+  "results/kitchen/010/seed-7/semantic-quality-2.json": {
+    "bytes": 3327,
+    "sha256": "8b53efffb7e0222f3422e009ef3ba5af00dbb739084666d96e868d84366f1c67"
+  },
+  "results/kitchen/010/seed-7/rgb-quality-2.json": {
+    "bytes": 1063,
+    "sha256": "5b526e26115137c993aea4b0b6edcf176dfd557508c46a98bb3fb76fcf857328"
+  },
+  "results/kitchen/010/seed-7/rgb-quality-4.json": {
+    "bytes": 2130,
+    "sha256": "4268b162a49d09c53ae03eb64b59f8f4c7de60b46793c1eb6bc8ee70bb37ccc2"
+  },
+  "results/kitchen/010/seed-7/sampling-audit.json": {
+    "bytes": 2817,
+    "sha256": "57d70e26afb1fe49dc5393a625647f514ce586d13e794959360c8014fb56c7e0"
+  },
+  "results/kitchen/010/seed-7/density-events.json": {
+    "bytes": 5685,
+    "sha256": "c89cc3e29d176b1732d2f25c5e1520a30fc7c1b1bc52f8d03471a068cc78fe88"
+  },
+  "results/kitchen/010/seed-7/metrics.json": {
+    "bytes": 8131,
+    "sha256": "97f3bfa14a70e78d11c9230218b7bfcd96a82c1b0a35d34781c64444bf31ae56"
+  },
+  "results/kitchen/010/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "227ae16c045f691832a4b085235b4fa2c3e92c85346f195938a6f8e5fe5ed44e"
+  },
+  "results/kitchen/010/seed-7/rgb-quality-5.json": {
+    "bytes": 2586,
+    "sha256": "f8932632bd286cb1b52f608193f1615348b6fe72fb38adeb97643591a6d54a56"
+  },
+  "results/kitchen/010/seed-7/semantic-quality-4.json": {
+    "bytes": 7656,
+    "sha256": "86489646e0d8961aac59c0be740a07aa226f468cc0b98404f386833317911199"
+  },
+  "results/kitchen/010/seed-7/semantic-quality-3.json": {
+    "bytes": 5514,
+    "sha256": "c57f23bff115aadfff1c4f7d5e4d6b81ba33b5979d787ddc1a6e495cf785d253"
+  },
+  "results/kitchen/010/seed-7/rgb-quality-3.json": {
+    "bytes": 1596,
+    "sha256": "7e880b8358a27317c40b4fbbcc0e0af804df60d513d129ee0c024524c5a63d19"
+  },
+  "results/kitchen/010/seed-7/rgb-quality-6.json": {
+    "bytes": 3119,
+    "sha256": "661c52399619d1dfdf5b6e62908850d0d5d361dab46417138e064db3c7e4f4b3"
+  },
+  "results/kitchen/010/seed-7/train.log": {
+    "bytes": 6161,
+    "sha256": "26e137997bacd351ff63faf65aa458b2d6b4138a52d2eacee9479e1973b1c58b"
+  },
+  "results/kitchen/010/seed-7/rgb-quality-1.json": {
+    "bytes": 530,
+    "sha256": "4cb62cdfe1754c328c643d96f3ae38610be1ad7ef4671cbad7b9ce67806beef8"
+  },
+  "results/kitchen/010/seed-7/semantic-quality-1.json": {
+    "bytes": 1665,
+    "sha256": "1904dfde5ecf7ed8e89881ca6ef64d917f3a3a124165dfbfb9e6d265f30c6e20"
+  },
+  "results/kitchen/110/seed-17/run.json": {
+    "bytes": 966,
+    "sha256": "c798457a615ce62fc562618ccdd9e7ce8c8bab7c5332ce5b0f2924e885efc9cd"
+  },
+  "results/kitchen/110/seed-17/semantic-quality-5.json": {
+    "bytes": 9208,
+    "sha256": "c780ed2a6379bb01af4e3142df440136cdc1b89d905d995ad97e3012d303137a"
+  },
+  "results/kitchen/110/seed-17/semantic-quality-6.json": {
+    "bytes": 11435,
+    "sha256": "c37f42b1b1e0929d13a077318ef0a14c4c05ee39c6fe2f21340152f48b96fe54"
+  },
+  "results/kitchen/110/seed-17/semantic-quality-2.json": {
+    "bytes": 3377,
+    "sha256": "eb0b9af243e9959a7ae68918c9ac0b6e66829d738c039426d59f44e7681cad6c"
+  },
+  "results/kitchen/110/seed-17/rgb-quality-2.json": {
+    "bytes": 1057,
+    "sha256": "c6f29846015505ca081ad0b4c48f686c9165a11853e739d4e3285b660e04c8bb"
+  },
+  "results/kitchen/110/seed-17/rgb-quality-4.json": {
+    "bytes": 2134,
+    "sha256": "d0d0c92ad4e72522b455141a800ebc855e3c902076a9d7876a1d584f330e14ce"
+  },
+  "results/kitchen/110/seed-17/sampling-audit.json": {
+    "bytes": 2810,
+    "sha256": "4341e10dbbe21289e624637f6e752d7a2165b8c16b684dd61544205d72dcd7f5"
+  },
+  "results/kitchen/110/seed-17/density-events.json": {
+    "bytes": 5687,
+    "sha256": "74a2fe4d39576d1bf07acb4e0fd3a37d23db075f33eb517ad2d2d2cea6c28801"
+  },
+  "results/kitchen/110/seed-17/metrics.json": {
+    "bytes": 8121,
+    "sha256": "adccce33fe95422f86c3ce61e3f88b7fbd2b1263c93ae5a2b08edc9c12d32360"
+  },
+  "results/kitchen/110/seed-17/process-wall.json": {
+    "bytes": 31,
+    "sha256": "30634b608bb2f396405cc3ea795910339814a0fae69cf5b9e0b88214426e99ad"
+  },
+  "results/kitchen/110/seed-17/rgb-quality-5.json": {
+    "bytes": 2589,
+    "sha256": "a5d77c1121999ecee9a7a3623777e2fecc11ec281f9437fd84ce295fcd2a8d11"
+  },
+  "results/kitchen/110/seed-17/semantic-quality-4.json": {
+    "bytes": 7690,
+    "sha256": "44a07d6b34e199ff8cc5ff442df04691e5603ed4e5c2cf98ecc8fafae5e018e1"
+  },
+  "results/kitchen/110/seed-17/semantic-quality-3.json": {
+    "bytes": 5526,
+    "sha256": "6fed04b59003dea7566fa86bea2323cad3724b189eebd72f52d043fb4ae35df2"
+  },
+  "results/kitchen/110/seed-17/rgb-quality-3.json": {
+    "bytes": 1596,
+    "sha256": "c72dc22673a60c8a4f3d841040f66472238d9d03eb1c243b679a2cba95a99e4b"
+  },
+  "results/kitchen/110/seed-17/rgb-quality-6.json": {
+    "bytes": 3109,
+    "sha256": "f87043c72652d22e2d494c1997a5b69b88136157551e824614a461d278e8fa16"
+  },
+  "results/kitchen/110/seed-17/train.log": {
+    "bytes": 6184,
+    "sha256": "29e6e255f63d7888512440a10c58ca987e379ea640ccd4911033c518d38d64f1"
+  },
+  "results/kitchen/110/seed-17/rgb-quality-1.json": {
+    "bytes": 532,
+    "sha256": "c906ece4ca08b58df200b6661a798c16076b5f3e654db151b6a92b951efa5345"
+  },
+  "results/kitchen/110/seed-17/semantic-quality-1.json": {
+    "bytes": 1594,
+    "sha256": "eb6becd5209e98f9fd6ab05485a39a5945a75a8bfa1eb5445720c846e3fa3aac"
+  },
+  "results/kitchen/110/seed-7/run.json": {
+    "bytes": 964,
+    "sha256": "de375b1a3a82f3dcbe1f9105f30514e553869c5c1cd0429f6129e9f7a05cac74"
+  },
+  "results/kitchen/110/seed-7/semantic-quality-5.json": {
+    "bytes": 9433,
+    "sha256": "1435674cc40ad23438e3692d118b9324cc014c25294cb2e5d6b4df5339189269"
+  },
+  "results/kitchen/110/seed-7/semantic-quality-6.json": {
+    "bytes": 11624,
+    "sha256": "efcaeffd301e16a079c7f21efce73316d147d9a96b094f31f4ef96ef4876bc5a"
+  },
+  "results/kitchen/110/seed-7/semantic-quality-2.json": {
+    "bytes": 3351,
+    "sha256": "27410becbbdbefbc8660781a9cedf16eb9e1ea0ac1765e00e82e0548af3b9641"
+  },
+  "results/kitchen/110/seed-7/rgb-quality-2.json": {
+    "bytes": 1068,
+    "sha256": "c632c9dc939b03d3df4297b453a7154fd1853f029670f3a6161216d8ae1a7517"
+  },
+  "results/kitchen/110/seed-7/rgb-quality-4.json": {
+    "bytes": 2134,
+    "sha256": "ebad7d1c72a3b424902c2caff049d52b2f2c7768215c4706e376207cc427f9fe"
+  },
+  "results/kitchen/110/seed-7/sampling-audit.json": {
+    "bytes": 2804,
+    "sha256": "9473a94d46fde4ef70fdb86c788f49ba209442b1c4781cb5d5342327737e89c6"
+  },
+  "results/kitchen/110/seed-7/density-events.json": {
+    "bytes": 5687,
+    "sha256": "4cd6c1089ed1b952a42a55542a2b9616b5d635559dc081ba6ff0b7059cb47d87"
+  },
+  "results/kitchen/110/seed-7/metrics.json": {
+    "bytes": 8130,
+    "sha256": "9d2b753e7193945cb3b6e0fea83971a461aa6fe89cfd38fba97215c23d50782f"
+  },
+  "results/kitchen/110/seed-7/process-wall.json": {
+    "bytes": 31,
+    "sha256": "ac12c1bd656c0a9ff8b6696357aed72ef8f244061b45ac631cb84f57dcd6fdfa"
+  },
+  "results/kitchen/110/seed-7/rgb-quality-5.json": {
+    "bytes": 2582,
+    "sha256": "ddda0cb54844b51540c1fc35bab6d4f05c60d2a7651a7981a1b213e28775d0de"
+  },
+  "results/kitchen/110/seed-7/semantic-quality-4.json": {
+    "bytes": 7727,
+    "sha256": "e6d964c52af288327ea5df6ef871fa19b2db4a863f0f15bf96cdc18f5ee21136"
+  },
+  "results/kitchen/110/seed-7/semantic-quality-3.json": {
+    "bytes": 5515,
+    "sha256": "bab375dee50740d14539f0c2d4f53c5e4a8dd798766d48da3afe4452d9373d9b"
+  },
+  "results/kitchen/110/seed-7/rgb-quality-3.json": {
+    "bytes": 1595,
+    "sha256": "465bfb3216e64f40f13b681590c37af866da19f89d6ad4382342b78b94152539"
+  },
+  "results/kitchen/110/seed-7/rgb-quality-6.json": {
+    "bytes": 3115,
+    "sha256": "1d003f2008889e1f5f7a1641070f453c80bc82edeb972f6e0f99ccce123f44fd"
+  },
+  "results/kitchen/110/seed-7/train.log": {
+    "bytes": 6165,
+    "sha256": "445bd44db552d14e11f30e5d3e7be06590ce74f42871c10eac5094d6d54bb7c2"
+  },
+  "results/kitchen/110/seed-7/rgb-quality-1.json": {
+    "bytes": 530,
+    "sha256": "443634738547f8440d6814ce99fb0036e9c0dc15bbe349807e7644911863bb8c"
+  },
+  "results/kitchen/110/seed-7/semantic-quality-1.json": {
+    "bytes": 1626,
+    "sha256": "06436cdd99ccc4135c5dcf16e52e6cf217f92e61acf078f175641c1df46b37bc"
+  },
+  "data/tum640/manifest.json": {
+    "bytes": 108511,
+    "sha256": "3f6f62780bc42936a278eec162e6bbd79af083fc3d9314a0d6e8b31948fac9df"
+  },
+  "data/tum-desk/teachers/masks-0086.npz": {
+    "bytes": 50349,
+    "sha256": "0bdeae1c96622b83c94e7ce64cadcb0f87224a17018461c25c2b78761d199d7c"
+  },
+  "data/tum-desk/teachers/masks-0079.npz": {
+    "bytes": 41232,
+    "sha256": "427499f9814375180c04e3eacf36e98206f79e69859c1ef5ba55734bcace339a"
+  },
+  "data/tum-desk/teachers/masks-0050.npz": {
+    "bytes": 33098,
+    "sha256": "bd024462238320e7fd4bb44ba07ed0e249e8b2138067a511c21944605e37a233"
+  },
+  "data/tum-desk/teachers/masks-0050.json": {
+    "bytes": 4094,
+    "sha256": "57ceeb59060e20335cd8760544249e3928ac394c6c193e13bd9d5eb8ec85851e"
+  },
+  "data/tum-desk/teachers/masks-0093.npz": {
+    "bytes": 33614,
+    "sha256": "3953d663665c2f0433a0b96b9002c00e921338f5ddc5c6ffa2846dacd870681c"
+  },
+  "data/tum-desk/teachers/masks-0094.json": {
+    "bytes": 3767,
+    "sha256": "5a21cec55f9e16ae78650d62b90a240db39b4b7041eaa89faa448434aaa4d814"
+  },
+  "data/tum-desk/teachers/masks-0022.npz": {
+    "bytes": 50604,
+    "sha256": "7a3f652f2182a666df36ef1926f7d31615034cb0de2e6a73f564b24f108d60e4"
+  },
+  "data/tum-desk/teachers/masks-0065.npz": {
+    "bytes": 43331,
+    "sha256": "7f7aec43bec9b326596e58f62931ec81824cbac5302cb9c1ecdd3a920e1151c7"
+  },
+  "data/tum-desk/teachers/text-features.npy": {
+    "bytes": 82048,
+    "sha256": "410cc60b16969a045b8fac86ef403a7b25d2bb215929c550802013dc05d9d9d6"
+  },
+  "data/tum-desk/teachers/masks-0021.json": {
+    "bytes": 5780,
+    "sha256": "e5ef5ee4c23374b011a7f2498e6d7f3be5987449fc29df2b18ef0be2c6b1135d"
+  },
+  "data/tum-desk/teachers/masks-0057.json": {
+    "bytes": 2588,
+    "sha256": "f7b01e79d42edcf50c6c76f3cc50689957f12a5cde1fa2da0ca477dd3d37938d"
+  },
+  "data/tum-desk/teachers/masks-0115.npz": {
+    "bytes": 47351,
+    "sha256": "becc3fa9fba05c36f88a5bc23eb1de28d00ca03022883efa75c7757a5a11b16a"
+  },
+  "data/tum-desk/teachers/masks-0108.npz": {
+    "bytes": 46817,
+    "sha256": "6a4c9951921d454a897656f2c55c90d30e6700e6bce043087e154d93d1f25155"
+  },
+  "data/tum-desk/teachers/masks-0108.json": {
+    "bytes": 5488,
+    "sha256": "4499ab705d8b1becb89de254ec774937945ebaf591639686b9aacb5076bb9ed1"
+  },
+  "data/tum-desk/teachers/masks-0086.json": {
+    "bytes": 6160,
+    "sha256": "7842752c47834ff14e464cd9e97629fd182985f0fc42f5424db41ebd216c2a85"
+  },
+  "data/tum-desk/teachers/masks-0058.npz": {
+    "bytes": 28179,
+    "sha256": "46f606bdb6d2c8c1715555e43ebcc9a8898b8e2d83ed1a5efcbe838898e37ec2"
+  },
+  "data/tum-desk/teachers/masks-0000.json": {
+    "bytes": 2765,
+    "sha256": "dbac8af58d9a97f17f37f818563ed10eb47338b6963b0a6370b825f88279cdd3"
+  },
+  "data/tum-desk/teachers/masks-0014.json": {
+    "bytes": 5065,
+    "sha256": "b557032869460e3fea2592ed439971279b65f178e3d66459c9c2552b4e0c1155"
+  },
+  "data/tum-desk/teachers/masks-0058.json": {
+    "bytes": 3029,
+    "sha256": "060914301f3643165427523424c5e24f873489de0674caa0a85de2de3a45c4ea"
+  },
+  "data/tum-desk/teachers/masks-0021.npz": {
+    "bytes": 46213,
+    "sha256": "e92346ef084cb3f4cf3a468271cd8940d8204a8a022908de9c713f17475359f4"
+  },
+  "data/tum-desk/teachers/masks-0003.npz": {
+    "bytes": 24972,
+    "sha256": "20a0f0140192c989cd6b53e4c9682022fd96f8cd335d0b0aeb38b7a04a3b4638"
+  },
+  "data/tum-desk/teachers/masks-0065.json": {
+    "bytes": 5499,
+    "sha256": "e1d39c869be5978673373786e7af5b5a1f22b61901a5f49c9261911396c03455"
+  },
+  "data/tum-desk/teachers/masks-0057.npz": {
+    "bytes": 24922,
+    "sha256": "8fdc319ba0cd93cfc53fb00d0e1af7305401e100e49996211accefd51f51543f"
+  },
+  "data/tum-desk/teachers/masks-0043.npz": {
+    "bytes": 40908,
+    "sha256": "9519a880b53471f4276ea3920517440eaf937fa4d19ef30f157dc2cb06808dde"
+  },
+  "data/tum-desk/teachers/masks-0072.npz": {
+    "bytes": 37556,
+    "sha256": "51e46ff9d02097ec018d5da0040c1999e429dde538ebd8399ff2b1270699aa6f"
+  },
+  "data/tum-desk/teachers/masks-0079.json": {
+    "bytes": 5093,
+    "sha256": "4fa4d96d17f19f7ef83213aacfbef4ebbafd77f3a44079014a8b608f38b8e655"
+  },
+  "data/tum-desk/teachers/masks-0072.json": {
+    "bytes": 4816,
+    "sha256": "503b2a099fc47b63a1bdcae03a76bff73affe83b610a2a89e34f2fc54331b0ab"
+  },
+  "data/tum-desk/teachers/masks-0115.json": {
+    "bytes": 5483,
+    "sha256": "922616cf6584181b6709893ab5cedf7c41ff791b7aed81bd082596f9b2612e84"
+  },
+  "data/tum-desk/teachers/masks-0111.npz": {
+    "bytes": 43189,
+    "sha256": "d04c040ab261c33bce0d522a056780dfe3866cae63f64990070d0b697da68e28"
+  },
+  "data/tum-desk/teachers/vocabulary.json": {
+    "bytes": 504,
+    "sha256": "6b5fa58c2dce950d0ae9f0f65d81fa574eaa745342d3ac439700f456d6a1a4af"
+  },
+  "data/tum-desk/teachers/masks-0075.json": {
+    "bytes": 3928,
+    "sha256": "ab97087f627d2996c5ee53f89566f0b16ec34c2b56868dbdc06d8682c201ebc9"
+  },
+  "data/tum-desk/teachers/masks-0101.json": {
+    "bytes": 3754,
+    "sha256": "08e03e5fa42685a8963313b2a08d210d89896222ef79077129e74eb935c62059"
+  },
+  "data/tum-desk/teachers/masks-0036.npz": {
+    "bytes": 16152,
+    "sha256": "55e02e2dfc3f0a061806a02e14c9d025fde6937155cd0a364cee19848a3b72f3"
+  },
+  "data/tum-desk/teachers/masks-0094.npz": {
+    "bytes": 29385,
+    "sha256": "e11b1642847963c1988ab4ce799d075ab2fc3084c45a93a78841fe68dc30f99b"
+  },
+  "data/tum-desk/teachers/masks-0003.json": {
+    "bytes": 3011,
+    "sha256": "eede87bcf4bfaf6b4f16199885bb692261c8ba0a6b64b58172ce703b1c48585f"
+  },
+  "data/tum-desk/teachers/masks-0093.json": {
+    "bytes": 4221,
+    "sha256": "ea3d40642fd45ac68ea00f17bc4643008e1e141569ece2684d9b12124cd78d75"
+  },
+  "data/tum-desk/teachers/masks-0022.json": {
+    "bytes": 6112,
+    "sha256": "22d9072216221ea0e2ac4356e4460be0772bd74cc17be45da6033272c7527fad"
+  },
+  "data/tum-desk/teachers/masks-0039.npz": {
+    "bytes": 40873,
+    "sha256": "ad0398d1735e41f6d7fba7c3930b42a91f44421f1ea510fb439d70a4856974e8"
+  },
+  "data/tum-desk/teachers/masks-0075.npz": {
+    "bytes": 31699,
+    "sha256": "05df4e2ea5a1864507f3ce7056c9e016b95932664b58636e45efd316f0b4151c"
+  },
+  "data/tum-desk/teachers/masks-0029.json": {
+    "bytes": 5378,
+    "sha256": "ea63ec7d6fb58ca7dcb71c325e240d3f40955c5b5157d3940297c7bb25f64ef2"
+  },
+  "data/tum-desk/teachers/masks-0007.json": {
+    "bytes": 3784,
+    "sha256": "6d833a5bfe6f5be46fc99e6b7c6d7ca9cb9bf9f78796b5860d6081c62e1162a5"
+  },
+  "data/tum-desk/teachers/masks-0036.json": {
+    "bytes": 2140,
+    "sha256": "73a6c220d3c23ca7cac1e0790645eb4eeb10f8d52a1aa673244f09fb0ac1627f"
+  },
+  "data/tum-desk/teachers/masks-0101.npz": {
+    "bytes": 33425,
+    "sha256": "cd24b059871fe7edc686c9b0d3c6b185666d2db2a679def33630e140e72931a4"
+  },
+  "data/tum-desk/teachers/masks-0000.npz": {
+    "bytes": 23650,
+    "sha256": "95fd1114742ba53d6b3b4430ce30c09a4f5762b696cd2833378999cd51f5ecaa"
+  },
+  "data/tum-desk/teachers/index.json": {
+    "bytes": 116056,
+    "sha256": "bb03f021c5f0d433cc715e1697b45f8a19649e8add1e23173ddd9e97776d545e"
+  },
+  "data/tum-desk/teachers/masks-0111.json": {
+    "bytes": 4907,
+    "sha256": "c6ff0668498a5965efa1f013eb3204fc4ae86923c12baa931dfd9920fc565cda"
+  },
+  "data/tum-desk/teachers/masks-0043.json": {
+    "bytes": 5242,
+    "sha256": "cb389c01c9c05a86944e7907b31d6f36dd344a70eaa8fb2fa8f690642bb4b02c"
+  },
+  "data/tum-desk/teachers/masks-0014.npz": {
+    "bytes": 42376,
+    "sha256": "4bb888b21b4ca096f51dd97885813cba730ce29021f0cc56be5ad7d20c076bc9"
+  },
+  "data/tum-desk/teachers/masks-0007.npz": {
+    "bytes": 29247,
+    "sha256": "0b1f19e64e9c5a0acc46c0f3435f5b3f612315aeb48f2e60d0662c8b721dfed0"
+  },
+  "data/tum-desk/teachers/masks-0029.npz": {
+    "bytes": 41684,
+    "sha256": "ecb8881841fd011ddef4e2cf29dc8b8ac350f591bee4cab8631095b96e6c8d81"
+  },
+  "data/tum-desk/teachers/masks-0039.json": {
+    "bytes": 5082,
+    "sha256": "95e82667d0a40505877957d829b6e0ba5d22c850ca661b4bf0abdbcf5c353e16"
+  },
+  "data/tum-desk/prefixes/preparation.json": {
+    "bytes": 228,
+    "sha256": "4bf159ec00fa09c7a54dbf8c6149c78118ad9176ab5c2ed2161fc3e15435c152"
+  },
+  "data/tum-desk/prefixes/prefix-1.json": {
+    "bytes": 499647,
+    "sha256": "047359cf741adf5d853d6de8111aa6f7a93a7ea92f21f0a465750dc5040277ac"
+  },
+  "data/tum-desk/prefixes/prefix-5.npz": {
+    "bytes": 161756,
+    "sha256": "1dc6a2be233dbaf52cb66342ec9bed1f8388f08c9ca351ff252d77e876238263"
+  },
+  "data/tum-desk/prefixes/prefix-4.json": {
+    "bytes": 2024849,
+    "sha256": "4ca541c77485eb0eaac45493fca2b0ca52ed44d10ae5311a83e5cd492427c336"
+  },
+  "data/tum-desk/prefixes/prefix-2.json": {
+    "bytes": 1008406,
+    "sha256": "322eadd9fd08d4596ab1cdedabe0ba740fbbfb11d4204210ffd35d68c808179c"
+  },
+  "data/tum-desk/prefixes/anchors.npz": {
+    "bytes": 4501342,
+    "sha256": "5749fcc3efa2d8eb598b228b457849681f2ba7182c6496b425f3942a5e519690"
+  },
+  "data/tum-desk/prefixes/prefix-1.npz": {
+    "bytes": 20866,
+    "sha256": "0518a70b964a9ea01e1bfb641fe2de3577ecdc15b4dce09e9285f45c2d0f09a7"
+  },
+  "data/tum-desk/prefixes/prefix-4.npz": {
+    "bytes": 107679,
+    "sha256": "c4565a8f68c677067d16d0313384ac7c3df7b713f0d8b4fb87bca6227e6278ec"
+  },
+  "data/tum-desk/prefixes/prefix-6.npz": {
+    "bytes": 178100,
+    "sha256": "1f47277e21fb12f45d912648d106b05369080bf0522163905ad5ad50e0971ab1"
+  },
+  "data/tum-desk/prefixes/prefix-6.json": {
+    "bytes": 3070284,
+    "sha256": "208a21d87f2018ddeaeb6a721cc15535f2625edbab00d476d15a76613317c6fc"
+  },
+  "data/tum-desk/prefixes/prefix-5.json": {
+    "bytes": 2805819,
+    "sha256": "227738fe298b0ad467b78216f03c1f843a79d6141affba08112d82fc12b999c1"
+  },
+  "data/tum-desk/prefixes/prefix-3.json": {
+    "bytes": 1546905,
+    "sha256": "baaf05e7a6a3c0a661bce2ef77a9fc525ece3312fa91c42bbd77d91357cd0925"
+  },
+  "data/tum-desk/prefixes/prefix-3.npz": {
+    "bytes": 81210,
+    "sha256": "22c7270449c7269a51c4011bb2bded5ab5069beb6a7388f875cb2cb5d6db6296"
+  },
+  "data/tum-desk/prefixes/prefix-2.npz": {
+    "bytes": 45869,
+    "sha256": "30c49267a20ff58dba92dac4a98a882148d52cceced2bdc4e1accb2ceea72be7"
+  },
+  "data/kitchen/teachers/masks-0062.npz": {
+    "bytes": 69746,
+    "sha256": "d68cd8dc355ab89c6dbef7e47e6c2aa7a93edbf2e33f9d4fc5c872c60759be44"
+  },
+  "data/kitchen/teachers/masks-0179.npz": {
+    "bytes": 82982,
+    "sha256": "32f01fcd357306181e1c1416fbaa7d59f96f143f3c35f7d23c61e7b970a9fd23"
+  },
+  "data/kitchen/teachers/masks-0268.npz": {
+    "bytes": 80729,
+    "sha256": "4581a8f3dcb28d8b34eafe0a0a598f4841c178eeab4f65acae23cb68cfbeb9b6"
+  },
+  "data/kitchen/teachers/masks-0117.npz": {
+    "bytes": 85385,
+    "sha256": "da4f79b1a86725e1f5cca94b68a91ce5b3452590d2a015f753deb02b1d894c75"
+  },
+  "data/kitchen/teachers/masks-0158.npz": {
+    "bytes": 67790,
+    "sha256": "aaa5740140d16ef199222c2ba6833f0e3713ba82bd6a9d69655f8bbe9b7c1b3f"
+  },
+  "data/kitchen/teachers/masks-0151.npz": {
+    "bytes": 66480,
+    "sha256": "03f1eea63ea3889fb2c882bc6d2cc5e0d62cd34fc4507275544fa0e8af864984"
+  },
+  "data/kitchen/teachers/masks-0024.npz": {
+    "bytes": 39101,
+    "sha256": "16d0e26a036e83531499d9b01a3ab592b9f7f00e3af13c151a00553640cad09e"
+  },
+  "data/kitchen/teachers/masks-0193.json": {
+    "bytes": 7055,
+    "sha256": "5e9748f19565e5b38a5a463dd334d7fe4509f166f278c5963f7150ff8a702921"
+  },
+  "data/kitchen/teachers/masks-0035.json": {
+    "bytes": 5358,
+    "sha256": "c0ce57f1e6e78a49780e71d0d2080d258b316f7d25c58954f5624f41272a5df1"
+  },
+  "data/kitchen/teachers/masks-0124.json": {
+    "bytes": 6689,
+    "sha256": "8ae428c200202c55c7fe03200d4bba108610307d08a49f9a06c46af1d79c1c9a"
+  },
+  "data/kitchen/teachers/masks-0028.npz": {
+    "bytes": 65773,
+    "sha256": "d1bed68e76a975a93fcb96b16eb888c938ea750ec9dafc81d7e8572f7077d250"
+  },
+  "data/kitchen/teachers/masks-0168.npz": {
+    "bytes": 48637,
+    "sha256": "cd4f8704acb4c5b6a38c9d520286a544914d22b1a1b333a2d1609424bea4c836"
+  },
+  "data/kitchen/teachers/text-features.npy": {
+    "bytes": 82048,
+    "sha256": "410cc60b16969a045b8fac86ef403a7b25d2bb215929c550802013dc05d9d9d6"
+  },
+  "data/kitchen/teachers/masks-0049.npz": {
+    "bytes": 67121,
+    "sha256": "52eab7f776255fd067b0a0beb3a8085f9ee7f7d1c0203638c4adc79a2d82f51d"
+  },
+  "data/kitchen/teachers/masks-0021.json": {
+    "bytes": 6469,
+    "sha256": "26ac0f6c13ca0094e2ff0d4013f47fa0618f3f6e6db2782de5a213b6068d9eb0"
+  },
+  "data/kitchen/teachers/masks-0103.npz": {
+    "bytes": 98885,
+    "sha256": "8eb4ad3ddcd2eee94818ea7741922bda05fa2251d1f35a8677290eb5d066c395"
+  },
+  "data/kitchen/teachers/masks-0193.npz": {
+    "bytes": 69364,
+    "sha256": "b3b38abfb87dd92d267d4ac521f2b5a64dfb0a754f9f4abd51b88f3da157f366"
+  },
+  "data/kitchen/teachers/masks-0213.json": {
+    "bytes": 5387,
+    "sha256": "fb95c8836f8ed48e4acaa381ca7ce89e48fa3b615abda23565c8267ad64900a4"
+  },
+  "data/kitchen/teachers/masks-0055.npz": {
+    "bytes": 73785,
+    "sha256": "76d0fb439575bf9348db156a88b9fdfaf682fff7abc0a0627ff9f38482c44068"
+  },
+  "data/kitchen/teachers/masks-0264.npz": {
+    "bytes": 47894,
+    "sha256": "0c6e0a4d19093945d3a3e240ef62a5a74ce151d9bed49b9b3fdeee2e7a1e7d14"
+  },
+  "data/kitchen/teachers/masks-0076.npz": {
+    "bytes": 86639,
+    "sha256": "3588eb7f2f1010d4b6e6146e19f2eb780f07ec6b7aa618f7a0a9cdd045879282"
+  },
+  "data/kitchen/teachers/masks-0048.json": {
+    "bytes": 3025,
+    "sha256": "b8a4af92e0a805b46c46d2a9120689d7c55a7773471d7d3d7377329ce165e91d"
+  },
+  "data/kitchen/teachers/masks-0145.json": {
+    "bytes": 4247,
+    "sha256": "d92af0ec28f6155a51a1f95d4311ec02b049efd7c7ea0223c9b92b3ea638b3a3"
+  },
+  "data/kitchen/teachers/masks-0206.npz": {
+    "bytes": 69905,
+    "sha256": "59739845f4f6645428c5380f1b99b3eb10055abad12bbb282b7c6844e368bc45"
+  },
+  "data/kitchen/teachers/masks-0234.npz": {
+    "bytes": 71918,
+    "sha256": "0d7dabfe80a4cadd2a64307990a309b7031614f94d77385d9832253f1083514f"
+  },
+  "data/kitchen/teachers/masks-0247.json": {
+    "bytes": 6261,
+    "sha256": "96093dbbbb3a1284d5bd504bd0d4889bdb97e9dbbea2711323a215f65a2df84b"
+  },
+  "data/kitchen/teachers/masks-0000.json": {
+    "bytes": 4655,
+    "sha256": "7d890d0e409a2167b44b061136032e7fb66591cf6210a30be2368501666ee53a"
+  },
+  "data/kitchen/teachers/masks-0014.json": {
+    "bytes": 7715,
+    "sha256": "035fb8f5f2042eff13baad767f6d030f2c6d60fa93cb45e2f38c66ac9b6d430d"
+  },
+  "data/kitchen/teachers/masks-0241.json": {
+    "bytes": 7606,
+    "sha256": "864bc0dd59637c72ce04dfd6bf4d25d4864b2a65ddbe8e25f0e31f69c75df7fd"
+  },
+  "data/kitchen/teachers/masks-0090.json": {
+    "bytes": 5574,
+    "sha256": "c358ed1cd9f184ba3f7dc123bf7955ddbabd2e13092cbaea70b52a7dd3b4b722"
+  },
+  "data/kitchen/teachers/masks-0021.npz": {
+    "bytes": 68621,
+    "sha256": "9cfd8f2b18663d2cf82a85e47a9ef847614537a76247a0d041d8c05c257201bb"
+  },
+  "data/kitchen/teachers/masks-0035.npz": {
+    "bytes": 59354,
+    "sha256": "7b453a776d02281cb7655be43879a9ed414da11fc04cf47e17ea8e539bdea993"
+  },
+  "data/kitchen/teachers/masks-0186.npz": {
+    "bytes": 83530,
+    "sha256": "9c266f0fc1f9466335addfbbb40af5308948dda928fe6a03d71f5856737ae353"
+  },
+  "data/kitchen/teachers/masks-0072.npz": {
+    "bytes": 43930,
+    "sha256": "fbad1d1d8a2a009fb02b6186ad8ef83517bdebfb06ac7abbd1835bb6fe835e0e"
+  },
+  "data/kitchen/teachers/masks-0024.json": {
+    "bytes": 4957,
+    "sha256": "a094abd0f4824c4d9d1ae2455d7ebb9eed19b38bc6ba37dd4d893aff2584697b"
+  },
+  "data/kitchen/teachers/masks-0144.npz": {
+    "bytes": 40380,
+    "sha256": "4df371fc90ba210a3fe26ef4547b3fb6ffb4899e33e7e420ce8741fcd1886b4f"
+  },
+  "data/kitchen/teachers/masks-0072.json": {
+    "bytes": 5529,
+    "sha256": "3bdf6935153c779c390c1b9ff8ca034c86e77439d4c497a66780233397b70763"
+  },
+  "data/kitchen/teachers/masks-0220.json": {
+    "bytes": 5227,
+    "sha256": "f05bce1479ecc165d9dc2e9f368d3998fdba566c1055be7e4d77bdf8616ce7d1"
+  },
+  "data/kitchen/teachers/masks-0186.json": {
+    "bytes": 10153,
+    "sha256": "eb8ac1255897d8160c18d759f22da0b5d3df2122951a7256c8de74b6cfa2895a"
+  },
+  "data/kitchen/teachers/masks-0275.json": {
+    "bytes": 6301,
+    "sha256": "e2d9cf79743a0bae2be49d78c3c1c85f2c3603c408f2c4b584cfd4502c415262"
+  },
+  "data/kitchen/teachers/masks-0261.npz": {
+    "bytes": 87202,
+    "sha256": "492bf06401271a55838e98c7cd9e384c3924c7c8413c7602682af6956dd87c29"
+  },
+  "data/kitchen/teachers/masks-0264.json": {
+    "bytes": 6016,
+    "sha256": "a655c22782766f307a867d0c4199b9a5ab23e9aef4ea770e77dbd6c007424f9e"
+  },
+  "data/kitchen/teachers/vocabulary.json": {
+    "bytes": 504,
+    "sha256": "6b5fa58c2dce950d0ae9f0f65d81fa574eaa745342d3ac439700f456d6a1a4af"
+  },
+  "data/kitchen/teachers/masks-0110.npz": {
+    "bytes": 58506,
+    "sha256": "6118f78acf6f9e92457dab503409858a711cac11ac8d6d0f9759313335f6b5e3"
+  },
+  "data/kitchen/teachers/masks-0213.npz": {
+    "bytes": 59334,
+    "sha256": "e24667736b16dcca34420aa6b288b842a23d7f47d0f54a5dd26036a1837f37b1"
+  },
+  "data/kitchen/teachers/masks-0117.json": {
+    "bytes": 9052,
+    "sha256": "77f44a1c7559e9de50766b510005641400a86accc8c66581e238d3b16d3f4e01"
+  },
+  "data/kitchen/teachers/masks-0151.json": {
+    "bytes": 6049,
+    "sha256": "567f2b8b805c22515db0239087b7766172aba3adff8dafeb9c4d7bfb9470d3f4"
+  },
+  "data/kitchen/teachers/masks-0028.json": {
+    "bytes": 6275,
+    "sha256": "9d46f18bb211589cba560bbd760621d471f3b2a2fc8bdb0106377ff39762ae51"
+  },
+  "data/kitchen/teachers/masks-0179.json": {
+    "bytes": 7199,
+    "sha256": "aba47a8204768dfd9a3e6101c4329f8e04496c20f9baab6e5a6401cb1c7663ee"
+  },
+  "data/kitchen/teachers/masks-0275.npz": {
+    "bytes": 67958,
+    "sha256": "bd93e6d691e0dbd30e3be9d4da6426de96be5afb466150b2464e73b5b9209054"
+  },
+  "data/kitchen/teachers/masks-0062.json": {
+    "bytes": 5705,
+    "sha256": "83c06483480ff3381a50f4afb50db4950f840e586fa857f584d7c3648b621897"
+  },
+  "data/kitchen/teachers/masks-0247.npz": {
+    "bytes": 79897,
+    "sha256": "51ffba4705ec547be35ca34a695e95223e93da124723871fef30ebfe2a8893b1"
+  },
+  "data/kitchen/teachers/masks-0268.json": {
+    "bytes": 8117,
+    "sha256": "30e572f7b2822ac55ed8d483db24cef51a20051de1ef0a08800cc44357e7a271"
+  },
+  "data/kitchen/teachers/masks-0240.json": {
+    "bytes": 6004,
+    "sha256": "ae09820b5676cd233003e39ad70ba42f0d95a958a7404e54ac5b21bbd041e174"
+  },
+  "data/kitchen/teachers/masks-0120.npz": {
+    "bytes": 53844,
+    "sha256": "7b7bde8b42d85c4fcae076df6b4a47cb32bd617dd042b60c7659a7e36019b9a4"
+  },
+  "data/kitchen/teachers/masks-0001.json": {
+    "bytes": 5380,
+    "sha256": "5ce5a73f38233d19709e080c5cb4493000b3d1d52a8cab9d2ed32f4b836e46b0"
+  },
+  "data/kitchen/teachers/masks-0096.npz": {
+    "bytes": 48471,
+    "sha256": "c50a64497ff98b820f451abf1c5fa6c8fc3591c7a2b0347cd55672e67905b6c3"
+  },
+  "data/kitchen/teachers/masks-0131.json": {
+    "bytes": 7393,
+    "sha256": "57d3006fa1e4d63311e3688ee3ffb1ec04d5d5b9d2b28efe1d80c71185a602c4"
+  },
+  "data/kitchen/teachers/masks-0076.json": {
+    "bytes": 9018,
+    "sha256": "2fb1f1cd1e2ff41a17d2c5f0681706e54631ba594002f1abdd6babc3e709636b"
+  },
+  "data/kitchen/teachers/masks-0192.json": {
+    "bytes": 5106,
+    "sha256": "d4704a0f56be2c6f61746cd59ca3133ce46e7a67cb7c0583aadc3daeeb8e23bd"
+  },
+  "data/kitchen/teachers/masks-0254.npz": {
+    "bytes": 81318,
+    "sha256": "b78f4717fbde26730d2c5fd1a843ac3ee5b090d661a833ed9f30052bf70bc496"
+  },
+  "data/kitchen/teachers/masks-0199.json": {
+    "bytes": 5772,
+    "sha256": "ae5e2437d49d7257545ee005a6a974c89da2db9603f4bcd237b1c0c959abdf58"
+  },
+  "data/kitchen/teachers/masks-0145.npz": {
+    "bytes": 53702,
+    "sha256": "524f8e44de45a924f5a1cab97d6d6e6104928f9157fad05da35a97c5979c016f"
+  },
+  "data/kitchen/teachers/masks-0110.json": {
+    "bytes": 4460,
+    "sha256": "143fcfbdc31a1df73b26c602ef7107fecf51a2e8a53fdea81d0af256e3520559"
+  },
+  "data/kitchen/teachers/masks-0138.json": {
+    "bytes": 5351,
+    "sha256": "e46e993e1408903b9bb62c8538f610de78f50b60310f17122e6ea525d7e0fc2c"
+  },
+  "data/kitchen/teachers/masks-0227.npz": {
+    "bytes": 60675,
+    "sha256": "29bd18300b2ad9b0d26cd75cef4a50bdfe102e2b9cc55ff3cc45ff445826d834"
+  },
+  "data/kitchen/teachers/masks-0216.npz": {
+    "bytes": 27676,
+    "sha256": "107c4d3d6086f8c3927c33de45fea334308a92275ac66457379d7c15de1071a4"
+  },
+  "data/kitchen/teachers/masks-0096.json": {
+    "bytes": 5658,
+    "sha256": "cdcedd1f07442cc4355259bf5a57e7d41a7ff1af29f069dc1590a8d15070f2a6"
+  },
+  "data/kitchen/teachers/masks-0254.json": {
+    "bytes": 7785,
+    "sha256": "f30ad2c6c3c58f4b8cd80e4c8d9d9d082e35d02d10442cc85be479b3ad54952d"
+  },
+  "data/kitchen/teachers/masks-0192.npz": {
+    "bytes": 39044,
+    "sha256": "c5ab9062d935a42e5f510b075584dfc9445c6ad4fff8d96ac774e89b06808542"
+  },
+  "data/kitchen/teachers/masks-0049.json": {
+    "bytes": 5029,
+    "sha256": "1ae9378217577e300d36d4b57a2076d05598e6cd55f749b10f9377161655f8d6"
+  },
+  "data/kitchen/teachers/masks-0138.npz": {
+    "bytes": 63068,
+    "sha256": "15cf4b7ca3ab000f04b5a648c77b4deafe52224476dbd704e52848b0c954f949"
+  },
+  "data/kitchen/teachers/masks-0007.json": {
+    "bytes": 8840,
+    "sha256": "e09d6a08d16442006591954f479ed21eaf97694bd8a919fe63784ebc59fb29d8"
+  },
+  "data/kitchen/teachers/masks-0158.json": {
+    "bytes": 6517,
+    "sha256": "1083a970217a070a768a750d4698de8272617a2d8ac14d81ac239282fb587bad"
+  },
+  "data/kitchen/teachers/masks-0042.npz": {
+    "bytes": 69777,
+    "sha256": "68f06a9061f105d779bf03962a4331e2f87b2362e6bbe97c6160c32aece6191f"
+  },
+  "data/kitchen/teachers/masks-0083.npz": {
+    "bytes": 76268,
+    "sha256": "b4d7a2bdac82bc4ebecc992adcbcb2ed73b5d91fafd68106f03351bb320a06d1"
+  },
+  "data/kitchen/teachers/masks-0097.json": {
+    "bytes": 7397,
+    "sha256": "c789f80e06294d6549c29815de4fbd50a605e39e603296f8c7d7d53081551180"
+  },
+  "data/kitchen/teachers/masks-0083.json": {
+    "bytes": 6990,
+    "sha256": "99f78dc4f906828d650010f64c254b160f5812d1d4c2403db035ed67df7c1b34"
+  },
+  "data/kitchen/teachers/masks-0165.npz": {
+    "bytes": 86372,
+    "sha256": "810f57b25b2a39006bf652597fde54503bd0367a6e9608ddbef258dbad3e0b66"
+  },
+  "data/kitchen/teachers/masks-0234.json": {
+    "bytes": 6672,
+    "sha256": "af4bfa7da1f8f0433a449531767d6570c0ffae673bbc696b0cf9bf83505d9b77"
+  },
+  "data/kitchen/teachers/masks-0001.npz": {
+    "bytes": 57809,
+    "sha256": "f6631ce35602da839eca5f17744fc6551347ae15ac23e24123c0ac08ed53a881"
+  },
+  "data/kitchen/teachers/masks-0227.json": {
+    "bytes": 5205,
+    "sha256": "2a4fbf94a5198b51bbda7f9e5019887fc6831d7802ce2edf1393a669ebf0b96c"
+  },
+  "data/kitchen/teachers/masks-0168.json": {
+    "bytes": 5824,
+    "sha256": "a965153ab3469bea2f5fca9735f104843743a32aa3a2c1641e1d77d0bf228a69"
+  },
+  "data/kitchen/teachers/masks-0199.npz": {
+    "bytes": 65825,
+    "sha256": "7d1172f5a914d6803c03aaf0a04b6e24ae48f3fb31f51d171ae78dad49fbfbe9"
+  },
+  "data/kitchen/teachers/masks-0069.npz": {
+    "bytes": 69560,
+    "sha256": "6bc2e6326ea7ba695ee80068acfdfe99d09ffa1e8889a129260e7acb3d41c528"
+  },
+  "data/kitchen/teachers/masks-0097.npz": {
+    "bytes": 82012,
+    "sha256": "af036c49b2dba66c1ed278fcefb4d06ff6ea2f6e21a39eee471ed0a14b470fbb"
+  },
+  "data/kitchen/teachers/masks-0000.npz": {
+    "bytes": 36523,
+    "sha256": "dd809c89a10fd6a5d35e69be64e734d18c9089f9bce35765c843f7a55391a035"
+  },
+  "data/kitchen/teachers/index.json": {
+    "bytes": 365112,
+    "sha256": "9164af8bcf5bb836c30782bd5a827c8e2f7dbe147901f4065f0f13b75908c298"
+  },
+  "data/kitchen/teachers/masks-0165.json": {
+    "bytes": 8462,
+    "sha256": "2f96b2e49e409b411c48d5a5be8110bd5ccc77de489d1998d582f465a0ca1e24"
+  },
+  "data/kitchen/teachers/masks-0131.npz": {
+    "bytes": 86037,
+    "sha256": "6f1cd4ee4af7adca6f57c1c859716eb424ccec238919c2e9602ea55c5ee172ce"
+  },
+  "data/kitchen/teachers/masks-0240.npz": {
+    "bytes": 48999,
+    "sha256": "eeb1848e86da2b9d110ea3bada08a190539ebf1ba73136e69cfc45aeb9093ff4"
+  },
+  "data/kitchen/teachers/masks-0120.json": {
+    "bytes": 6873,
+    "sha256": "9cf78c1b71c46e0d3940d2a3d22eca5d3ec48cd47f78b187987679bd3a882f65"
+  },
+  "data/kitchen/teachers/masks-0055.json": {
+    "bytes": 5752,
+    "sha256": "cc61d46c04b1d30992e01b6a988302622ad8723cbaa1919a8660149b00884439"
+  },
+  "data/kitchen/teachers/masks-0090.npz": {
+    "bytes": 68233,
+    "sha256": "064c61c954e02f1c8fae96004c8c86e14ddb899e3fa3ba214134208bd60c8d42"
+  },
+  "data/kitchen/teachers/masks-0172.json": {
+    "bytes": 6461,
+    "sha256": "37c90cf56216fa379e08d3e77ca3058a6c3a498c9f83424f1fb1aadad9836c4d"
+  },
+  "data/kitchen/teachers/masks-0014.npz": {
+    "bytes": 81028,
+    "sha256": "b81bdb77eed0c1df7ed31de9e1280da4f87df059964ed30c03a2de14a9fa63f1"
+  },
+  "data/kitchen/teachers/masks-0124.npz": {
+    "bytes": 70866,
+    "sha256": "1f7691bc36a025622863f5beb251f01f0b76151abc46d62a7136a7c937624207"
+  },
+  "data/kitchen/teachers/masks-0007.npz": {
+    "bytes": 82149,
+    "sha256": "50ffb4045ba2e3a4d66dd4bfe0c1333c8952b614146fffca3718e7a006ff27bc"
+  },
+  "data/kitchen/teachers/masks-0206.json": {
+    "bytes": 5390,
+    "sha256": "b044369806bf3da9f94e3bc01bf60148263e3f53dfd250dc1bc49c2dfeff803b"
+  },
+  "data/kitchen/teachers/masks-0103.json": {
+    "bytes": 9776,
+    "sha256": "702803e17d4130790a65b898b4536c45bcb6b70409a015bf9bcf550eb83ff210"
+  },
+  "data/kitchen/teachers/masks-0220.npz": {
+    "bytes": 65653,
+    "sha256": "765e5116c7ee96643f2915fe7537b2d1adeb86e72f0a70401ecf7b9e60afb46d"
+  },
+  "data/kitchen/teachers/masks-0172.npz": {
+    "bytes": 80397,
+    "sha256": "d1fa7dbb567ccddfdf5cce07d5c68c63a94b4f203e702e4877c53be646ba07d3"
+  },
+  "data/kitchen/teachers/masks-0216.json": {
+    "bytes": 3194,
+    "sha256": "9c0541900058c7ad4fc90b5607358cf8125758ea302ed06b66ca4676cb9541e4"
+  },
+  "data/kitchen/teachers/masks-0069.json": {
+    "bytes": 6459,
+    "sha256": "bebe7203c682e7b73cfd40235ec00310c36fc11ea7892b071cc8434f7eea5f18"
+  },
+  "data/kitchen/teachers/masks-0241.npz": {
+    "bytes": 81704,
+    "sha256": "e3a3dbe8e126d310a93dca3d96ef0b3822ccbf64ad2de8016c4f50d5e039980b"
+  },
+  "data/kitchen/teachers/masks-0048.npz": {
+    "bytes": 25229,
+    "sha256": "8bd86d53e084a4e5f3a1dd2b2a383c0d1b71eabb036736a6a30cd72e46ce939b"
+  },
+  "data/kitchen/teachers/masks-0042.json": {
+    "bytes": 5206,
+    "sha256": "ec95cd773e9dc917690632b286c1551c21669866c2e4c3de1c09c4264b9606f0"
+  },
+  "data/kitchen/teachers/masks-0144.json": {
+    "bytes": 5069,
+    "sha256": "5a4f47095a45ad81f2bee16388eb11e3bb6f3fca3ac78c01707fcc23e239120a"
+  },
+  "data/kitchen/teachers/masks-0261.json": {
+    "bytes": 8158,
+    "sha256": "e6e5e9a25feecac04549d93fd423717b38968d351c9b24fe2e7acaeb265c52ca"
+  },
+  "data/kitchen/prefixes/preparation.json": {
+    "bytes": 237,
+    "sha256": "c6cf51a4a3516bdca2b1a40ac4f1f06e5547bb530336dbbd1e5f263ee3d9b964"
+  },
+  "data/kitchen/prefixes/prefix-1.json": {
+    "bytes": 844185,
+    "sha256": "ebd35f347b57af1da7d74b70ccadd5e736f5d31ad424a6b089254461d057836c"
+  },
+  "data/kitchen/prefixes/prefix-5.npz": {
+    "bytes": 332809,
+    "sha256": "f7dcb6a60e093544524cf54e33efd4cf8b66cc982c4f07e23c1ae0389063f722"
+  },
+  "data/kitchen/prefixes/prefix-4.json": {
+    "bytes": 3683649,
+    "sha256": "b3dbb44b51d903ff2b19fcc51d8e2bb271338396ba958786545182dd4259d889"
+  },
+  "data/kitchen/prefixes/prefix-2.json": {
+    "bytes": 1641674,
+    "sha256": "a557e3ac0dc0482b61398f15ae1977094e0ff955d0ec881a0949a6e54ddf55cd"
+  },
+  "data/kitchen/prefixes/anchors.npz": {
+    "bytes": 6121873,
+    "sha256": "184f62dff7006759d7c3773263fdce1c2d6938f2edb6c5075f0e6781352fc8c5"
+  },
+  "data/kitchen/prefixes/prefix-1.npz": {
+    "bytes": 80891,
+    "sha256": "86b10a21d71beb5f0b6858d193786513c93d78dc3a845a44df7da25e3c2fc771"
+  },
+  "data/kitchen/prefixes/prefix-4.npz": {
+    "bytes": 272502,
+    "sha256": "3d78800f94645bfb9798dfaaf9ba91a3ea6fd2f9e88824fb9a133b2904076d99"
+  },
+  "data/kitchen/prefixes/prefix-6.npz": {
+    "bytes": 392484,
+    "sha256": "762d62b9886f2fb0762bd0cbf24c0b1f245bb18f004db08be77b742f91df043d"
+  },
+  "data/kitchen/prefixes/prefix-6.json": {
+    "bytes": 5511618,
+    "sha256": "c5c1317463e1fe4ca01e01c61f28f763ef9ff563b4b197c11d74dfd7dfa2f60c"
+  },
+  "data/kitchen/prefixes/prefix-5.json": {
+    "bytes": 4355477,
+    "sha256": "93c266e05923615d103e3d1442829c4709becbb3e0a2f835e50e85b4937f5fef"
+  },
+  "data/kitchen/prefixes/prefix-3.json": {
+    "bytes": 2771405,
+    "sha256": "6ffd64cd094e54221f1d5ece3b7d195c61739018d36f9c83d2db3752f931108f"
+  },
+  "data/kitchen/prefixes/prefix-3.npz": {
+    "bytes": 193552,
+    "sha256": "56d6f43ad785a509ae4f96b8588c03e381c955198bfc0ec5956d6d6520ea0ecf"
+  },
+  "data/kitchen/prefixes/prefix-2.npz": {
+    "bytes": 146134,
+    "sha256": "4b0481f8dace5c5cc1dc232da47d8074a6d11e3a41775f5b9d33a2c2d6a4ce55"
+  }
+}

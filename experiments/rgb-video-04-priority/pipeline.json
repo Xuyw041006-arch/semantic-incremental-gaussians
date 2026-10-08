@@ -1,0 +1,24 @@
+{
+  "config": {
+    "video": "/content/video-gaussian-priority/results/rgb-video-03-priority/source-input.mp4",
+    "video_sha256": "0cad78d40c44b5a067aea50bf557d9a92e7ce97fbd3dd282fb16c7b933cbac5f",
+    "source_sha256": "a964d9daf7fbf3887159c75a205a9a752cfa1e80ab7042bbfa95726f22e441f1",
+    "cap": 500000,
+    "steps": 2400,
+    "stages": 4,
+    "width": 640,
+    "seed": 7,
+    "important": "monitor,keyboard,mouse,cup,bottle,book,laptop",
+    "boundary_boost": 0.75,
+    "object_boost": 0.5,
+    "semantic_feature_geometry_gradient": false
+  },
+  "stages": {
+    "train": {
+      "state": "complete",
+      "seconds": 127.13482535700007
+    }
+  },
+  "cache_reuse": "Same RGB-only source and teacher/SfM cache as rgb-video-02; Gaussian parameters initialized from sparse anchors.",
+  "state": "complete"
+}

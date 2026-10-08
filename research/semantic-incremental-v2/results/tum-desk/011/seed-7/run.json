@@ -1,0 +1,30 @@
+{
+  "args": {
+    "data": "/content/semantic-incremental/data/tum640/manifest.json",
+    "prefixes": "/content/semantic-incremental/data/tum-desk/prefixes",
+    "masks": "/content/semantic-incremental/data/tum-desk/teachers",
+    "output": "/content/semantic-incremental-v2/results/tum-desk/011/seed-7",
+    "factors": "011",
+    "seed": 7,
+    "cap": 300000,
+    "width": 640,
+    "stages": 6,
+    "semantic_strength": 0.1,
+    "replay_max": 0.6,
+    "steps": 600,
+    "degree": 2
+  },
+  "dataset_kind": "RGBD_groundtruth_poses",
+  "units": "meters",
+  "seconds_including_evaluation_and_export": 62.377965224000036,
+  "device": "NVIDIA L4",
+  "optimizer_steps": 3600,
+  "cache_capacity": 32,
+  "replay_capacity": 48,
+  "qualifications": [
+    "Known input camera poses; no camera tracking",
+    "SAM pseudo region evaluation, not human part accuracy",
+    "Teacher preprocessing is timed separately and shared; not an end-to-end real-time claim",
+    "B uses a marginal coverage proxy, not an exact counterfactual query-loss oracle"
+  ]
+}

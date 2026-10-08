@@ -1,0 +1,26 @@
+[
+  {
+    "dataset": "tum-desk2",
+    "data": "/content/semantic-incremental/data/desk2-640/manifest.json",
+    "seed": 7,
+    "factors": "111"
+  },
+  {
+    "dataset": "tum-desk2",
+    "data": "/content/semantic-incremental/data/desk2-640/manifest.json",
+    "seed": 7,
+    "factors": "000"
+  },
+  {
+    "dataset": "tum-desk2",
+    "data": "/content/semantic-incremental/data/desk2-640/manifest.json",
+    "seed": 17,
+    "factors": "000"
+  },
+  {
+    "dataset": "tum-desk2",
+    "data": "/content/semantic-incremental/data/desk2-640/manifest.json",
+    "seed": 17,
+    "factors": "111"
+  }
+]

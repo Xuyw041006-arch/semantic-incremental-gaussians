@@ -1,0 +1,12 @@
+{
+  "state": "complete",
+  "main_runs": 32,
+  "verification_runs": 4,
+  "matched_replay_control_runs": 4,
+  "total_completed_runs": 40,
+  "artifact": "/content/semantic-incremental-v2-results.zip",
+  "bytes": 320606524,
+  "sha256": "8dfd4af03c9070404213f874b47d49b5ab671a9a793b83eab95e2244fd364fee",
+  "checkpoints_preserved": "Final full-model seed-7 checkpoints for all three recordings; raw metrics for every variant and seed",
+  "report": "/content/semantic-incremental-v2/RESULTS.html"
+}

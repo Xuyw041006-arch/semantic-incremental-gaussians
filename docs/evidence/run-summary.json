@@ -1,0 +1,158 @@
+{
+  "dataset": "Real TUM desk RGB recording re-encoded as MP4",
+  "gpu": "NVIDIA L4",
+  "seed": 7,
+  "train_frames": 52,
+  "held_out_frames": 7,
+  "input_video_sha256": "0cad78d40c44b5a067aea50bf557d9a92e7ce97fbd3dd282fb16c7b933cbac5f",
+  "experiment_source_sha256": "6f23960f7119d987aec48563d19c0283dd329a1fb77639dbd221610c2cd34640",
+  "sfm": {
+    "pycolmap_version": "3.13.0",
+    "extracted_frames": 59,
+    "registered_frames": 59,
+    "registration_ratio": 1.0,
+    "sparse_points": 5965,
+    "mean_reprojection_error": 0.8705613388402066,
+    "skipped_frames": [],
+    "retries": [
+      "exhaustive_matching"
+    ],
+    "camera_model": "SIMPLE_RADIAL",
+    "pose_source": "estimated_from_RGB_only",
+    "scale": "arbitrary monocular SfM scale",
+    "evaluation": "RGB held out from Gaussian optimization; all frames participate in offline SfM"
+  },
+  "optimizer_steps": 9600,
+  "gaussian_cap": 500000,
+  "optimization_seconds": 114.58352194999998,
+  "stages": [
+    {
+      "stage": 1,
+      "end": 15,
+      "steps": 2400,
+      "gaussians": 27766,
+      "cap": 125000,
+      "psnr": 18.623454073984036,
+      "ssim": 0.7519245743751526,
+      "train_seconds": 20.122030455000186,
+      "update_p95_ms": 8.133414800022363,
+      "gpu_update_peak_mib": 192.91796875
+    },
+    {
+      "stage": 2,
+      "end": 30,
+      "steps": 2400,
+      "gaussians": 105908,
+      "cap": 250000,
+      "psnr": 19.665811767638854,
+      "ssim": 0.6992658972740173,
+      "train_seconds": 19.313567383999725,
+      "update_p95_ms": 8.437365150030017,
+      "gpu_update_peak_mib": 279.7646484375
+    },
+    {
+      "stage": 3,
+      "end": 44,
+      "steps": 2400,
+      "gaussians": 332632,
+      "cap": 375000,
+      "psnr": 20.984108376341492,
+      "ssim": 0.7197771072387695,
+      "train_seconds": 30.191094518999762,
+      "update_p95_ms": 19.095277699852883,
+      "gpu_update_peak_mib": 581.5478515625
+    },
+    {
+      "stage": 4,
+      "end": 59,
+      "steps": 2400,
+      "gaussians": 498621,
+      "cap": 500000,
+      "psnr": 22.14307298813332,
+      "ssim": 0.7448097211974007,
+      "train_seconds": 44.956829592000304,
+      "update_p95_ms": 25.499734249865465,
+      "gpu_update_peak_mib": 827.02685546875
+    }
+  ],
+  "region_metrics": {
+    "qualification": "Held-out predicted SAM/CLIP object masks, not human labels; evaluation never feeds training",
+    "frames": [
+      {
+        "index": 7,
+        "important_pixels": 93795,
+        "boundary_pixels": 17872,
+        "important_psnr": 25.18520760884105,
+        "boundary_psnr": 18.478324973720866,
+        "other_psnr": 21.73704529658319,
+        "overall_psnr": 22.57624679784965
+      },
+      {
+        "index": 15,
+        "important_pixels": 48910,
+        "boundary_pixels": 20036,
+        "important_psnr": 19.10936749201046,
+        "boundary_psnr": 17.104580732068975,
+        "other_psnr": 18.225295758915877,
+        "overall_psnr": 18.361153227660086
+      },
+      {
+        "index": 23,
+        "important_pixels": 94233,
+        "boundary_pixels": 24423,
+        "important_psnr": 22.899425647494823,
+        "boundary_psnr": 19.06115432975642,
+        "other_psnr": 22.92209389330544,
+        "overall_psnr": 22.91477814196726
+      },
+      {
+        "index": 31,
+        "important_pixels": 176158,
+        "boundary_pixels": 25095,
+        "important_psnr": 21.510312669170737,
+        "boundary_psnr": 16.404501373516922,
+        "other_psnr": 17.017311387973816,
+        "overall_psnr": 19.15134903339664
+      },
+      {
+        "index": 39,
+        "important_pixels": 102679,
+        "boundary_pixels": 32598,
+        "important_psnr": 22.109286935436675,
+        "boundary_psnr": 18.48441932866077,
+        "other_psnr": 20.31005416302943,
+        "overall_psnr": 20.860634412342822
+      },
+      {
+        "index": 47,
+        "important_pixels": 106763,
+        "boundary_pixels": 22228,
+        "important_psnr": 23.761050191295304,
+        "boundary_psnr": 17.701975907605394,
+        "other_psnr": 21.261941680394422,
+        "overall_psnr": 22.017618039998354
+      },
+      {
+        "index": 55,
+        "important_pixels": 83731,
+        "boundary_pixels": 23489,
+        "important_psnr": 29.607562608593668,
+        "boundary_psnr": 25.14843343176485,
+        "other_psnr": 28.938498632187915,
+        "overall_psnr": 29.11973126308899
+      }
+    ],
+    "important_psnr": 23.45460187897753,
+    "boundary_psnr": 18.911912868156318,
+    "other_psnr": 21.487462973198586,
+    "overall_psnr": 22.1430729880434
+  },
+  "scope": [
+    "Single scene, single seed; not a cross-scene or statistical superiority claim.",
+    "All frames participate in offline SfM; held-out views are excluded from Gaussian fitting.",
+    "Semantic consumption and Gaussian fitting follow arrived training prefixes.",
+    "Region metrics use predicted SAM2/CLIP masks, not human ground-truth segmentation.",
+    "Reported latency and peak PyTorch allocation cover optimization, not the complete pipeline.",
+    "Monocular scale is relative; playback does not demonstrate live online SLAM."
+  ]
+}

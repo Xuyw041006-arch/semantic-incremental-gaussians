@@ -1,0 +1,37 @@
+[
+  {
+    "name": "video-gaussian-stable-500k.zip",
+    "bytes": 478350392,
+    "sha256": "50aa98c456edc482f09a57faccd2ccee0b839db4e4ceb2f88435efad8bcb5ffb"
+  },
+  {
+    "name": "video-gaussian-priority-500k.zip",
+    "bytes": 478619576,
+    "sha256": "3cbf476069b8b7fb33d99314196bfc21a29a616cb9680c85cde849477ace1721"
+  },
+  {
+    "name": "semantic-incremental-v2-results.zip",
+    "bytes": 320606524,
+    "sha256": "8dfd4af03c9070404213f874b47d49b5ab671a9a793b83eab95e2244fd364fee"
+  },
+  {
+    "name": "semantic-incremental-results-v1.zip",
+    "bytes": 297810510,
+    "sha256": "151f6b4ef5491cb98f37590e2e6f66c0968faa227f514d9d0ff0bc983020b953"
+  },
+  {
+    "name": "hierarchical-kitchen-results.zip",
+    "bytes": 135450242,
+    "sha256": "7a7f26cbbe9cfd0d5b8ff46751219dab4bc1556b1f24495fc8600a058ed30472"
+  },
+  {
+    "name": "semantic-gaussian-real-results.zip",
+    "bytes": 62238189,
+    "sha256": "7e5e3d20b74cc92b4dd579a66a04587cf6b97e4b12ece89849e211571b5a11a6"
+  },
+  {
+    "name": "gaussian-project-showcase.zip",
+    "bytes": 37115361,
+    "sha256": "2e179f85a60c55e38fc0e000a7485a7be0bcfe1a0aabd2948871189b5eeca6fd"
+  }
+]

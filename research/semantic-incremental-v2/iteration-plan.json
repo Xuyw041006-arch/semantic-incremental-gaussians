@@ -1,0 +1,19 @@
+{
+  "version": "v2-balanced",
+  "reason": "V1 factorial results show negative B PSNR effects in both scenes and TUM forgetting.",
+  "steps": 600,
+  "stages": 6,
+  "cap": 300000,
+  "width": 640,
+  "semantic_strength": 0.1,
+  "replay_max": 0.6,
+  "screen_seed": 7,
+  "confirmation_seed": 17,
+  "selection_datasets": [
+    "tum-desk",
+    "kitchen"
+  ],
+  "verification_sequence": "TUM freiburg1_desk2",
+  "selection_rule": "Require positive mean PSNR and no more than .1dB scene PSNR decline; old-view PSNR improve; fine agreement decline no greater than .015. Confirm on seed17 and unseen sequence; report all outcomes.",
+  "qualification": "Two original scenes are development data after V1 results inspected. Desk2 is a distinct recording of the same office, not an unseen environment. No statistical significance claim."
+}

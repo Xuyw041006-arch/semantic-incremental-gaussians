@@ -1,0 +1,126 @@
+{
+  "tum-desk": [
+    {
+      "stage": 1,
+      "end": 20,
+      "nodes": 41,
+      "available_anchors": 90313,
+      "object_anchor_coverage": 0.18475745463000898,
+      "fine_anchor_coverage": 0.054145028954857,
+      "candidate_parent_anchor_agreement": null,
+      "parent_comparable_anchors": 0
+    },
+    {
+      "stage": 2,
+      "end": 40,
+      "nodes": 73,
+      "available_anchors": 163274,
+      "object_anchor_coverage": 0.15397430086847874,
+      "fine_anchor_coverage": 0.0739493121991254,
+      "candidate_parent_anchor_agreement": 1.0,
+      "parent_comparable_anchors": 1454
+    },
+    {
+      "stage": 3,
+      "end": 60,
+      "nodes": 103,
+      "available_anchors": 195295,
+      "object_anchor_coverage": 0.2358227297165826,
+      "fine_anchor_coverage": 0.11180009728871707,
+      "candidate_parent_anchor_agreement": 0.981042654028436,
+      "parent_comparable_anchors": 3798
+    },
+    {
+      "stage": 4,
+      "end": 79,
+      "nodes": 125,
+      "available_anchors": 264140,
+      "object_anchor_coverage": 0.2209737260543651,
+      "fine_anchor_coverage": 0.10812447944271977,
+      "candidate_parent_anchor_agreement": 0.9613505108840515,
+      "parent_comparable_anchors": 4502
+    },
+    {
+      "stage": 5,
+      "end": 99,
+      "nodes": 161,
+      "available_anchors": 329311,
+      "object_anchor_coverage": 0.32250061492024257,
+      "fine_anchor_coverage": 0.11520416870374812,
+      "candidate_parent_anchor_agreement": 0.926121889084852,
+      "parent_comparable_anchors": 5103
+    },
+    {
+      "stage": 6,
+      "end": 119,
+      "nodes": 169,
+      "available_anchors": 335212,
+      "object_anchor_coverage": 0.3399072825555171,
+      "fine_anchor_coverage": 0.13273689486056586,
+      "candidate_parent_anchor_agreement": 0.9499618029029794,
+      "parent_comparable_anchors": 10472
+    }
+  ],
+  "kitchen": [
+    {
+      "stage": 1,
+      "end": 46,
+      "nodes": 46,
+      "available_anchors": 59834,
+      "object_anchor_coverage": 0.7989270314536885,
+      "fine_anchor_coverage": 0.08914663903466256,
+      "candidate_parent_anchor_agreement": 0.6364692218350755,
+      "parent_comparable_anchors": 1722
+    },
+    {
+      "stage": 2,
+      "end": 93,
+      "nodes": 86,
+      "available_anchors": 106344,
+      "object_anchor_coverage": 0.8103136989392914,
+      "fine_anchor_coverage": 0.16037576167907922,
+      "candidate_parent_anchor_agreement": 0.9553913519430761,
+      "parent_comparable_anchors": 7308
+    },
+    {
+      "stage": 3,
+      "end": 140,
+      "nodes": 134,
+      "available_anchors": 136426,
+      "object_anchor_coverage": 0.8177546801929251,
+      "fine_anchor_coverage": 0.1776201017401375,
+      "candidate_parent_anchor_agreement": 0.9610010046579597,
+      "parent_comparable_anchors": 10949
+    },
+    {
+      "stage": 4,
+      "end": 186,
+      "nodes": 165,
+      "available_anchors": 177138,
+      "object_anchor_coverage": 0.8157143018437603,
+      "fine_anchor_coverage": 0.2430647291941876,
+      "candidate_parent_anchor_agreement": 0.9687829341861395,
+      "parent_comparable_anchors": 27517
+    },
+    {
+      "stage": 5,
+      "end": 232,
+      "nodes": 186,
+      "available_anchors": 217049,
+      "object_anchor_coverage": 0.8179397278955444,
+      "fine_anchor_coverage": 0.2500264917138526,
+      "candidate_parent_anchor_agreement": 0.9633781984913474,
+      "parent_comparable_anchors": 33805
+    },
+    {
+      "stage": 6,
+      "end": 279,
+      "nodes": 219,
+      "available_anchors": 238691,
+      "object_anchor_coverage": 0.8827354194334935,
+      "fine_anchor_coverage": 0.31757795643740233,
+      "candidate_parent_anchor_agreement": 0.9224660139466084,
+      "parent_comparable_anchors": 56788
+    }
+  ]
+}

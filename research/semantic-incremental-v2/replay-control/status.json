@@ -1,0 +1,22 @@
+{
+  "state": "complete",
+  "completed": [
+    {
+      "dataset": "tum-desk",
+      "seed": 7
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17
+    }
+  ],
+  "total": 4
+}

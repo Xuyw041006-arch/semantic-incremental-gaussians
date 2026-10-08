@@ -1,0 +1,41 @@
+{
+  "post_hoc_diagnostic": true,
+  "paired_semantic_R_minus_time_pose_control": [
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "delta": {
+        "psnr": -0.053232561500209385,
+        "old_psnr": -0.16844217320073795,
+        "fine_sam_miou": -0.004020553304492247
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "delta": {
+        "psnr": -0.03859782040244397,
+        "old_psnr": -0.4221285333095963,
+        "fine_sam_miou": 0.00448096116456953
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "delta": {
+        "psnr": 0.4458529252543961,
+        "old_psnr": 0.7769944742019277,
+        "fine_sam_miou": 0.02396811689914738
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "delta": {
+        "psnr": -0.0024356112183632206,
+        "old_psnr": 0.5108463846835569,
+        "fine_sam_miou": -0.01162729072674376
+      }
+    }
+  ]
+}

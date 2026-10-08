@@ -1,0 +1,31 @@
+UPDATE 010 7 1 0 25000 0.22256843745708466
+UPDATE 010 7 1 150 39191 0.07385309785604477
+UPDATE 010 7 1 300 48979 0.05188184976577759
+UPDATE 010 7 1 450 49996 0.052804987877607346
+STAGE_COMPLETE {"stage": 1, "end": 46, "steps": 600, "gaussians": 49984, "cap": 50000, "train_seconds": 7.849305893999826, "update_p50_ms": 6.176187000164646, "update_p95_ms": 24.390720450242043, "compute_p50_ms": 5.164698500038867, "gpu_update_peak_mib": 76.93017578125, "cpu_rss_peak_mib": 1688.71484375, "controller_seconds_cumulative": 3.9194955069929165, "optimized_pixels": 112350080, "replay_probability": 0.3, "teacher_max_frame": 42, "psnr": 21.778777406290672, "ssim": 0.5796659390131632, "old_psnr": 21.778777406290672, "object_sam_miou": 0.26211839205547394, "fine_sam_miou": 0.16509958460809993, "small_fine_sam_miou": 0.004153686396677051, "fine_coverage": 0.9540183884128755, "old_fine_sam_miou": 0.16509958460809993, "gaussian_object_coverage": 0.7590428937259923, "gaussian_fine_coverage": 0.11425656209987196, "evaluation_gpu_peak_mib": 76.93017578125}
+UPDATE 010 7 2 0 91621 0.06805134564638138
+UPDATE 010 7 2 150 99832 0.056505098938941956
+UPDATE 010 7 2 300 97836 0.03787007927894592
+UPDATE 010 7 2 450 99884 0.03606116771697998
+STAGE_COMPLETE {"stage": 2, "end": 93, "steps": 600, "gaussians": 99855, "cap": 100000, "train_seconds": 9.891408760999639, "update_p50_ms": 23.101202999669113, "update_p95_ms": 24.11213099996985, "compute_p50_ms": 5.362230999935491, "gpu_update_peak_mib": 126.35400390625, "cpu_rss_peak_mib": 1714.93359375, "controller_seconds_cumulative": 10.452992750999783, "optimized_pixels": 110425344, "replay_probability": 0.3, "teacher_max_frame": 90, "psnr": 22.989396564187796, "ssim": 0.6859430571397146, "old_psnr": 22.339407982342227, "object_sam_miou": 0.2898305731626191, "fine_sam_miou": 0.15450233262052415, "small_fine_sam_miou": 0.045964323318382114, "fine_coverage": 0.9761432273379713, "old_fine_sam_miou": 0.1657897577680422, "gaussian_object_coverage": 0.7948625506985129, "gaussian_fine_coverage": 0.21848680586850933, "evaluation_gpu_peak_mib": 130.697265625}
+UPDATE 010 7 3 0 146850 0.058209631592035294
+UPDATE 010 7 3 150 148420 0.039282143115997314
+UPDATE 010 7 3 300 146649 0.046764302998781204
+UPDATE 010 7 3 450 149730 0.032306186854839325
+STAGE_COMPLETE {"stage": 3, "end": 140, "steps": 600, "gaussians": 149752, "cap": 150000, "train_seconds": 10.604589931999726, "update_p50_ms": 23.465090999934546, "update_p95_ms": 25.255421899805697, "compute_p50_ms": 6.068070000083026, "gpu_update_peak_mib": 174.76904296875, "cpu_rss_peak_mib": 1739.90625, "controller_seconds_cumulative": 17.276574255999094, "optimized_pixels": 110950272, "replay_probability": 0.3, "teacher_max_frame": 138, "psnr": 23.88752206865656, "ssim": 0.7421225938532088, "old_psnr": 22.409054629460684, "object_sam_miou": 0.2827876240881662, "fine_sam_miou": 0.18100604461111106, "small_fine_sam_miou": 0.07860110703780163, "fine_coverage": 0.9768286576969197, "old_fine_sam_miou": 0.20754135709082672, "gaussian_object_coverage": 0.8084366152038036, "gaussian_fine_coverage": 0.25558256317110956, "evaluation_gpu_peak_mib": 174.76904296875}
+UPDATE 010 7 4 0 195718 0.09372071176767349
+UPDATE 010 7 4 150 197877 0.03659216687083244
+UPDATE 010 7 4 300 195352 0.03817756474018097
+UPDATE 010 7 4 450 199594 0.035188306123018265
+STAGE_COMPLETE {"stage": 4, "end": 186, "steps": 600, "gaussians": 199620, "cap": 200000, "train_seconds": 11.089826758999607, "update_p50_ms": 24.279628000158482, "update_p95_ms": 26.41683814968019, "compute_p50_ms": 7.2722664999673725, "gpu_update_peak_mib": 227.447265625, "cpu_rss_peak_mib": 1751.04296875, "controller_seconds_cumulative": 23.92479711000442, "optimized_pixels": 109375488, "replay_probability": 0.3, "teacher_max_frame": 179, "psnr": 24.29826253462683, "ssim": 0.7578618923823038, "old_psnr": 22.71309379988053, "object_sam_miou": 0.29071396134736427, "fine_sam_miou": 0.19336939659041635, "small_fine_sam_miou": 0.07558073486321687, "fine_coverage": 0.9922720147320534, "old_fine_sam_miou": 0.19133355347741196, "gaussian_object_coverage": 0.8117373008716562, "gaussian_fine_coverage": 0.3204087766756838, "evaluation_gpu_peak_mib": 227.447265625}
+UPDATE 010 7 5 0 244669 0.07288400828838348
+UPDATE 010 7 5 150 246195 0.033168990164995193
+UPDATE 010 7 5 300 244282 0.03435336425900459
+UPDATE 010 7 5 450 249560 0.03211953118443489
+STAGE_COMPLETE {"stage": 5, "end": 232, "steps": 600, "gaussians": 249549, "cap": 250000, "train_seconds": 11.60449880599981, "update_p50_ms": 25.044648999937635, "update_p95_ms": 27.38509189996421, "compute_p50_ms": 8.230289000039193, "gpu_update_peak_mib": 272.00927734375, "cpu_rss_peak_mib": 1762.27734375, "controller_seconds_cumulative": 30.622281379994547, "optimized_pixels": 112175104, "replay_probability": 0.3, "teacher_max_frame": 227, "psnr": 24.686174864568326, "ssim": 0.7801645459799931, "old_psnr": 23.20053165596706, "object_sam_miou": 0.30640245899495955, "fine_sam_miou": 0.1903701594077982, "small_fine_sam_miou": 0.06347197264965752, "fine_coverage": 0.9804781798930516, "old_fine_sam_miou": 0.20845512036346164, "gaussian_object_coverage": 0.8193461003650586, "gaussian_fine_coverage": 0.338274246741121, "evaluation_gpu_peak_mib": 272.00927734375}
+UPDATE 010 7 6 0 293517 0.05072479322552681
+UPDATE 010 7 6 150 296038 0.029572738334536552
+UPDATE 010 7 6 300 293051 0.028767455369234085
+UPDATE 010 7 6 450 299455 0.019155332818627357
+STAGE_COMPLETE {"stage": 6, "end": 279, "steps": 600, "gaussians": 299455, "cap": 300000, "train_seconds": 12.051745613999628, "update_p50_ms": 25.6475109999883, "update_p95_ms": 28.697650500180316, "compute_p50_ms": 8.885580499963908, "gpu_update_peak_mib": 320.16162109375, "cpu_rss_peak_mib": 1778.90234375, "controller_seconds_cumulative": 37.13346938599989, "optimized_pixels": 110600320, "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 25.153083047759594, "ssim": 0.802181533404759, "old_psnr": 22.689650593337007, "object_sam_miou": 0.2950991271479289, "fine_sam_miou": 0.21221155748328238, "small_fine_sam_miou": 0.07266848296607417, "fine_coverage": 0.9852093552844113, "old_fine_sam_miou": 0.20240281505053417, "gaussian_object_coverage": 0.8608171511579369, "gaussian_fine_coverage": 0.3910604264413685, "evaluation_gpu_peak_mib": 320.16162109375}
+RUN_COMPLETE 010 7

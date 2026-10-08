@@ -1,0 +1,31 @@
+UPDATE 110 17 1 0 25000 0.21632270514965057
+UPDATE 110 17 1 150 38573 0.0676812157034874
+UPDATE 110 17 1 300 48938 0.05700591206550598
+UPDATE 110 17 1 450 49995 0.05365024879574776
+STAGE_COMPLETE {"stage": 1, "end": 20, "steps": 600, "gaussians": 49994, "cap": 50000, "train_seconds": 8.804365658997995, "update_p50_ms": 10.62405049924564, "update_p95_ms": 15.389034001054796, "compute_p50_ms": 8.983559000625974, "gpu_update_peak_mib": 88.15234375, "cpu_rss_peak_mib": 1693.33984375, "controller_seconds_cumulative": 2.6485803999930795, "optimized_pixels": 122277888, "teacher_max_frame": 14, "psnr": 20.90982991750347, "ssim": 0.6942750811576843, "old_psnr": 20.90982991750347, "object_sam_miou": 0.5806949930196511, "fine_sam_miou": 0.36895304925543654, "small_fine_sam_miou": 0.21421024828314844, "fine_coverage": 0.812015338730294, "old_fine_sam_miou": 0.36895304925543654, "gaussian_object_coverage": 0.27857342881145736, "gaussian_fine_coverage": 0.16025923110773294, "evaluation_gpu_peak_mib": 88.15234375}
+UPDATE 110 17 2 0 92680 0.12640032172203064
+UPDATE 110 17 2 150 99350 0.04552583396434784
+UPDATE 110 17 2 300 97564 0.06427457928657532
+UPDATE 110 17 2 450 99698 0.0827883780002594
+STAGE_COMPLETE {"stage": 2, "end": 40, "steps": 600, "gaussians": 99757, "cap": 100000, "train_seconds": 8.2362384750013, "update_p50_ms": 13.192873500884161, "update_p95_ms": 18.206508199909862, "compute_p50_ms": 10.921958999460912, "gpu_update_peak_mib": 132.2666015625, "cpu_rss_peak_mib": 1790.73046875, "controller_seconds_cumulative": 4.249545644001046, "optimized_pixels": 118517760, "teacher_max_frame": 36, "psnr": 19.57974806026189, "ssim": 0.6579292331423078, "old_psnr": 20.580885362384247, "object_sam_miou": 0.4161240315576444, "fine_sam_miou": 0.28703101616004495, "small_fine_sam_miou": 0.13669619256556748, "fine_coverage": 0.727897271025952, "old_fine_sam_miou": 0.3605931206738853, "gaussian_object_coverage": 0.26299908778331343, "gaussian_fine_coverage": 0.21061178664153893, "evaluation_gpu_peak_mib": 132.2666015625}
+UPDATE 110 17 3 0 142719 0.20187614858150482
+UPDATE 110 17 3 150 147760 0.043917495757341385
+UPDATE 110 17 3 300 146086 0.08371323347091675
+UPDATE 110 17 3 450 149460 0.04964257776737213
+STAGE_COMPLETE {"stage": 3, "end": 60, "steps": 600, "gaussians": 149587, "cap": 150000, "train_seconds": 11.197616643999936, "update_p50_ms": 15.947727000821033, "update_p95_ms": 36.436605052585946, "compute_p50_ms": 12.201381499835406, "gpu_update_peak_mib": 182.55078125, "cpu_rss_peak_mib": 1799.8046875, "controller_seconds_cumulative": 7.966526027012151, "optimized_pixels": 118517760, "teacher_max_frame": 58, "psnr": 19.981891372223355, "ssim": 0.6697595834732055, "old_psnr": 20.42907424138404, "object_sam_miou": 0.5150603316169897, "fine_sam_miou": 0.32814597573356424, "small_fine_sam_miou": 0.1352987467306601, "fine_coverage": 0.887758065642412, "old_fine_sam_miou": 0.3527023705481973, "gaussian_object_coverage": 0.32034869340250155, "gaussian_fine_coverage": 0.2578900572910748, "evaluation_gpu_peak_mib": 182.55078125}
+UPDATE 110 17 4 0 193972 0.15400679409503937
+UPDATE 110 17 4 150 195258 0.06722164154052734
+UPDATE 110 17 4 300 194628 0.08292286098003387
+UPDATE 110 17 4 450 198935 0.06972723454236984
+STAGE_COMPLETE {"stage": 4, "end": 79, "steps": 600, "gaussians": 199043, "cap": 200000, "train_seconds": 14.818239475000155, "update_p50_ms": 22.04512099888234, "update_p95_ms": 43.913344798602324, "compute_p50_ms": 17.943375998584088, "gpu_update_peak_mib": 229.25537109375, "cpu_rss_peak_mib": 1819.46484375, "controller_seconds_cumulative": 12.124379325054178, "optimized_pixels": 122695680, "teacher_max_frame": 72, "psnr": 19.07099544957739, "ssim": 0.6407432693701524, "old_psnr": 19.293618324642168, "object_sam_miou": 0.4370115390122365, "fine_sam_miou": 0.2896631539025484, "small_fine_sam_miou": 0.14291631712989677, "fine_coverage": 0.752731673798443, "old_fine_sam_miou": 0.3459452762064505, "gaussian_object_coverage": 0.3453374396487191, "gaussian_fine_coverage": 0.2884954507317514, "evaluation_gpu_peak_mib": 229.25537109375}
+UPDATE 110 17 5 0 242720 0.1544034779071808
+UPDATE 110 17 5 150 245552 0.04955898970365524
+UPDATE 110 17 5 300 243302 0.07072221487760544
+UPDATE 110 17 5 450 248873 0.02932264655828476
+STAGE_COMPLETE {"stage": 5, "end": 99, "steps": 600, "gaussians": 248791, "cap": 250000, "train_seconds": 15.336803682999744, "update_p50_ms": 24.29782450053608, "update_p95_ms": 42.75813959829974, "compute_p50_ms": 18.064130999846384, "gpu_update_peak_mib": 286.44091796875, "cpu_rss_peak_mib": 1833.75, "controller_seconds_cumulative": 16.201675630018144, "optimized_pixels": 120606720, "teacher_max_frame": 94, "psnr": 19.025568004058716, "ssim": 0.6367579884827137, "old_psnr": 18.49464086055873, "object_sam_miou": 0.4241059253802759, "fine_sam_miou": 0.3152210875565812, "small_fine_sam_miou": 0.13024032599737964, "fine_coverage": 0.8320439019321304, "old_fine_sam_miou": 0.3181981319038957, "gaussian_object_coverage": 0.42883384045242795, "gaussian_fine_coverage": 0.3048341780852201, "evaluation_gpu_peak_mib": 286.44091796875}
+UPDATE 110 17 6 0 284432 0.11235765367746353
+UPDATE 110 17 6 150 296175 0.04129273071885109
+UPDATE 110 17 6 300 292509 0.041539598256349564
+UPDATE 110 17 6 450 299029 0.08503983914852142
+STAGE_COMPLETE {"stage": 6, "end": 119, "steps": 600, "gaussians": 299029, "cap": 300000, "train_seconds": 13.974048281997966, "update_p50_ms": 20.689351998953498, "update_p95_ms": 43.78165820235154, "compute_p50_ms": 16.23473399922659, "gpu_update_peak_mib": 331.3115234375, "cpu_rss_peak_mib": 1841.87890625, "controller_seconds_cumulative": 19.936014367096504, "optimized_pixels": 117682176, "teacher_max_frame": 115, "psnr": 19.611062715726028, "ssim": 0.6496206670999527, "old_psnr": 19.084274010214198, "object_sam_miou": 0.4250349800044267, "fine_sam_miou": 0.3441638709288841, "small_fine_sam_miou": 0.10714984799658081, "fine_coverage": 0.8528186646216112, "old_fine_sam_miou": 0.34370370683985074, "gaussian_object_coverage": 0.4493811636998418, "gaussian_fine_coverage": 0.33502436218560744, "evaluation_gpu_peak_mib": 331.3115234375}
+RUN_COMPLETE 110 17

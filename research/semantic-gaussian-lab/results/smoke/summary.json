@@ -1,0 +1,64 @@
+{
+  "backend": "cpu_isotropic_fusion",
+  "frames": 30,
+  "input": "合成室内序列 · 深度 / 位姿 / 分割均为真值",
+  "gaussians": 19639,
+  "map_capacity_mib": 1.8310546875,
+  "update_median_ms": 12.881499999999999,
+  "update_p95_ms": 16.5349,
+  "update_target_ms": 45,
+  "cpu_budget_overruns": 0,
+  "gpu_measured": false,
+  "old_view_probe_note": "Gaussian centre projection, not a rendered-view PSNR benchmark",
+  "old_view_probes": [
+    {
+      "after_frame": 0,
+      "anchor_frame": 0,
+      "coverage": 0.06248,
+      "covered_rgb_psnr": 100.0,
+      "covered_depth_mae_m": 0.0
+    },
+    {
+      "after_frame": 20,
+      "anchor_frame": 0,
+      "coverage": 0.10227,
+      "covered_rgb_psnr": 40.53,
+      "covered_depth_mae_m": 0.00654
+    },
+    {
+      "after_frame": 20,
+      "anchor_frame": 10,
+      "coverage": 0.09812,
+      "covered_rgb_psnr": 40.312,
+      "covered_depth_mae_m": 0.00701
+    },
+    {
+      "after_frame": 20,
+      "anchor_frame": 20,
+      "coverage": 0.0921,
+      "covered_rgb_psnr": 39.15,
+      "covered_depth_mae_m": 0.00793
+    },
+    {
+      "after_frame": 29,
+      "anchor_frame": 0,
+      "coverage": 0.10616,
+      "covered_rgb_psnr": 40.616,
+      "covered_depth_mae_m": 0.00679
+    },
+    {
+      "after_frame": 29,
+      "anchor_frame": 10,
+      "coverage": 0.09939,
+      "covered_rgb_psnr": 40.214,
+      "covered_depth_mae_m": 0.00813
+    },
+    {
+      "after_frame": 29,
+      "anchor_frame": 20,
+      "coverage": 0.09676,
+      "covered_rgb_psnr": 38.706,
+      "covered_depth_mae_m": 0.0084
+    }
+  ]
+}

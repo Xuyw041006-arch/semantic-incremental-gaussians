@@ -1,0 +1,37 @@
+{
+  "args": {
+    "data": "/content/video-gaussian-priority/results/rgb-video-03-priority/sfm/scene",
+    "prefixes": "/content/video-gaussian-priority/results/rgb-video-03-priority/prefixes",
+    "masks": "/content/video-gaussian-priority/results/rgb-video-03-priority/teachers",
+    "output": "/content/video-gaussian-priority/results/matched-500k-baseline",
+    "factors": "111",
+    "seed": 7,
+    "cap": 500000,
+    "width": 640,
+    "stages": 4,
+    "semantic_strength": 0.1,
+    "replay_max": 0.6,
+    "steps": 2400,
+    "degree": 2,
+    "semantic_densify": 0,
+    "background_prune_fraction": 0.03,
+    "boundary_boost": 0.75,
+    "object_boost": 0.5,
+    "feature_dim": 16,
+    "feature_weight": 0.01,
+    "semantic_every": 10
+  },
+  "dataset_kind": "offline_COLMAP",
+  "units": "normalized offline COLMAP units",
+  "seconds_including_evaluation_and_export": 123.33267643800002,
+  "device": "NVIDIA L4",
+  "optimizer_steps": 9600,
+  "cache_capacity": 32,
+  "replay_capacity": 48,
+  "qualifications": [
+    "Input camera poses estimated offline by RGB SfM; not real-time camera tracking",
+    "SAM pseudo region evaluation, not human part accuracy",
+    "Teacher preprocessing is timed separately and shared; not an end-to-end real-time claim",
+    "B uses a marginal coverage proxy, not an exact counterfactual query-loss oracle"
+  ]
+}

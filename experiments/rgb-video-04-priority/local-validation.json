@@ -1,0 +1,12 @@
+{
+  "state": "passed",
+  "archive_sha256": "aa95e2eb68816ed70ceaa6e76e10d2f9a3a90858e6e0e334e2b04d370671c4ae",
+  "gaussians": 498774,
+  "finite": true,
+  "feature_std": 0.2024804651737213,
+  "no_future_or_test_teachers": true,
+  "training_source_matches_colab": true,
+  "post_training_viewer_change": "Choose an observed camera before object focus; no model parameter changes",
+  "checkpoint_archive_sha256": "4138ee11891036a61fea61f62ba5bc4c1971a799ce92d04904b1fecce84d09cf",
+  "full_adam_checkpoint_saved": true
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "index": 3,
+    "level": 0,
+    "miou": 0.191031346749226,
+    "small_miou": 0.0,
+    "coverage": 0.16116465863453816,
+    "regions": 4,
+    "per_region_iou": [
+      0.0,
+      0.0,
+      0.764125386996904,
+      0.0
+    ]
+  },
+  {
+    "index": 3,
+    "level": 1,
+    "miou": null,
+    "small_miou": null,
+    "coverage": 0.0,
+    "regions": 0
+  }
+]

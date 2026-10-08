@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "whole_sha256": "8dfd4af03c9070404213f874b47d49b5ab671a9a793b83eab95e2244fd364fee",
+  "bytes": 320606524,
+  "zip_crc": true,
+  "manifest_files": 1210,
+  "completed_runs": 40,
+  "checkpoints_preserved": 3
+}

@@ -1,0 +1,10 @@
+{
+  "state": "complete",
+  "runs": 32,
+  "artifact": "/content/semantic-incremental-results.zip",
+  "bytes": 297810510,
+  "sha256": "151f6b4ef5491cb98f37590e2e6f66c0968faa227f514d9d0ff0bc983020b953",
+  "archive_contains_all_raw_metrics": true,
+  "selected_checkpoints": "Four seed-7 000/111 checkpoints and maps; other 28 planned checkpoints remain in Colab runtime",
+  "report": "/content/semantic-incremental/EXPERIMENT_REPORT.md"
+}

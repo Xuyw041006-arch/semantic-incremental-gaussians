@@ -1,0 +1,59 @@
+{
+  "fingerprint": "7011a44bd523693992ccb64b96611f099d8669a64d62bc3cf36f11f33710d96c",
+  "config": {
+    "video": "/content/video-gaussian-pipeline/videos/tum-desk.mp4",
+    "fps": 3.0,
+    "max_frames": 72,
+    "extract_width": 640,
+    "width": 640,
+    "start": 0.0,
+    "duration": null,
+    "rotate": null,
+    "blur_threshold": 0.0,
+    "duplicate_threshold": 1.0,
+    "camera_model": "SIMPLE_RADIAL",
+    "camera_params": "",
+    "overlap": 12,
+    "min_registration": 0.75,
+    "threads": 4,
+    "stages": 4,
+    "steps": 800,
+    "cap": 200000,
+    "factors": "111",
+    "seed": 7,
+    "teacher_stride": 3,
+    "checkpoint": "/content/video-gaussian-pipeline/checkpoints/sam2.1_hiera_tiny.pt",
+    "video_sha256": "0cad78d40c44b5a067aea50bf557d9a92e7ce97fbd3dd282fb16c7b933cbac5f",
+    "source_sha256": "c574bba78f82a5c8d00308a4ee2affb626a849ade652c39705c116a5d31af95c"
+  },
+  "stages": {
+    "extract": {
+      "state": "complete",
+      "seconds": 0.4993259930001841
+    },
+    "sfm": {
+      "state": "complete",
+      "seconds": 52.74013466899987
+    },
+    "teachers": {
+      "state": "complete",
+      "seconds": 71.37098120200017
+    },
+    "semantics": {
+      "state": "complete",
+      "seconds": 2.13046014199972
+    },
+    "train": {
+      "state": "complete",
+      "seconds": 478.07225559699964
+    },
+    "export": {
+      "state": "complete",
+      "seconds": 1.6677662160000182
+    }
+  },
+  "state": "complete",
+  "current_stage": null,
+  "effective_stages": 4,
+  "last_invocation_seconds": 608.0221447220001
+}

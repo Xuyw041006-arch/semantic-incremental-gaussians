@@ -1,0 +1,28 @@
+{
+  "archive_sha256": "7a7f26cbbe9cfd0d5b8ff46751219dab4bc1556b1f24495fc8600a058ed30472",
+  "archive_bytes": 135450242,
+  "zip_crc": "PASS",
+  "cpu_tests": 7,
+  "stage_budget_checks": "all 18 stages passed",
+  "map_numeric_checks": "both complete maps finite, positive scales, opacity in [0,1]",
+  "local_text_query": {
+    "word": "toy bulldozer",
+    "node": 50,
+    "gaussians": 10350
+  },
+  "colab_arbitrary_text_query": {
+    "text": "a yellow toy bulldozer",
+    "node": 50,
+    "gaussians": 10350
+  },
+  "browser_console_errors": [],
+  "video": {
+    "width": 1056,
+    "height": 340,
+    "seconds": 25.6,
+    "fps": 15,
+    "frames": 384,
+    "playback_verified": true
+  },
+  "qualification": "Tests establish functionality, not human semantic accuracy or strict online causality."
+}

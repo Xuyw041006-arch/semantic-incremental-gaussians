@@ -1,0 +1,18 @@
+{
+  "recorded_before_control_results": true,
+  "post_hoc_diagnostic": true,
+  "purpose": "Separate semantic replay selection from higher replay frequency; candidate is not retuned.",
+  "candidate_factors": "001",
+  "control": "Same temporal exploration, camera-pose novelty, 48-frame capacity and stage-dependent replay probability; region coverage is empty.",
+  "datasets": [
+    "tum-desk",
+    "kitchen"
+  ],
+  "seeds": [
+    7,
+    17
+  ],
+  "steps": 600,
+  "stages": 6,
+  "cap": 300000
+}

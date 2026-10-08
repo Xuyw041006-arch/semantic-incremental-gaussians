@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/content/semantic-incremental-v2/work/aux/coordinate.py", line 53, in <module>
+    try:main()
+        ~~~~^^
+  File "/content/semantic-incremental-v2/work/aux/coordinate.py", line 49, in main
+    subprocess.run([sys.executable,str(AUX/'finalize.py')],cwd=ROOT,check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['/usr/bin/python3', '/content/semantic-incremental-v2/work/aux/finalize.py']' returned non-zero exit status 1.

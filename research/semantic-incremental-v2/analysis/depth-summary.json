@@ -1,0 +1,82 @@
+[
+  {
+    "dataset": "tum-desk",
+    "seed": 7,
+    "factors": "000",
+    "covered_depth_rmse_m": 0.14498584591160432,
+    "covered_depth_mae_m": 0.055030619323277664,
+    "depth_coverage": 1.0,
+    "penalized_depth_rmse_m": 0.14498584591160432,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  },
+  {
+    "dataset": "tum-desk",
+    "seed": 7,
+    "factors": "111",
+    "covered_depth_rmse_m": 0.14334658911497103,
+    "covered_depth_mae_m": 0.0529040676977016,
+    "depth_coverage": 0.9999099800970594,
+    "penalized_depth_rmse_m": 0.1457684561932725,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  },
+  {
+    "dataset": "tum-desk",
+    "seed": 17,
+    "factors": "000",
+    "covered_depth_rmse_m": 0.1466588140192514,
+    "covered_depth_mae_m": 0.05589462478831059,
+    "depth_coverage": 0.9999934292041649,
+    "penalized_depth_rmse_m": 0.14680501393117784,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  },
+  {
+    "dataset": "tum-desk",
+    "seed": 17,
+    "factors": "111",
+    "covered_depth_rmse_m": 0.14294603893137728,
+    "covered_depth_mae_m": 0.052018931994410406,
+    "depth_coverage": 0.9998433960325973,
+    "penalized_depth_rmse_m": 0.1460766493742586,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  },
+  {
+    "dataset": "tum-desk2",
+    "seed": 7,
+    "factors": "000",
+    "covered_depth_rmse_m": 0.17254025602392273,
+    "covered_depth_mae_m": 0.08236096219435449,
+    "depth_coverage": 1.0,
+    "penalized_depth_rmse_m": 0.17254025602392273,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  },
+  {
+    "dataset": "tum-desk2",
+    "seed": 7,
+    "factors": "111",
+    "covered_depth_rmse_m": 0.1691021569280948,
+    "covered_depth_mae_m": 0.07955881311298191,
+    "depth_coverage": 1.0,
+    "penalized_depth_rmse_m": 0.1691021569280948,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  },
+  {
+    "dataset": "tum-desk2",
+    "seed": 17,
+    "factors": "000",
+    "covered_depth_rmse_m": 0.17116727981208849,
+    "covered_depth_mae_m": 0.08086426295647335,
+    "depth_coverage": 1.0,
+    "penalized_depth_rmse_m": 0.17116727981208849,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  },
+  {
+    "dataset": "tum-desk2",
+    "seed": 17,
+    "factors": "111",
+    "covered_depth_rmse_m": 0.1683132857005301,
+    "covered_depth_mae_m": 0.07912509557960201,
+    "depth_coverage": 1.0,
+    "penalized_depth_rmse_m": 0.1683132857005301,
+    "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"
+  }
+]

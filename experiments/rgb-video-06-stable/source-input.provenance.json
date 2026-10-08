@@ -1,0 +1,8 @@
+{
+  "source": "https://webshare.cvg.cit.tum.de/g/rgbd/dataset/freiburg1/rgbd_dataset_freiburg1_desk.tgz",
+  "source_archive_sha256": "e983d6830916e66dc4a46a71368046b149b283de87769690e7aa4e0b9483530c",
+  "video_sha256": "0cad78d40c44b5a067aea50bf557d9a92e7ce97fbd3dd282fb16c7b933cbac5f",
+  "frames": 613,
+  "seconds": 20.404349088668823,
+  "explanation": "MP4 encoded from a real TUM RGB recording; pipeline receives only this MP4. Depth and groundtruth poses are not used."
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "dataset": "tum-desk",
+    "data": "/content/semantic-incremental/data/tum640/manifest.json",
+    "seed": 7,
+    "factors": "111"
+  },
+  {
+    "dataset": "tum-desk",
+    "data": "/content/semantic-incremental/data/tum640/manifest.json",
+    "seed": 7,
+    "factors": "000"
+  },
+  {
+    "dataset": "kitchen",
+    "data": "/content/mip360/kitchen",
+    "seed": 7,
+    "factors": "000"
+  },
+  {
+    "dataset": "kitchen",
+    "data": "/content/mip360/kitchen",
+    "seed": 7,
+    "factors": "111"
+  }
+]

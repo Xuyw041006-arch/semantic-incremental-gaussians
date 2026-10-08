@@ -1,0 +1,227 @@
+  1 | splats   3071 | update   16.27 ms | added 3071 | stable      0
+  2 | splats   4144 | update   16.72 ms | added 1073 | stable      0
+  3 | splats   4823 | update   17.02 ms | added  679 | stable      0
+  4 | splats   5412 | update   17.29 ms | added  589 | stable      0
+  5 | splats   5761 | update   16.77 ms | added  349 | stable    804
+  6 | splats   6242 | update   17.10 ms | added  481 | stable   1429
+  7 | splats   6571 | update   16.48 ms | added  329 | stable   2008
+  8 | splats   6971 | update   16.69 ms | added  400 | stable   2400
+  9 | splats   7324 | update   16.92 ms | added  353 | stable   2741
+ 10 | splats   7647 | update   17.09 ms | added  323 | stable   3026
+ 11 | splats   7954 | update   16.85 ms | added  307 | stable   3330
+ 12 | splats   8218 | update   16.04 ms | added  264 | stable   3631
+ 13 | splats   8484 | update   16.81 ms | added  266 | stable   3922
+ 14 | splats   8849 | update   16.84 ms | added  365 | stable   4148
+ 15 | splats   9102 | update   16.23 ms | added  253 | stable   4309
+ 16 | splats   9364 | update   16.39 ms | added  262 | stable   4522
+ 17 | splats   9625 | update   16.27 ms | added  261 | stable   4710
+ 18 | splats   9872 | update   16.11 ms | added  247 | stable   4901
+ 19 | splats  10172 | update   15.84 ms | added  300 | stable   5079
+ 20 | splats  10424 | update   15.74 ms | added  252 | stable   5240
+ 21 | splats  10644 | update   15.55 ms | added  220 | stable   5393
+ 22 | splats  10866 | update   15.56 ms | added  222 | stable   5553
+ 23 | splats  11076 | update   14.98 ms | added  210 | stable   5687
+ 24 | splats  11411 | update   15.04 ms | added  335 | stable   5840
+ 25 | splats  11714 | update   15.11 ms | added  303 | stable   5990
+ 26 | splats  12075 | update   14.88 ms | added  361 | stable   6155
+ 27 | splats  12494 | update   14.73 ms | added  419 | stable   6311
+ 28 | splats  12871 | update   14.48 ms | added  377 | stable   6479
+ 29 | splats  13286 | update   14.75 ms | added  415 | stable   6600
+ 30 | splats  13625 | update   15.45 ms | added  339 | stable   6714
+ 31 | splats  13970 | update   15.19 ms | added  345 | stable   6852
+ 32 | splats  14267 | update   15.43 ms | added  297 | stable   6984
+ 33 | splats  14530 | update   15.87 ms | added  263 | stable   7149
+ 34 | splats  14793 | update   16.16 ms | added  263 | stable   7335
+ 35 | splats  15100 | update   15.83 ms | added  307 | stable   7482
+ 36 | splats  15330 | update   15.45 ms | added  230 | stable   7673
+ 37 | splats  15470 | update   15.62 ms | added  140 | stable   7852
+ 38 | splats  15602 | update   15.16 ms | added  132 | stable   8083
+ 39 | splats  15754 | update   15.70 ms | added  152 | stable   8301
+ 40 | splats  15901 | update   15.54 ms | added  147 | stable   8534
+ 41 | splats  15227 | update   17.54 ms | added  164 | stable   8862
+ 42 | splats  15374 | update   15.75 ms | added  147 | stable   9152
+ 43 | splats  15537 | update   16.12 ms | added  163 | stable   9359
+ 44 | splats  15724 | update   16.39 ms | added  187 | stable   9551
+ 45 | splats  15885 | update   15.65 ms | added  161 | stable   9679
+ 46 | splats  16040 | update   15.29 ms | added  155 | stable   9812
+ 47 | splats  16216 | update   15.88 ms | added  176 | stable   9893
+ 48 | splats  16387 | update   15.53 ms | added  171 | stable   9990
+ 49 | splats  16575 | update   15.09 ms | added  188 | stable  10056
+ 50 | splats  16763 | update   15.78 ms | added  188 | stable  10128
+ 51 | splats  15972 | update   17.51 ms | added  204 | stable  10287
+ 52 | splats  16168 | update   15.61 ms | added  196 | stable  10431
+ 53 | splats  16338 | update   15.27 ms | added  170 | stable  10560
+ 54 | splats  16521 | update   15.36 ms | added  183 | stable  10680
+ 55 | splats  16697 | update   15.09 ms | added  176 | stable  10804
+ 56 | splats  16896 | update   14.80 ms | added  199 | stable  10917
+ 57 | splats  17143 | update   15.81 ms | added  247 | stable  11013
+ 58 | splats  17438 | update   15.24 ms | added  295 | stable  11095
+ 59 | splats  17658 | update   16.01 ms | added  220 | stable  11178
+ 60 | splats  17886 | update   15.88 ms | added  228 | stable  11277
+ 61 | splats  16781 | update   17.34 ms | added  227 | stable  11431
+ 62 | splats  17042 | update   16.42 ms | added  261 | stable  11602
+ 63 | splats  17346 | update   15.84 ms | added  304 | stable  11749
+ 64 | splats  17603 | update   15.91 ms | added  257 | stable  11933
+ 65 | splats  17852 | update   16.17 ms | added  249 | stable  12128
+ 66 | splats  18133 | update   16.42 ms | added  281 | stable  12282
+ 67 | splats  18409 | update   16.15 ms | added  276 | stable  12412
+ 68 | splats  18713 | update   16.13 ms | added  304 | stable  12530
+ 69 | splats  19005 | update   15.76 ms | added  292 | stable  12614
+ 70 | splats  19303 | update   15.54 ms | added  298 | stable  12710
+ 71 | splats  18060 | update   17.47 ms | added  283 | stable  12920
+ 72 | splats  18434 | update   15.70 ms | added  374 | stable  13145
+ 73 | splats  18691 | update   15.12 ms | added  257 | stable  13331
+ 74 | splats  18986 | update   15.13 ms | added  295 | stable  13548
+ 75 | splats  19325 | update   15.37 ms | added  339 | stable  13715
+ 76 | splats  19622 | update   15.48 ms | added  297 | stable  13913
+ 77 | splats  19893 | update   15.36 ms | added  271 | stable  14045
+ 78 | splats  20065 | update   15.38 ms | added  172 | stable  14190
+ 79 | splats  20235 | update   15.22 ms | added  170 | stable  14278
+ 80 | splats  20376 | update   15.74 ms | added  141 | stable  14352
+ 81 | splats  19641 | update   17.61 ms | added  109 | stable  14472
+ 82 | splats  19772 | update   15.96 ms | added  131 | stable  14577
+ 83 | splats  19877 | update   16.16 ms | added  105 | stable  14679
+ 84 | splats  20027 | update   16.60 ms | added  150 | stable  14782
+ 85 | splats  20162 | update   16.52 ms | added  135 | stable  14865
+ 86 | splats  20331 | update   16.68 ms | added  169 | stable  14935
+ 87 | splats  20432 | update   16.83 ms | added  101 | stable  15010
+ 88 | splats  20528 | update   17.25 ms | added   96 | stable  15075
+ 89 | splats  20587 | update   16.60 ms | added   59 | stable  15136
+ 90 | splats  20643 | update   16.84 ms | added   56 | stable  15200
+ 91 | splats  20023 | update   19.24 ms | added   45 | stable  15287
+ 92 | splats  20075 | update   18.11 ms | added   52 | stable  15348
+ 93 | splats  20117 | update   17.38 ms | added   42 | stable  15409
+ 94 | splats  20151 | update   17.21 ms | added   34 | stable  15462
+ 95 | splats  20190 | update   17.66 ms | added   39 | stable  15529
+ 96 | splats  20234 | update   16.86 ms | added   44 | stable  15572
+ 97 | splats  20271 | update   16.79 ms | added   37 | stable  15597
+ 98 | splats  20317 | update   17.38 ms | added   46 | stable  15634
+ 99 | splats  20367 | update   17.08 ms | added   50 | stable  15668
+100 | splats  20396 | update   16.94 ms | added   29 | stable  15680
+{
+  "backend": "cpu_isotropic_fusion",
+  "frames": 100,
+  "input": "合成室内序列 · 深度 / 位姿 / 分割均为真值",
+  "gaussians": 20396,
+  "map_capacity_mib": 1.8310546875,
+  "update_median_ms": 15.9825,
+  "update_p95_ms": 17.50765,
+  "update_target_ms": 45,
+  "cpu_budget_overruns": 0,
+  "gpu_measured": false,
+  "old_view_probe_note": "Gaussian centre projection, not a rendered-view PSNR benchmark",
+  "old_view_probes": [
+    {
+      "after_frame": 0,
+      "anchor_frame": 0,
+      "coverage": 0.06248,
+      "covered_rgb_psnr": 100.0,
+      "covered_depth_mae_m": 0.0
+    },
+    {
+      "after_frame": 20,
+      "anchor_frame": 0,
+      "coverage": 0.10341,
+      "covered_rgb_psnr": 41.498,
+      "covered_depth_mae_m": 0.00611
+    },
+    {
+      "after_frame": 20,
+      "anchor_frame": 10,
+      "coverage": 0.11249,
+      "covered_rgb_psnr": 39.728,
+      "covered_depth_mae_m": 0.0068
+    },
+    {
+      "after_frame": 20,
+      "anchor_frame": 20,
+      "coverage": 0.09389,
+      "covered_rgb_psnr": 39.804,
+      "covered_depth_mae_m": 0.0071
+    },
+    {
+      "after_frame": 40,
+      "anchor_frame": 0,
+      "coverage": 0.09027,
+      "covered_rgb_psnr": 41.506,
+      "covered_depth_mae_m": 0.00755
+    },
+    {
+      "after_frame": 40,
+      "anchor_frame": 10,
+      "coverage": 0.11269,
+      "covered_rgb_psnr": 37.844,
+      "covered_depth_mae_m": 0.0074
+    },
+    {
+      "after_frame": 40,
+      "anchor_frame": 20,
+      "coverage": 0.099,
+      "covered_rgb_psnr": 38.432,
+      "covered_depth_mae_m": 0.00821
+    },
+    {
+      "after_frame": 60,
+      "anchor_frame": 0,
+      "coverage": 0.08942,
+      "covered_rgb_psnr": 39.539,
+      "covered_depth_mae_m": 0.00765
+    },
+    {
+      "after_frame": 60,
+      "anchor_frame": 10,
+      "coverage": 0.09884,
+      "covered_rgb_psnr": 38.891,
+      "covered_depth_mae_m": 0.00746
+    },
+    {
+      "after_frame": 60,
+      "anchor_frame": 20,
+      "coverage": 0.08344,
+      "covered_rgb_psnr": 40.347,
+      "covered_depth_mae_m": 0.00823
+    },
+    {
+      "after_frame": 80,
+      "anchor_frame": 0,
+      "coverage": 0.09772,
+      "covered_rgb_psnr": 39.432,
+      "covered_depth_mae_m": 0.00763
+    },
+    {
+      "after_frame": 80,
+      "anchor_frame": 10,
+      "coverage": 0.10274,
+      "covered_rgb_psnr": 39.781,
+      "covered_depth_mae_m": 0.00852
+    },
+    {
+      "after_frame": 80,
+      "anchor_frame": 20,
+      "coverage": 0.08083,
+      "covered_rgb_psnr": 41.419,
+      "covered_depth_mae_m": 0.00939
+    },
+    {
+      "after_frame": 99,
+      "anchor_frame": 0,
+      "coverage": 0.10183,
+      "covered_rgb_psnr": 40.102,
+      "covered_depth_mae_m": 0.00767
+    },
+    {
+      "after_frame": 99,
+      "anchor_frame": 10,
+      "coverage": 0.10423,
+      "covered_rgb_psnr": 39.332,
+      "covered_depth_mae_m": 0.00904
+    },
+    {
+      "after_frame": 99,
+      "anchor_frame": 20,
+      "coverage": 0.08425,
+      "covered_rgb_psnr": 42.228,
+      "covered_depth_mae_m": 0.00993
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "index": 3,
+    "level": 0,
+    "miou": 0.1811143402052493,
+    "small_miou": 0.0,
+    "coverage": 0.16116465863453816,
+    "regions": 4,
+    "per_region_iou": [
+      0.0,
+      0.0,
+      0.7244573608209972,
+      0.0
+    ]
+  },
+  {
+    "index": 3,
+    "level": 1,
+    "miou": null,
+    "small_miou": null,
+    "coverage": 0.0,
+    "regions": 0
+  },
+  {
+    "index": 21,
+    "level": 0,
+    "miou": 0.4173784234404788,
+    "small_miou": 0.4268733850129199,
+    "coverage": 0.896398219344395,
+    "regions": 2,
+    "per_region_iou": [
+      0.4268733850129199,
+      0.4078834618680377
+    ]
+  },
+  {
+    "index": 21,
+    "level": 1,
+    "miou": null,
+    "small_miou": null,
+    "coverage": 0.0,
+    "regions": 0
+  },
+  {
+    "index": 39,
+    "level": 0,
+    "miou": 0.5461405584340772,
+    "small_miou": 0.20038883488404388,
+    "coverage": 0.9394353953799894,
+    "regions": 3,
+    "per_region_iou": [
+      0.6491345430219918,
+      0.7888982973961957,
+      0.20038883488404388
+    ]
+  },
+  {
+    "index": 39,
+    "level": 1,
+    "miou": 0.0,
+    "small_miou": 0.0,
+    "coverage": 0.0,
+    "regions": 1,
+    "per_region_iou": [
+      0.0
+    ]
+  }
+]

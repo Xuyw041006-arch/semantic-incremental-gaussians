@@ -1,0 +1,19 @@
+keyboard_arrow_down
+Result archive and arbitrary text query smoke test
+#@title Result archive and arbitrary text query smoke test
+from pathlib import Path
+import hashlib,subprocess,sys
+p=Path('/content/hierarchical-kitchen-results.zip')
+print('RESULT_ARTIFACT_READY',p,p.stat().st_size,'bytes')
+print('SHA256',hashlib.sha256(p.read_bytes()).hexdigest())
+q=subprocess.run([sys.executable,'-m','hglab.query','--field','semantic-field-300k','--text','a yellow toy bulldozer','--scale','0.144','--output','yellow-toy-query.npy'],capture_output=True,text=True)
+print(q.stdout); print(q.stderr[-1000:] if q.returncode else 'Arbitrary text query: PASS')
+assert q.returncode==0
+# Manual download:
+# from google.colab import files
+# files.download(str(p))
+RESULT_ARTIFACT_READY /content/hierarchical-kitchen-results.zip 135450242 bytes
+SHA256 7a7f26cbbe9cfd0d5b8ff46751219dab4bc1556b1f24495fc8600a058ed30472
+{"query": "a yellow toy bulldozer", "level": 1, "ranking": [[0.2572038173675537, 50, "LEGO model"], [0.2348514199256897, 77, "bulldozer blade"], [0.2342706322669983, 79, "bottle"], [0.22657209634780884, 74, "background"], [0.22500352561473846, 5, "cabinet handle"], [0.21919962763786316, 10, "table edge"], [0.21876811981201172, 73, "table edge"], [0.21721072494983673, 3, "cabinet handle"]], "selected": 10350}
+
+Arbitrary text query: PASS

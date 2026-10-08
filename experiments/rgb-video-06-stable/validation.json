@@ -1,0 +1,13 @@
+{
+  "state": "passed",
+  "selected": "mature",
+  "finite_parameters": true,
+  "cap": 500000,
+  "same_input": true,
+  "same_optimizer_steps": true,
+  "all_settle_views_balanced": true,
+  "batch_gradients_reset": true,
+  "no_growth_during_warmup_or_tail": true,
+  "child_maturity_gating": true,
+  "qualification": "Exploratory schedule correction; same input/steps/cap/seed, actual point counts and optimized pixels may differ"
+}

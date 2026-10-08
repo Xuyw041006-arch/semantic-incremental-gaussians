@@ -1,0 +1,41 @@
+{
+  "note": "Synthetic oracle input, fixed sample cap, single run per variant. CPU fusion only; not a quality or learned segmentation benchmark.",
+  "rows": [
+    {
+      "variant": "cap-8000",
+      "gaussians": 8000,
+      "capacity_mib": 0.61,
+      "update_p50_ms": 4.699,
+      "update_p95_ms": 15.377,
+      "peak_rss_mib": 65.34,
+      "rejected_observations": 113774
+    },
+    {
+      "variant": "cap-24000",
+      "gaussians": 20396,
+      "capacity_mib": 1.831,
+      "update_p50_ms": 8.779,
+      "update_p95_ms": 15.697,
+      "peak_rss_mib": 66.28,
+      "rejected_observations": 0
+    },
+    {
+      "variant": "cap-50000",
+      "gaussians": 20396,
+      "capacity_mib": 3.815,
+      "update_p50_ms": 8.814,
+      "update_p95_ms": 15.305,
+      "peak_rss_mib": 65.08,
+      "rejected_observations": 0
+    },
+    {
+      "variant": "no-freeze-24000",
+      "gaussians": 20396,
+      "capacity_mib": 1.831,
+      "update_p50_ms": 15.982,
+      "update_p95_ms": 17.508,
+      "peak_rss_mib": 66.11,
+      "rejected_observations": 0
+    }
+  ]
+}

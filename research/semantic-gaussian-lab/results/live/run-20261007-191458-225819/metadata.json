@@ -1,0 +1,166 @@
+{
+  "labels": [
+    {
+      "name": "unknown",
+      "zh": "未知",
+      "color": [
+        113,
+        123,
+        137
+      ],
+      "thing": false
+    },
+    {
+      "name": "wall",
+      "zh": "墙面",
+      "color": [
+        124,
+        146,
+        207
+      ],
+      "thing": false
+    },
+    {
+      "name": "floor",
+      "zh": "地板",
+      "color": [
+        200,
+        173,
+        127
+      ],
+      "thing": false
+    },
+    {
+      "name": "table",
+      "zh": "桌子",
+      "color": [
+        239,
+        169,
+        76
+      ],
+      "thing": true
+    },
+    {
+      "name": "chair",
+      "zh": "椅子",
+      "color": [
+        102,
+        195,
+        167
+      ],
+      "thing": true
+    },
+    {
+      "name": "sofa",
+      "zh": "沙发",
+      "color": [
+        181,
+        131,
+        207
+      ],
+      "thing": true
+    },
+    {
+      "name": "cabinet",
+      "zh": "柜子",
+      "color": [
+        221,
+        124,
+        131
+      ],
+      "thing": true
+    },
+    {
+      "name": "plant",
+      "zh": "绿植",
+      "color": [
+        137,
+        193,
+        87
+      ],
+      "thing": true
+    }
+  ],
+  "config": {
+    "max_gaussians": 24000,
+    "voxel_size": 0.065,
+    "stride": 3,
+    "max_samples": 4500,
+    "target_update_ms": 45,
+    "stable_hits": 5,
+    "prune_after": 35,
+    "dynamic_labels": [],
+    "freeze_stable": true,
+    "adaptive_budget": true
+  },
+  "backend": "cpu_isotropic_fusion",
+  "tracking": "provided_camera_poses",
+  "objects": [
+    {
+      "id": 1,
+      "label": 3,
+      "center": [
+        -0.01600000075995922,
+        0.7559999823570251,
+        0.19599999487400055
+      ],
+      "last_seen": 99,
+      "observations": 100
+    },
+    {
+      "id": 2,
+      "label": 4,
+      "center": [
+        -1.2289999723434448,
+        0.5669999718666077,
+        -0.0430000014603138
+      ],
+      "last_seen": 99,
+      "observations": 100
+    },
+    {
+      "id": 3,
+      "label": 4,
+      "center": [
+        1.343000054359436,
+        0.7490000128746033,
+        -0.050999999046325684
+      ],
+      "last_seen": 99,
+      "observations": 100
+    },
+    {
+      "id": 4,
+      "label": 5,
+      "center": [
+        -1.5019999742507935,
+        0.5889999866485596,
+        -2.2190001010894775
+      ],
+      "last_seen": 99,
+      "observations": 48
+    },
+    {
+      "id": 5,
+      "label": 6,
+      "center": [
+        2.049999952316284,
+        0.9810000061988831,
+        -2.38100004196167
+      ],
+      "last_seen": 99,
+      "observations": 40
+    },
+    {
+      "id": 6,
+      "label": 7,
+      "center": [
+        2.2960000038146973,
+        0.7480000257492065,
+        1.8040000200271606
+      ],
+      "last_seen": 76,
+      "observations": 29
+    }
+  ]
+}

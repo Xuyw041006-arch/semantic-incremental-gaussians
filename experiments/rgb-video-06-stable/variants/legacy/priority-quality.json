@@ -1,0 +1,72 @@
+{
+  "qualification": "Held-out predicted SAM/CLIP object masks, not human labels; evaluation never feeds training",
+  "frames": [
+    {
+      "index": 7,
+      "important_pixels": 93795,
+      "boundary_pixels": 17872,
+      "important_psnr": 16.463300973202326,
+      "boundary_psnr": 13.940998350523401,
+      "other_psnr": 15.965812043594624,
+      "overall_psnr": 16.11922037416691
+    },
+    {
+      "index": 15,
+      "important_pixels": 48910,
+      "boundary_pixels": 20036,
+      "important_psnr": 18.92437159769566,
+      "boundary_psnr": 16.381196877900987,
+      "other_psnr": 17.508422821992205,
+      "overall_psnr": 17.71531653451381
+    },
+    {
+      "index": 23,
+      "important_pixels": 94233,
+      "boundary_pixels": 24423,
+      "important_psnr": 21.871444149735378,
+      "boundary_psnr": 17.76553930576808,
+      "other_psnr": 18.560381291021248,
+      "overall_psnr": 19.379344335357477
+    },
+    {
+      "index": 31,
+      "important_pixels": 176158,
+      "boundary_pixels": 25095,
+      "important_psnr": 20.819377320462333,
+      "boundary_psnr": 16.6961588300364,
+      "other_psnr": 15.508105913833427,
+      "overall_psnr": 17.911230044297287
+    },
+    {
+      "index": 39,
+      "important_pixels": 102679,
+      "boundary_pixels": 32598,
+      "important_psnr": 19.87588138070754,
+      "boundary_psnr": 17.65627691635818,
+      "other_psnr": 19.668907087851398,
+      "overall_psnr": 19.740445081159507
+    },
+    {
+      "index": 47,
+      "important_pixels": 106763,
+      "boundary_pixels": 22228,
+      "important_psnr": 22.653717200068613,
+      "boundary_psnr": 17.898282350720734,
+      "other_psnr": 17.878383947797854,
+      "overall_psnr": 19.09000502775691
+    },
+    {
+      "index": 55,
+      "important_pixels": 83731,
+      "boundary_pixels": 23489,
+      "important_psnr": 29.415706244289495,
+      "boundary_psnr": 24.110013098100072,
+      "other_psnr": 27.94789744496263,
+      "overall_psnr": 28.31992379947467
+    }
+  ],
+  "important_psnr": 21.43197126659448,
+  "boundary_psnr": 17.778352247058262,
+  "other_psnr": 19.005415793007625,
+  "overall_psnr": 19.75364074238951
+}

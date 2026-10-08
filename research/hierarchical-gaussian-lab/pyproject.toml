@@ -1,0 +1,19 @@
+[build-system]
+requires=["setuptools>=68"]
+build-backend="setuptools.build_meta"
+
+[project]
+name="hierarchical-gaussian-lab"
+version="0.2.0"
+description="Budgeted incremental anisotropic Gaussian mapping and scale-conditioned semantic hierarchy"
+requires-python=">=3.10"
+dependencies=["numpy>=1.24,<3","Pillow>=10,<13"]
+
+[project.optional-dependencies]
+cuda=["torch>=2.5,<3","torchvision>=0.20,<1","gsplat==1.5.3","scipy>=1.11,<2","scikit-image>=0.24,<1","matplotlib>=3.8,<4","open_clip_torch>=2.26,<4","remotezip>=0.12,<1"]
+
+[tool.setuptools]
+packages=["hglab"]
+
+[tool.setuptools.package-data]
+hglab=["web/*.html","web/*.js","web/*.css"]

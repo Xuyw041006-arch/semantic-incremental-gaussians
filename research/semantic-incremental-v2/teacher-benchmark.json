@@ -1,0 +1,51 @@
+{
+  "device": "NVIDIA L4",
+  "model_load_seconds": 3.0748679810003523,
+  "frames": [
+    {
+      "dataset": "tum-desk",
+      "frame": 0,
+      "masks": 17,
+      "seconds": 2.3103848099999595,
+      "gpu_allocated_peak_mib": 2441.5751953125
+    },
+    {
+      "dataset": "tum-desk",
+      "frame": 7,
+      "masks": 24,
+      "seconds": 1.463607807999324,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "tum-desk",
+      "frame": 14,
+      "masks": 33,
+      "seconds": 1.595583995999732,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 1,
+      "masks": 28,
+      "seconds": 1.535011177999877,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 7,
+      "masks": 42,
+      "seconds": 1.6952173810004751,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 14,
+      "masks": 39,
+      "seconds": 1.7359807319999163,
+      "gpu_allocated_peak_mib": 2445.220703125
+    }
+  ],
+  "whole_gpu_sampled_peak_mib": 3492.0,
+  "whole_gpu_sampling_interval_seconds": 0.2,
+  "qualification": "Separate isolated SAM+CLIP benchmark after mapping; includes RGB load and crops; excludes pose estimation. First frame includes warm-up."
+}

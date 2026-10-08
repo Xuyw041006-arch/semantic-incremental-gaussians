@@ -1,0 +1,520 @@
+{
+  "passed": true,
+  "selection_only": true,
+  "seed": 7,
+  "rule": "Require positive mean PSNR and no more than .1dB scene PSNR decline; old-view PSNR improve; fine agreement decline no greater than .015. Confirm on seed17 and unseen sequence; report all outcomes.",
+  "results": [
+    {
+      "dataset": "tum-desk",
+      "baseline": {
+        "stage": 6,
+        "end": 119,
+        "steps": 600,
+        "gaussians": 299258,
+        "cap": 300000,
+        "train_seconds": 9.267483998999978,
+        "update_p50_ms": 11.610680999865508,
+        "update_p95_ms": 30.004291499858482,
+        "compute_p50_ms": 9.474489000240283,
+        "gpu_update_peak_mib": 323.875,
+        "cpu_rss_peak_mib": 1848.96484375,
+        "controller_seconds_cumulative": 17.112652642995727,
+        "optimized_pixels": 120606720,
+        "replay_pool": [
+          80,
+          67,
+          2,
+          4,
+          5,
+          6,
+          59,
+          8,
+          86,
+          79,
+          12,
+          13,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          90,
+          77,
+          24,
+          25,
+          26,
+          28,
+          92,
+          89,
+          31,
+          76,
+          78,
+          74,
+          36,
+          85,
+          38,
+          73,
+          41,
+          62,
+          58,
+          44,
+          46,
+          98,
+          48,
+          49,
+          50,
+          97,
+          53,
+          54,
+          55,
+          71
+        ],
+        "replay_probability": 0.3,
+        "teacher_max_frame": 115,
+        "psnr": 19.755810325726756,
+        "ssim": 0.6542969882488251,
+        "old_psnr": 19.387564617394716,
+        "object_sam_miou": 0.43037992678351317,
+        "fine_sam_miou": 0.3528917284049768,
+        "small_fine_sam_miou": 0.08657701790896359,
+        "fine_coverage": 0.8709649429184859,
+        "old_fine_sam_miou": 0.37548951556653504,
+        "gaussian_object_coverage": 0.3286996504688262,
+        "gaussian_fine_coverage": 0.23319343175453955,
+        "evaluation_gpu_peak_mib": 323.875
+      },
+      "candidate": {
+        "stage": 6,
+        "end": 119,
+        "steps": 600,
+        "gaussians": 298800,
+        "cap": 300000,
+        "train_seconds": 11.930653070000062,
+        "update_p50_ms": 14.687949000062872,
+        "update_p95_ms": 31.11199504983233,
+        "compute_p50_ms": 9.63774449974153,
+        "gpu_update_peak_mib": 330.59228515625,
+        "cpu_rss_peak_mib": 1906.3203125,
+        "controller_seconds_cumulative": 26.04336153698432,
+        "optimized_pixels": 120606720,
+        "replay_pool": [
+          0,
+          6,
+          13,
+          19,
+          26,
+          32,
+          40,
+          46,
+          53,
+          59,
+          66,
+          72,
+          79,
+          85,
+          92,
+          98,
+          64,
+          35,
+          89,
+          23,
+          70,
+          76,
+          82,
+          62,
+          16,
+          30,
+          38,
+          56,
+          11,
+          68,
+          2,
+          95,
+          43,
+          71,
+          88,
+          77,
+          61,
+          80,
+          4,
+          90,
+          78,
+          49,
+          14,
+          73,
+          34,
+          31,
+          24,
+          67
+        ],
+        "replay_probability": 0.55,
+        "teacher_max_frame": 115,
+        "psnr": 19.933642477646124,
+        "ssim": 0.6646989285945892,
+        "old_psnr": 19.65270628546992,
+        "object_sam_miou": 0.41957612495849966,
+        "fine_sam_miou": 0.3497725007205844,
+        "small_fine_sam_miou": 0.08841601968593694,
+        "fine_coverage": 0.8756825383988593,
+        "old_fine_sam_miou": 0.3997050019010873,
+        "gaussian_object_coverage": 0.35710508701472554,
+        "gaussian_fine_coverage": 0.26906626506024095,
+        "evaluation_gpu_peak_mib": 330.59228515625
+      },
+      "delta": {
+        "psnr": 0.1778321519193682,
+        "ssim": 0.010401940345764138,
+        "old_psnr": 0.26514166807520567,
+        "fine_sam_miou": -0.0031192276843923783,
+        "small_fine_sam_miou": 0.0018390017769733535,
+        "update_p95_ms": 1.1077035499738486
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "baseline": {
+        "stage": 6,
+        "end": 279,
+        "steps": 600,
+        "gaussians": 299532,
+        "cap": 300000,
+        "train_seconds": 12.257524239000304,
+        "update_p50_ms": 25.93247749996408,
+        "update_p95_ms": 28.706668649829226,
+        "compute_p50_ms": 9.097179500031416,
+        "gpu_update_peak_mib": 321.3720703125,
+        "cpu_rss_peak_mib": 1742.35546875,
+        "controller_seconds_cumulative": 37.44527264599628,
+        "optimized_pixels": 110600320,
+        "replay_pool": [
+          102,
+          166,
+          183,
+          91,
+          202,
+          159,
+          150,
+          9,
+          122,
+          199,
+          179,
+          193,
+          218,
+          60,
+          68,
+          62,
+          206,
+          20,
+          86,
+          194,
+          23,
+          76,
+          185,
+          114,
+          28,
+          87,
+          133,
+          142,
+          129,
+          79,
+          230,
+          36,
+          37,
+          38,
+          110,
+          41,
+          42,
+          188,
+          173,
+          45,
+          127,
+          165,
+          49,
+          186,
+          164,
+          158,
+          58,
+          55
+        ],
+        "replay_probability": 0.3,
+        "teacher_max_frame": 275,
+        "psnr": 24.517699650559017,
+        "ssim": 0.7894989660808018,
+        "old_psnr": 20.44389378834992,
+        "object_sam_miou": 0.2712080587122944,
+        "fine_sam_miou": 0.24775923414705914,
+        "small_fine_sam_miou": 0.11591954551740606,
+        "fine_coverage": 0.9764969995968426,
+        "old_fine_sam_miou": 0.21344527187235277,
+        "gaussian_object_coverage": 0.8422305463189241,
+        "gaussian_fine_coverage": 0.35383531642695937,
+        "evaluation_gpu_peak_mib": 321.3720703125
+      },
+      "candidate": {
+        "stage": 6,
+        "end": 279,
+        "steps": 600,
+        "gaussians": 299341,
+        "cap": 300000,
+        "train_seconds": 13.963101595999888,
+        "update_p50_ms": 26.8220300001758,
+        "update_p95_ms": 29.442042100163235,
+        "compute_p50_ms": 8.879940999804603,
+        "gpu_update_peak_mib": 319.72998046875,
+        "cpu_rss_peak_mib": 1783.75390625,
+        "controller_seconds_cumulative": 44.00181901999031,
+        "optimized_pixels": 110600320,
+        "replay_pool": [
+          1,
+          15,
+          31,
+          46,
+          62,
+          77,
+          93,
+          108,
+          124,
+          139,
+          155,
+          170,
+          186,
+          201,
+          217,
+          231,
+          105,
+          73,
+          206,
+          116,
+          178,
+          115,
+          55,
+          41,
+          50,
+          163,
+          191,
+          67,
+          145,
+          84,
+          182,
+          10,
+          35,
+          175,
+          111,
+          159,
+          28,
+          133,
+          149,
+          6,
+          197,
+          81,
+          25,
+          119,
+          66,
+          127,
+          212,
+          166
+        ],
+        "replay_probability": 0.55,
+        "teacher_max_frame": 275,
+        "psnr": 25.742143963477115,
+        "ssim": 0.8128166062491281,
+        "old_psnr": 24.24932240905444,
+        "object_sam_miou": 0.31336044449942463,
+        "fine_sam_miou": 0.24129226607245444,
+        "small_fine_sam_miou": 0.10785088111153816,
+        "fine_coverage": 0.9824639314190221,
+        "old_fine_sam_miou": 0.24276129829326049,
+        "gaussian_object_coverage": 0.8501307872960937,
+        "gaussian_fine_coverage": 0.3857774244089517,
+        "evaluation_gpu_peak_mib": 319.72998046875
+      },
+      "delta": {
+        "psnr": 1.2244443129180986,
+        "ssim": 0.02331764016832627,
+        "old_psnr": 3.805428620704518,
+        "fine_sam_miou": -0.006466968074604701,
+        "small_fine_sam_miou": -0.008068664405867898,
+        "update_p95_ms": 0.7353734503340092
+      }
+    }
+  ]
+}
+SCREEN_ACCEPTED_FROZEN_CANDIDATE
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "010", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299015, "cap": 300000, "train_seconds": 9.300225407000198, "update_p50_ms": 11.584570999957577, "update_p95_ms": 29.563662350028608, "compute_p50_ms": 9.262900499834359, "gpu_update_peak_mib": 323.25341796875, "cpu_rss_peak_mib": 1909.83984375, "controller_seconds_cumulative": 16.9922515950052, "optimized_pixels": 120606720, "replay_pool": [0, 1, 61, 4, 5, 67, 7, 8, 62, 82, 12, 94, 14, 16, 77, 18, 19, 73, 22, 83, 24, 97, 74, 28, 29, 30, 31, 95, 65, 35, 36, 37, 38, 40, 41, 42, 96, 44, 46, 47, 48, 49, 50, 52, 53, 64, 55, 56], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.830425353343866, "ssim": 0.6615781188011169, "old_psnr": 19.157128634021692, "object_sam_miou": 0.4092087608184107, "fine_sam_miou": 0.34157441765960633, "small_fine_sam_miou": 0.08211134672581086, "fine_coverage": 0.8685123139667896, "old_fine_sam_miou": 0.3810546193626198, "gaussian_object_coverage": 0.3504105145226828, "gaussian_fine_coverage": 0.26717054328378176, "evaluation_gpu_peak_mib": 323.25341796875}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "001", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 298946, "cap": 300000, "train_seconds": 11.72809062799979, "update_p50_ms": 14.078066000365652, "update_p95_ms": 30.010325899752388, "compute_p50_ms": 9.60926149991792, "gpu_update_peak_mib": 328.55419921875, "cpu_rss_peak_mib": 1853.18359375, "controller_seconds_cumulative": 23.4671802500211, "optimized_pixels": 120606720, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 19.981827654056058, "ssim": 0.6679898083209992, "old_psnr": 19.82462869965601, "object_sam_miou": 0.4206713862563677, "fine_sam_miou": 0.3376524748288598, "small_fine_sam_miou": 0.07787771630513377, "fine_coverage": 0.8606209902416364, "old_fine_sam_miou": 0.3665825455604943, "gaussian_object_coverage": 0.3251222628835977, "gaussian_fine_coverage": 0.2282285094966984, "evaluation_gpu_peak_mib": 328.55419921875}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "110", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 298948, "cap": 300000, "train_seconds": 9.4515613640001, "update_p50_ms": 11.752346500088606, "update_p95_ms": 30.231977299945356, "compute_p50_ms": 9.274730500010264, "gpu_update_peak_mib": 323.47607421875, "cpu_rss_peak_mib": 1908.62890625, "controller_seconds_cumulative": 18.115837441004714, "optimized_pixels": 120606720, "replay_pool": [0, 1, 2, 4, 97, 59, 7, 71, 89, 11, 79, 13, 14, 16, 17, 92, 19, 67, 22, 66, 24, 98, 26, 28, 29, 74, 58, 70, 34, 35, 83, 37, 38, 40, 41, 42, 43, 68, 46, 73, 96, 88, 50, 91, 77, 54, 78, 56], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.817690559734356, "ssim": 0.6595255464315415, "old_psnr": 19.08506130851097, "object_sam_miou": 0.4231708646832633, "fine_sam_miou": 0.34128944866759664, "small_fine_sam_miou": 0.08410176949183198, "fine_coverage": 0.8628741619450232, "old_fine_sam_miou": 0.3430954475865006, "gaussian_object_coverage": 0.3559582268488165, "gaussian_fine_coverage": 0.2642867655913403, "evaluation_gpu_peak_mib": 323.47607421875}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "100", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299335, "cap": 300000, "train_seconds": 9.20911183599992, "update_p50_ms": 11.833255000055942, "update_p95_ms": 30.80045744986819, "compute_p50_ms": 9.313246000147046, "gpu_update_peak_mib": 320.5986328125, "cpu_rss_peak_mib": 1857.15234375, "controller_seconds_cumulative": 17.948370419008825, "optimized_pixels": 120606720, "replay_pool": [0, 1, 2, 79, 5, 58, 70, 8, 88, 11, 72, 13, 14, 16, 17, 18, 94, 20, 22, 23, 71, 25, 26, 89, 29, 30, 31, 32, 34, 85, 66, 37, 97, 40, 64, 83, 60, 44, 46, 47, 92, 74, 73, 62, 82, 54, 65, 76], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.742240538617843, "ssim": 0.6574738591909408, "old_psnr": 19.346963686452767, "object_sam_miou": 0.4141501373332973, "fine_sam_miou": 0.35452521252459673, "small_fine_sam_miou": 0.0878564481714779, "fine_coverage": 0.8736566765987427, "old_fine_sam_miou": 0.40513396009160846, "gaussian_object_coverage": 0.3286451634456378, "gaussian_fine_coverage": 0.23065461773598142, "evaluation_gpu_peak_mib": 320.5986328125}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "101", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299097, "cap": 300000, "train_seconds": 11.914706551000108, "update_p50_ms": 14.868067999941559, "update_p95_ms": 30.966814149837774, "compute_p50_ms": 9.649197999806347, "gpu_update_peak_mib": 334.943359375, "cpu_rss_peak_mib": 1853.72265625, "controller_seconds_cumulative": 25.075899529998424, "optimized_pixels": 120606720, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 20.037577547530695, "ssim": 0.6661109387874603, "old_psnr": 19.92037652763022, "object_sam_miou": 0.4157945844043753, "fine_sam_miou": 0.3543948786599274, "small_fine_sam_miou": 0.08351807457321465, "fine_coverage": 0.8668074187180638, "old_fine_sam_miou": 0.38524401513450707, "gaussian_object_coverage": 0.32770973964967887, "gaussian_fine_coverage": 0.227531536591808, "evaluation_gpu_peak_mib": 334.943359375}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "011", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 298893, "cap": 300000, "train_seconds": 11.680962804000046, "update_p50_ms": 13.982873500026471, "update_p95_ms": 30.065080800181924, "compute_p50_ms": 9.663131500246891, "gpu_update_peak_mib": 330.5302734375, "cpu_rss_peak_mib": 1908.41015625, "controller_seconds_cumulative": 23.969293025006664, "optimized_pixels": 120606720, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 19.961712695884017, "ssim": 0.6630520910024643, "old_psnr": 20.12411479146582, "object_sam_miou": 0.422488800588465, "fine_sam_miou": 0.34064786605160624, "small_fine_sam_miou": 0.08164607957686922, "fine_coverage": 0.8678463276552392, "old_fine_sam_miou": 0.34957527962102625, "gaussian_object_coverage": 0.3510487030475789, "gaussian_fine_coverage": 0.26591790373143565, "evaluation_gpu_peak_mib": 330.5302734375}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "111", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 298800, "cap": 300000, "train_seconds": 11.930653070000062, "update_p50_ms": 14.687949000062872, "update_p95_ms": 31.11199504983233, "compute_p50_ms": 9.63774449974153, "gpu_update_peak_mib": 330.59228515625, "cpu_rss_peak_mib": 1906.3203125, "controller_seconds_cumulative": 26.04336153698432, "optimized_pixels": 120606720, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 19.933642477646124, "ssim": 0.6646989285945892, "old_psnr": 19.65270628546992, "object_sam_miou": 0.41957612495849966, "fine_sam_miou": 0.3497725007205844, "small_fine_sam_miou": 0.08841601968593694, "fine_coverage": 0.8756825383988593, "old_fine_sam_miou": 0.3997050019010873, "gaussian_object_coverage": 0.35710508701472554, "gaussian_fine_coverage": 0.26906626506024095, "evaluation_gpu_peak_mib": 330.59228515625}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 7, "factors": "000", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299258, "cap": 300000, "train_seconds": 9.267483998999978, "update_p50_ms": 11.610680999865508, "update_p95_ms": 30.004291499858482, "compute_p50_ms": 9.474489000240283, "gpu_update_peak_mib": 323.875, "cpu_rss_peak_mib": 1848.96484375, "controller_seconds_cumulative": 17.112652642995727, "optimized_pixels": 120606720, "replay_pool": [80, 67, 2, 4, 5, 6, 59, 8, 86, 79, 12, 13, 14, 16, 17, 18, 19, 20, 90, 77, 24, 25, 26, 28, 92, 89, 31, 76, 78, 74, 36, 85, 38, 73, 41, 62, 58, 44, 46, 98, 48, 49, 50, 97, 53, 54, 55, 71], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.755810325726756, "ssim": 0.6542969882488251, "old_psnr": 19.387564617394716, "object_sam_miou": 0.43037992678351317, "fine_sam_miou": 0.3528917284049768, "small_fine_sam_miou": 0.08657701790896359, "fine_coverage": 0.8709649429184859, "old_fine_sam_miou": 0.37548951556653504, "gaussian_object_coverage": 0.3286996504688262, "gaussian_fine_coverage": 0.23319343175453955, "evaluation_gpu_peak_mib": 323.875}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "101", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299520, "cap": 300000, "train_seconds": 14.160441253000045, "update_p50_ms": 27.075131499941563, "update_p95_ms": 29.685306100122943, "compute_p50_ms": 9.05090899982497, "gpu_update_peak_mib": 321.8388671875, "cpu_rss_peak_mib": 1744.2890625, "controller_seconds_cumulative": 43.90340442799379, "optimized_pixels": 110600320, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.711884352208646, "ssim": 0.816080663885389, "old_psnr": 24.261487111633084, "object_sam_miou": 0.2890364671111525, "fine_sam_miou": 0.2393254111553067, "small_fine_sam_miou": 0.08842719875534, "fine_coverage": 0.9652476021752255, "old_fine_sam_miou": 0.2519761333479651, "gaussian_object_coverage": 0.8226328792735043, "gaussian_fine_coverage": 0.34393028846153845, "evaluation_gpu_peak_mib": 321.8388671875}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "010", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299455, "cap": 300000, "train_seconds": 12.051745613999628, "update_p50_ms": 25.6475109999883, "update_p95_ms": 28.697650500180316, "compute_p50_ms": 8.885580499963908, "gpu_update_peak_mib": 320.16162109375, "cpu_rss_peak_mib": 1778.90234375, "controller_seconds_cumulative": 37.13346938599989, "optimized_pixels": 110600320, "replay_pool": [106, 2, 75, 4, 165, 182, 103, 63, 194, 91, 230, 102, 209, 15, 17, 167, 19, 154, 65, 22, 23, 220, 73, 186, 227, 197, 219, 57, 129, 231, 35, 36, 37, 218, 125, 205, 60, 62, 108, 118, 46, 115, 95, 178, 187, 52, 210, 141], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 25.153083047759594, "ssim": 0.802181533404759, "old_psnr": 22.689650593337007, "object_sam_miou": 0.2950991271479289, "fine_sam_miou": 0.21221155748328238, "small_fine_sam_miou": 0.07266848296607417, "fine_coverage": 0.9852093552844113, "old_fine_sam_miou": 0.20240281505053417, "gaussian_object_coverage": 0.8608171511579369, "gaussian_fine_coverage": 0.3910604264413685, "evaluation_gpu_peak_mib": 320.16162109375}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "001", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299519, "cap": 300000, "train_seconds": 13.403497540999979, "update_p50_ms": 26.12031050011865, "update_p95_ms": 28.60033125002701, "compute_p50_ms": 9.05647400009002, "gpu_update_peak_mib": 321.17822265625, "cpu_rss_peak_mib": 1734.13671875, "controller_seconds_cumulative": 41.68208678799283, "optimized_pixels": 110600320, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.861015518412675, "ssim": 0.8168891191482544, "old_psnr": 24.504970451241647, "object_sam_miou": 0.3052672407529204, "fine_sam_miou": 0.24094641905448902, "small_fine_sam_miou": 0.07572850253274419, "fine_coverage": 0.985492295127577, "old_fine_sam_miou": 0.2761176436656373, "gaussian_object_coverage": 0.8194104547624692, "gaussian_fine_coverage": 0.3459146164350175, "evaluation_gpu_peak_mib": 321.17822265625}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "100", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299527, "cap": 300000, "train_seconds": 13.075016422000317, "update_p50_ms": 27.26325799994811, "update_p95_ms": 30.034853150141316, "compute_p50_ms": 9.133185000109734, "gpu_update_peak_mib": 322.11376953125, "cpu_rss_peak_mib": 1737.44921875, "controller_seconds_cumulative": 39.8827089209999, "optimized_pixels": 110600320, "replay_pool": [197, 2, 3, 138, 187, 6, 7, 151, 10, 62, 12, 177, 84, 15, 229, 225, 92, 101, 21, 220, 23, 161, 26, 118, 157, 29, 130, 78, 150, 85, 82, 135, 37, 38, 117, 210, 211, 169, 91, 193, 87, 57, 109, 70, 182, 215, 53, 54], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 25.142150648902625, "ssim": 0.8017516885484968, "old_psnr": 23.16354940908821, "object_sam_miou": 0.2748773023596304, "fine_sam_miou": 0.24755790769662542, "small_fine_sam_miou": 0.08105573315154638, "fine_coverage": 0.9817640885051842, "old_fine_sam_miou": 0.21777623086998765, "gaussian_object_coverage": 0.8265632146684606, "gaussian_fine_coverage": 0.35046256264042974, "evaluation_gpu_peak_mib": 322.11376953125}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "111", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299341, "cap": 300000, "train_seconds": 13.963101595999888, "update_p50_ms": 26.8220300001758, "update_p95_ms": 29.442042100163235, "compute_p50_ms": 8.879940999804603, "gpu_update_peak_mib": 319.72998046875, "cpu_rss_peak_mib": 1783.75390625, "controller_seconds_cumulative": 44.00181901999031, "optimized_pixels": 110600320, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.742143963477115, "ssim": 0.8128166062491281, "old_psnr": 24.24932240905444, "object_sam_miou": 0.31336044449942463, "fine_sam_miou": 0.24129226607245444, "small_fine_sam_miou": 0.10785088111153816, "fine_coverage": 0.9824639314190221, "old_fine_sam_miou": 0.24276129829326049, "gaussian_object_coverage": 0.8501307872960937, "gaussian_fine_coverage": 0.3857774244089517, "evaluation_gpu_peak_mib": 319.72998046875}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "000", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299532, "cap": 300000, "train_seconds": 12.257524239000304, "update_p50_ms": 25.93247749996408, "update_p95_ms": 28.706668649829226, "compute_p50_ms": 9.097179500031416, "gpu_update_peak_mib": 321.3720703125, "cpu_rss_peak_mib": 1742.35546875, "controller_seconds_cumulative": 37.44527264599628, "optimized_pixels": 110600320, "replay_pool": [102, 166, 183, 91, 202, 159, 150, 9, 122, 199, 179, 193, 218, 60, 68, 62, 206, 20, 86, 194, 23, 76, 185, 114, 28, 87, 133, 142, 129, 79, 230, 36, 37, 38, 110, 41, 42, 188, 173, 45, 127, 165, 49, 186, 164, 158, 58, 55], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 24.517699650559017, "ssim": 0.7894989660808018, "old_psnr": 20.44389378834992, "object_sam_miou": 0.2712080587122944, "fine_sam_miou": 0.24775923414705914, "small_fine_sam_miou": 0.11591954551740606, "fine_coverage": 0.9764969995968426, "old_fine_sam_miou": 0.21344527187235277, "gaussian_object_coverage": 0.8422305463189241, "gaussian_fine_coverage": 0.35383531642695937, "evaluation_gpu_peak_mib": 321.3720703125}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "110", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299372, "cap": 300000, "train_seconds": 13.357373608000671, "update_p50_ms": 27.46744149976621, "update_p95_ms": 30.08124734994908, "compute_p50_ms": 9.083555999950477, "gpu_update_peak_mib": 317.68603515625, "cpu_rss_peak_mib": 1783.44921875, "controller_seconds_cumulative": 40.28899041200475, "optimized_pixels": 110600320, "replay_pool": [135, 2, 187, 4, 163, 6, 7, 106, 10, 204, 12, 13, 189, 15, 161, 179, 149, 20, 130, 141, 109, 154, 26, 188, 28, 82, 166, 31, 170, 66, 193, 114, 205, 150, 62, 211, 212, 229, 165, 159, 46, 47, 55, 228, 73, 52, 123, 54], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 24.9378596721094, "ssim": 0.7925076740128654, "old_psnr": 22.37638297130547, "object_sam_miou": 0.29796243700501623, "fine_sam_miou": 0.20809711715676824, "small_fine_sam_miou": 0.08029634748539581, "fine_coverage": 0.9597749766286547, "old_fine_sam_miou": 0.23781073041639186, "gaussian_object_coverage": 0.8565463704020416, "gaussian_fine_coverage": 0.3893249869727296, "evaluation_gpu_peak_mib": 317.68603515625}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 7, "factors": "011", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299337, "cap": 300000, "train_seconds": 13.668718650999836, "update_p50_ms": 26.24273750006978, "update_p95_ms": 28.87536870034637, "compute_p50_ms": 9.159460500086425, "gpu_update_peak_mib": 320.0634765625, "cpu_rss_peak_mib": 1783.4375, "controller_seconds_cumulative": 42.57365764302449, "optimized_pixels": 110600320, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.738262183831697, "ssim": 0.8135564889226641, "old_psnr": 24.459845816311756, "object_sam_miou": 0.29938381054425933, "fine_sam_miou": 0.21249707661150588, "small_fine_sam_miou": 0.0702174999774796, "fine_coverage": 0.974951761788513, "old_fine_sam_miou": 0.22223427623771466, "gaussian_object_coverage": 0.8518392313679899, "gaussian_fine_coverage": 0.3848772453789542, "evaluation_gpu_peak_mib": 320.0634765625}}
+PHASE_COMPLETE factorial
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "010", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299037, "cap": 300000, "train_seconds": 9.009706691000247, "update_p50_ms": 11.426582499552751, "update_p95_ms": 29.131911250215122, "compute_p50_ms": 9.165652499632415, "gpu_update_peak_mib": 336.65966796875, "cpu_rss_peak_mib": 1909.68359375, "controller_seconds_cumulative": 17.176687232019503, "optimized_pixels": 117682176, "replay_pool": [0, 1, 2, 4, 61, 68, 7, 8, 10, 76, 12, 13, 14, 16, 74, 18, 19, 79, 22, 23, 24, 80, 77, 70, 67, 30, 85, 32, 34, 35, 72, 62, 38, 96, 92, 42, 43, 78, 46, 47, 48, 58, 86, 52, 53, 89, 55, 56], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.501042414847568, "ssim": 0.652231402695179, "old_psnr": 19.3124874364624, "object_sam_miou": 0.40582448206318095, "fine_sam_miou": 0.3530208831452454, "small_fine_sam_miou": 0.08845399509226866, "fine_coverage": 0.8658301980847872, "old_fine_sam_miou": 0.36878808954643943, "gaussian_object_coverage": 0.3549059146527018, "gaussian_fine_coverage": 0.2663282470062233, "evaluation_gpu_peak_mib": 336.65966796875}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "001", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299005, "cap": 300000, "train_seconds": 11.850626303999888, "update_p50_ms": 14.708990499457286, "update_p95_ms": 30.170217049953862, "compute_p50_ms": 9.599556000466691, "gpu_update_peak_mib": 328.87109375, "cpu_rss_peak_mib": 1863.1171875, "controller_seconds_cumulative": 24.08697250097339, "optimized_pixels": 117682176, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 19.940322580465853, "ssim": 0.667564469575882, "old_psnr": 19.706966794954273, "object_sam_miou": 0.40497422975394626, "fine_sam_miou": 0.34884894045342146, "small_fine_sam_miou": 0.08715227689545599, "fine_coverage": 0.8661508306876173, "old_fine_sam_miou": 0.3664668763945582, "gaussian_object_coverage": 0.32709152020869214, "gaussian_fine_coverage": 0.23237738499356198, "evaluation_gpu_peak_mib": 328.87109375}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "110", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299064, "cap": 300000, "train_seconds": 9.155179583000063, "update_p50_ms": 11.61374249977598, "update_p95_ms": 30.11715009993167, "compute_p50_ms": 9.177154000099108, "gpu_update_peak_mib": 321.29541015625, "cpu_rss_peak_mib": 1897.953125, "controller_seconds_cumulative": 18.123939202971997, "optimized_pixels": 117682176, "replay_pool": [0, 1, 2, 4, 60, 97, 7, 8, 10, 95, 12, 64, 86, 16, 17, 18, 19, 67, 84, 89, 24, 25, 91, 65, 29, 30, 31, 32, 58, 72, 36, 37, 38, 40, 41, 59, 43, 77, 46, 47, 61, 49, 50, 52, 78, 54, 92, 68], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.65406876683208, "ssim": 0.6521427303552627, "old_psnr": 19.0455852198501, "object_sam_miou": 0.4040186493621963, "fine_sam_miou": 0.3506107513837336, "small_fine_sam_miou": 0.0871827925266687, "fine_coverage": 0.8610539598274688, "old_fine_sam_miou": 0.369430755029718, "gaussian_object_coverage": 0.363601102105235, "gaussian_fine_coverage": 0.2694105609501645, "evaluation_gpu_peak_mib": 321.29541015625}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "100", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299075, "cap": 300000, "train_seconds": 9.285208760999922, "update_p50_ms": 11.808188000486552, "update_p95_ms": 30.68854119997013, "compute_p50_ms": 9.355147999940527, "gpu_update_peak_mib": 334.46533203125, "cpu_rss_peak_mib": 1868.421875, "controller_seconds_cumulative": 17.86154820396405, "optimized_pixels": 117682176, "replay_pool": [0, 90, 88, 71, 78, 84, 61, 8, 64, 11, 12, 13, 14, 16, 17, 72, 65, 20, 22, 23, 67, 25, 26, 28, 29, 30, 83, 32, 34, 35, 36, 37, 58, 97, 41, 42, 92, 79, 62, 80, 48, 77, 66, 73, 53, 54, 74, 60], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.367959252950044, "ssim": 0.646137934923172, "old_psnr": 18.71139940164275, "object_sam_miou": 0.41633701014340196, "fine_sam_miou": 0.3468909573287543, "small_fine_sam_miou": 0.09616685745031435, "fine_coverage": 0.8628616078572434, "old_fine_sam_miou": 0.353822078866302, "gaussian_object_coverage": 0.32830560896096295, "gaussian_fine_coverage": 0.2310022569589568, "evaluation_gpu_peak_mib": 334.46533203125}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "101", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 298912, "cap": 300000, "train_seconds": 12.16689912900074, "update_p50_ms": 15.390165000098932, "update_p95_ms": 30.79734480006664, "compute_p50_ms": 9.407869500137167, "gpu_update_peak_mib": 329.607421875, "cpu_rss_peak_mib": 1854.15234375, "controller_seconds_cumulative": 25.4417778949919, "optimized_pixels": 117682176, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 19.940525782104302, "ssim": 0.6645216286182404, "old_psnr": 19.474374152453656, "object_sam_miou": 0.40833104364506306, "fine_sam_miou": 0.35784012850397995, "small_fine_sam_miou": 0.11705524769105015, "fine_coverage": 0.8669986489224296, "old_fine_sam_miou": 0.41020754082310873, "gaussian_object_coverage": 0.3258852103629162, "gaussian_fine_coverage": 0.22830799700246227, "evaluation_gpu_peak_mib": 329.607421875}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "011", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 298723, "cap": 300000, "train_seconds": 11.505675157000042, "update_p50_ms": 13.95209399970554, "update_p95_ms": 30.034412499480823, "compute_p50_ms": 9.434809999675053, "gpu_update_peak_mib": 315.42919921875, "cpu_rss_peak_mib": 1903.93359375, "controller_seconds_cumulative": 24.117437687045822, "optimized_pixels": 117682176, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 19.81526448561425, "ssim": 0.6633135855197907, "old_psnr": 19.47627063533415, "object_sam_miou": 0.42282670114004217, "fine_sam_miou": 0.35126408593811764, "small_fine_sam_miou": 0.0948356838710165, "fine_coverage": 0.8630700994739381, "old_fine_sam_miou": 0.36143323408497025, "gaussian_object_coverage": 0.35428808628729624, "gaussian_fine_coverage": 0.2659621120569893, "evaluation_gpu_peak_mib": 315.42919921875}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "111", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 298902, "cap": 300000, "train_seconds": 11.726435506000598, "update_p50_ms": 14.493468499949813, "update_p95_ms": 30.85902760008139, "compute_p50_ms": 9.500696000031894, "gpu_update_peak_mib": 322.13330078125, "cpu_rss_peak_mib": 1908.00390625, "controller_seconds_cumulative": 25.303259569996953, "optimized_pixels": 117682176, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 64, 35, 89, 23, 70, 76, 82, 62, 16, 30, 38, 56, 11, 68, 2, 95, 43, 71, 88, 77, 61, 80, 4, 90, 78, 49, 14, 73, 34, 31, 24, 67], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 19.885837010246224, "ssim": 0.6634418040513992, "old_psnr": 19.82825888723229, "object_sam_miou": 0.42378941271934917, "fine_sam_miou": 0.3523541730464571, "small_fine_sam_miou": 0.0854221169918324, "fine_coverage": 0.8616982813772728, "old_fine_sam_miou": 0.3623797221233842, "gaussian_object_coverage": 0.35893704291038536, "gaussian_fine_coverage": 0.26737860569685046, "evaluation_gpu_peak_mib": 322.13330078125}}
+ITERATION_COMPLETE {"dataset": "tum-desk", "data": "/content/semantic-incremental/data/tum640/manifest.json", "seed": 17, "factors": "000", "metrics": {"stage": 6, "end": 119, "steps": 600, "gaussians": 299131, "cap": 300000, "train_seconds": 8.793450195000332, "update_p50_ms": 11.200885500329605, "update_p95_ms": 29.12969944977703, "compute_p50_ms": 9.241005499916355, "gpu_update_peak_mib": 326.42578125, "cpu_rss_peak_mib": 1869.21875, "controller_seconds_cumulative": 16.974574819996633, "optimized_pixels": 117682176, "replay_pool": [0, 98, 2, 4, 5, 6, 89, 91, 58, 92, 12, 13, 14, 88, 97, 18, 19, 20, 22, 23, 67, 76, 83, 74, 29, 84, 31, 32, 70, 78, 36, 37, 66, 40, 41, 42, 43, 44, 96, 47, 48, 65, 50, 60, 95, 54, 80, 56], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 19.63478003525389, "ssim": 0.6500186651945115, "old_psnr": 18.916232308046357, "object_sam_miou": 0.4226205952851793, "fine_sam_miou": 0.3353921321875188, "small_fine_sam_miou": 0.08515308576788258, "fine_coverage": 0.8582172891042111, "old_fine_sam_miou": 0.3261178414874007, "gaussian_object_coverage": 0.3257937157967579, "gaussian_fine_coverage": 0.23618414674507154, "evaluation_gpu_peak_mib": 326.42578125}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "101", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299580, "cap": 300000, "train_seconds": 14.078732131999459, "update_p50_ms": 27.002088500012178, "update_p95_ms": 29.6005318502921, "compute_p50_ms": 8.869971499734675, "gpu_update_peak_mib": 322.83984375, "cpu_rss_peak_mib": 1749.80859375, "controller_seconds_cumulative": 44.769401088006816, "optimized_pixels": 108150656, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.78036988679871, "ssim": 0.8154207859720503, "old_psnr": 24.409702243763068, "object_sam_miou": 0.30752563519918036, "fine_sam_miou": 0.21631821528316397, "small_fine_sam_miou": 0.07900785751429992, "fine_coverage": 0.9613893542251354, "old_fine_sam_miou": 0.20961525353323496, "gaussian_object_coverage": 0.808825689298351, "gaussian_fine_coverage": 0.34123105681287136, "evaluation_gpu_peak_mib": 322.83984375}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "010", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299409, "cap": 300000, "train_seconds": 12.37926496900036, "update_p50_ms": 26.203384500149696, "update_p95_ms": 29.00452005033003, "compute_p50_ms": 8.951724999860744, "gpu_update_peak_mib": 320.603515625, "cpu_rss_peak_mib": 1773.484375, "controller_seconds_cumulative": 37.91013079201548, "optimized_pixels": 108150656, "replay_pool": [70, 141, 100, 171, 5, 157, 7, 58, 172, 146, 93, 13, 164, 15, 119, 180, 227, 169, 178, 22, 106, 131, 194, 27, 28, 221, 66, 209, 206, 201, 98, 36, 210, 203, 125, 41, 159, 133, 110, 134, 175, 89, 225, 50, 84, 57, 143, 123], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 24.778284165188577, "ssim": 0.7903790967805046, "old_psnr": 21.70356968745835, "object_sam_miou": 0.27744893292266865, "fine_sam_miou": 0.2131298912068742, "small_fine_sam_miou": 0.0768422183505436, "fine_coverage": 0.9748271735955786, "old_fine_sam_miou": 0.19307068567765726, "gaussian_object_coverage": 0.8587016422352034, "gaussian_fine_coverage": 0.39749306133082174, "evaluation_gpu_peak_mib": 320.603515625}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "001", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299468, "cap": 300000, "train_seconds": 13.649788228000034, "update_p50_ms": 26.593992500238528, "update_p95_ms": 29.02105280008982, "compute_p50_ms": 9.133016499617952, "gpu_update_peak_mib": 322.87255859375, "cpu_rss_peak_mib": 1737.2578125, "controller_seconds_cumulative": 42.38402382602908, "optimized_pixels": 108150656, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.597233374089964, "ssim": 0.8136196085384914, "old_psnr": 24.418106765869354, "object_sam_miou": 0.295762137486477, "fine_sam_miou": 0.21645634592182073, "small_fine_sam_miou": 0.0715325006670406, "fine_coverage": 0.9610716675709435, "old_fine_sam_miou": 0.24999141666888436, "gaussian_object_coverage": 0.815472771715175, "gaussian_fine_coverage": 0.3457364392856666, "evaluation_gpu_peak_mib": 322.87255859375}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "100", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299530, "cap": 300000, "train_seconds": 12.484687476000545, "update_p50_ms": 26.566281499981415, "update_p95_ms": 29.832409900336643, "compute_p50_ms": 8.906673999717896, "gpu_update_peak_mib": 324.29150390625, "cpu_rss_peak_mib": 1743.0, "controller_seconds_cumulative": 39.32934968601967, "optimized_pixels": 108150656, "replay_pool": [123, 94, 221, 110, 154, 220, 90, 161, 10, 11, 150, 131, 114, 218, 17, 89, 153, 143, 60, 85, 180, 111, 149, 151, 225, 29, 167, 31, 117, 87, 74, 199, 37, 38, 121, 61, 73, 142, 231, 99, 222, 223, 105, 130, 115, 170, 53, 54], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 25.156482171538297, "ssim": 0.8002931867327009, "old_psnr": 22.779808069179833, "object_sam_miou": 0.29770793558986425, "fine_sam_miou": 0.2296424080114667, "small_fine_sam_miou": 0.07480268418004471, "fine_coverage": 0.9691532094557758, "old_fine_sam_miou": 0.18844855054010487, "gaussian_object_coverage": 0.8279504557139519, "gaussian_fine_coverage": 0.35989383367275396, "evaluation_gpu_peak_mib": 324.29150390625}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "111", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299313, "cap": 300000, "train_seconds": 13.735883656000624, "update_p50_ms": 26.82384500030821, "update_p95_ms": 29.528802800223275, "compute_p50_ms": 8.782395999787695, "gpu_update_peak_mib": 322.9111328125, "cpu_rss_peak_mib": 1781.5, "controller_seconds_cumulative": 42.850763708997874, "optimized_pixels": 108150656, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.532729554075328, "ssim": 0.8105062127113343, "old_psnr": 23.931109835687057, "object_sam_miou": 0.2943068691533736, "fine_sam_miou": 0.21977069376060643, "small_fine_sam_miou": 0.08885572888829289, "fine_coverage": 0.9761780871497424, "old_fine_sam_miou": 0.24174536457465354, "gaussian_object_coverage": 0.8398031492116947, "gaussian_fine_coverage": 0.3879517428244012, "evaluation_gpu_peak_mib": 322.9111328125}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "000", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299496, "cap": 300000, "train_seconds": 12.297234018000381, "update_p50_ms": 25.83054750039082, "update_p95_ms": 28.892572599897903, "compute_p50_ms": 9.042643000157113, "gpu_update_peak_mib": 324.26318359375, "cpu_rss_peak_mib": 1741.44140625, "controller_seconds_cumulative": 37.42904682799872, "optimized_pixels": 108150656, "replay_pool": [225, 2, 118, 231, 70, 167, 190, 81, 122, 11, 207, 13, 212, 105, 17, 90, 156, 187, 145, 162, 129, 86, 127, 180, 28, 141, 215, 31, 97, 221, 196, 108, 157, 68, 138, 79, 42, 43, 92, 202, 228, 57, 76, 194, 51, 181, 178, 147], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 24.972228049510925, "ssim": 0.7980815427643912, "old_psnr": 22.55310501182488, "object_sam_miou": 0.3000666178662436, "fine_sam_miou": 0.202458760273555, "small_fine_sam_miou": 0.06144893991241906, "fine_coverage": 0.9733247740647472, "old_fine_sam_miou": 0.22052332632113156, "gaussian_object_coverage": 0.8322581937655261, "gaussian_fine_coverage": 0.35768758180409754, "evaluation_gpu_peak_mib": 324.26318359375}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "110", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299363, "cap": 300000, "train_seconds": 12.489787020000222, "update_p50_ms": 26.509978500143916, "update_p95_ms": 29.412074900074003, "compute_p50_ms": 8.817433499643812, "gpu_update_peak_mib": 324.51513671875, "cpu_rss_peak_mib": 1782.6875, "controller_seconds_cumulative": 39.74895975401523, "optimized_pixels": 108150656, "replay_pool": [57, 2, 132, 4, 86, 162, 114, 95, 165, 11, 167, 156, 14, 135, 65, 81, 205, 62, 109, 173, 92, 25, 188, 195, 79, 214, 123, 78, 68, 34, 170, 229, 37, 119, 209, 218, 85, 177, 223, 94, 46, 198, 146, 50, 113, 52, 53, 58], "replay_probability": 0.3, "teacher_max_frame": 275, "psnr": 25.074502485905438, "ssim": 0.7984028220176697, "old_psnr": 22.376032671380443, "object_sam_miou": 0.2999073987446911, "fine_sam_miou": 0.22938138717716308, "small_fine_sam_miou": 0.09603467854271497, "fine_coverage": 0.96468276029418, "old_fine_sam_miou": 0.24248142073993662, "gaussian_object_coverage": 0.8551691424791975, "gaussian_fine_coverage": 0.3934387349138003, "evaluation_gpu_peak_mib": 324.51513671875}}
+ITERATION_COMPLETE {"dataset": "kitchen", "data": "/content/mip360/kitchen", "seed": 17, "factors": "011", "metrics": {"stage": 6, "end": 279, "steps": 600, "gaussians": 299395, "cap": 300000, "train_seconds": 13.474205425000036, "update_p50_ms": 25.887472000249545, "update_p95_ms": 28.483436300439276, "compute_p50_ms": 8.90196599993942, "gpu_update_peak_mib": 321.14599609375, "cpu_rss_peak_mib": 1786.65625, "controller_seconds_cumulative": 42.2169009040108, "optimized_pixels": 108150656, "replay_pool": [1, 15, 31, 46, 62, 77, 93, 108, 124, 139, 155, 170, 186, 201, 217, 231, 105, 73, 206, 116, 178, 115, 55, 41, 50, 163, 191, 67, 145, 84, 182, 10, 35, 175, 111, 159, 28, 133, 149, 6, 197, 81, 25, 119, 66, 127, 212, 166], "replay_probability": 0.55, "teacher_max_frame": 275, "psnr": 25.560653825759996, "ssim": 0.8134850706372942, "old_psnr": 24.252664214971457, "object_sam_miou": 0.3130528950276305, "fine_sam_miou": 0.22031066115900025, "small_fine_sam_miou": 0.07584320796210388, "fine_coverage": 0.9815172162343347, "old_fine_sam_miou": 0.21227349642056914, "gaussian_object_coverage": 0.8527563920573156, "gaussian_fine_coverage": 0.38928505820070475, "evaluation_gpu_peak_mib": 321.14599609375}}
+PHASE_COMPLETE confirmation
+CONFIRMATION {"passed": true, "seeds": [7, 17], "results": [{"dataset": "tum-desk", "delta": {"psnr": 0.21444456345585117, "old_psnr": 0.5885841236305698, "fine_sam_miou": 0.006921406587272971}, "paired": [{"psnr": 0.1778321519193682, "old_psnr": 0.26514166807520567, "fine_sam_miou": -0.0031192276843923783}, {"psnr": 0.25105697499233415, "old_psnr": 0.9120265791859339, "fine_sam_miou": 0.01696204085893832}]}, {"dataset": "kitchen", "delta": {"psnr": 0.8924729087412508, "old_psnr": 2.5917167222833477, "fine_sam_miou": 0.005422482706223364}, "paired": [{"psnr": 1.2244443129180986, "old_psnr": 3.805428620704518, "fine_sam_miou": -0.006466968074604701}, {"psnr": 0.5605015045644031, "old_psnr": 1.3780048238621774, "fine_sam_miou": 0.01731193348705143}]}], "second_seed_only": {"passed": true, "seeds": [17], "results": [{"dataset": "tum-desk", "delta": {"psnr": 0.25105697499233415, "old_psnr": 0.9120265791859339, "fine_sam_miou": 0.01696204085893832}, "paired": [{"psnr": 0.25105697499233415, "old_psnr": 0.9120265791859339, "fine_sam_miou": 0.01696204085893832}]}, {"dataset": "kitchen", "delta": {"psnr": 0.5605015045644031, "old_psnr": 1.3780048238621774, "fine_sam_miou": 0.01731193348705143}, "paired": [{"psnr": 0.5605015045644031, "old_psnr": 1.3780048238621774, "fine_sam_miou": 0.01731193348705143}]}]}}
+CANDIDATE_LOCKED_BEFORE_UNTOUCHED_SEQUENCE
+DESK2_PUBLIC_RECORDING_READY
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+TEACHER 0 test False reuse False seconds 3.57
+TEACHER 3 test True reuse False seconds 1.34
+TEACHER 7 test False reuse False seconds 1.28
+TEACHER 14 test False reuse False seconds 1.32
+TEACHER 21 test True reuse False seconds 1.57
+TEACHER 22 test False reuse False seconds 1.67
+TEACHER 29 test False reuse False seconds 1.43
+TEACHER 36 test False reuse False seconds 1.29
+TEACHER 39 test True reuse False seconds 1.42
+TEACHER 43 test False reuse False seconds 1.45
+TEACHER 50 test False reuse False seconds 1.5
+TEACHER 57 test True reuse False seconds 1.37
+TEACHER 58 test False reuse False seconds 1.38
+TEACHER 65 test False reuse False seconds 1.5
+TEACHER 72 test False reuse False seconds 1.4
+TEACHER 75 test True reuse False seconds 1.39
+TEACHER 79 test False reuse False seconds 1.31
+TEACHER 86 test False reuse False seconds 1.34
+TEACHER 93 test True reuse False seconds 1.69
+TEACHER 94 test False reuse False seconds 1.72
+TEACHER 101 test False reuse False seconds 1.64
+TEACHER 108 test False reuse False seconds 1.61
+TEACHER 111 test True reuse False seconds 1.74
+TEACHER 115 test False reuse False seconds 1.58
+TEACHERS_COMPLETE 24
+PREFIX_GRAPH 1 end 20 nodes 27 consumed 3
+PREFIX_GRAPH 2 end 40 nodes 43 consumed 6
+PREFIX_GRAPH 3 end 60 nodes 68 consumed 9
+PREFIX_GRAPH 4 end 80 nodes 90 consumed 12
+PREFIX_GRAPH 5 end 100 nodes 110 consumed 14
+PREFIX_GRAPH 6 end 120 nodes 141 consumed 17
+PREFIX_PREPARATION_COMPLETE 30.029660184000022
+UNTOUCHED_VERIFICATION_INPUTS_READY
+ITERATION_COMPLETE {"dataset": "tum-desk2", "data": "/content/semantic-incremental/data/desk2-640/manifest.json", "seed": 7, "factors": "111", "metrics": {"stage": 6, "end": 120, "steps": 600, "gaussians": 298948, "cap": 300000, "train_seconds": 11.827792581999347, "update_p50_ms": 13.5707744998399, "update_p95_ms": 29.64738524983659, "compute_p50_ms": 9.528571999908308, "gpu_update_peak_mib": 329.16845703125, "cpu_rss_peak_mib": 1992.171875, "controller_seconds_cumulative": 25.089234609989944, "optimized_pixels": 120606720, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 70, 14, 73, 25, 76, 22, 82, 16, 36, 34, 74, 68, 77, 30, 28, 95, 80, 17, 78, 10, 44, 29, 23, 24, 71, 31, 42, 20, 67, 88, 35, 38], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 18.74247226389331, "ssim": 0.6389732599258423, "old_psnr": 16.833385737723248, "object_sam_miou": 0.44419611441437173, "fine_sam_miou": 0.3049850308181399, "small_fine_sam_miou": 0.28654987400388787, "fine_coverage": 0.5336754499373849, "old_fine_sam_miou": null, "gaussian_object_coverage": 0.3142753923759316, "gaussian_fine_coverage": 0.107935159291917, "evaluation_gpu_peak_mib": 329.16845703125}}
+ITERATION_COMPLETE {"dataset": "tum-desk2", "data": "/content/semantic-incremental/data/desk2-640/manifest.json", "seed": 7, "factors": "000", "metrics": {"stage": 6, "end": 120, "steps": 600, "gaussians": 299137, "cap": 300000, "train_seconds": 9.4826118459996, "update_p50_ms": 12.52849749971574, "update_p95_ms": 28.742418700221606, "compute_p50_ms": 9.404011000242463, "gpu_update_peak_mib": 332.5830078125, "cpu_rss_peak_mib": 1939.54296875, "controller_seconds_cumulative": 16.759604947998923, "optimized_pixels": 120606720, "replay_pool": [97, 66, 98, 4, 78, 6, 79, 67, 10, 11, 12, 13, 68, 72, 17, 18, 19, 20, 64, 23, 71, 25, 26, 28, 29, 30, 73, 32, 94, 35, 70, 37, 38, 40, 59, 74, 43, 89, 46, 62, 80, 49, 82, 52, 53, 54, 55, 90], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 18.4282457466458, "ssim": 0.6340353071689606, "old_psnr": 16.06269886806026, "object_sam_miou": 0.42754218577126213, "fine_sam_miou": 0.30056589789680277, "small_fine_sam_miou": 0.23642316863715163, "fine_coverage": 0.5140277382068714, "old_fine_sam_miou": null, "gaussian_object_coverage": 0.27849781203929974, "gaussian_fine_coverage": 0.09240582074434123, "evaluation_gpu_peak_mib": 332.5830078125}}
+ITERATION_COMPLETE {"dataset": "tum-desk2", "data": "/content/semantic-incremental/data/desk2-640/manifest.json", "seed": 17, "factors": "000", "metrics": {"stage": 6, "end": 120, "steps": 600, "gaussians": 298994, "cap": 300000, "train_seconds": 9.24484933399981, "update_p50_ms": 12.386126999899716, "update_p95_ms": 28.554906249382835, "compute_p50_ms": 8.801272500022606, "gpu_update_peak_mib": 328.4990234375, "cpu_rss_peak_mib": 1951.7109375, "controller_seconds_cumulative": 16.570246002989734, "optimized_pixels": 117682176, "replay_pool": [0, 84, 62, 4, 71, 6, 7, 8, 92, 11, 88, 13, 91, 16, 74, 76, 19, 20, 64, 86, 24, 95, 26, 28, 29, 58, 31, 77, 94, 98, 36, 96, 79, 40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 65, 53, 82, 55, 68], "replay_probability": 0.3, "teacher_max_frame": 115, "psnr": 18.628461337340223, "ssim": 0.6393892079591751, "old_psnr": 16.598420751507778, "object_sam_miou": 0.4131330779967855, "fine_sam_miou": 0.2874019295542177, "small_fine_sam_miou": 0.22339762975763802, "fine_coverage": 0.5356390781391591, "old_fine_sam_miou": null, "gaussian_object_coverage": 0.2835040168030128, "gaussian_fine_coverage": 0.089366341799501, "evaluation_gpu_peak_mib": 328.4990234375}}
+ITERATION_COMPLETE {"dataset": "tum-desk2", "data": "/content/semantic-incremental/data/desk2-640/manifest.json", "seed": 17, "factors": "111", "metrics": {"stage": 6, "end": 120, "steps": 600, "gaussians": 298990, "cap": 300000, "train_seconds": 11.814481800000067, "update_p50_ms": 14.173774500250147, "update_p95_ms": 29.52373719986098, "compute_p50_ms": 9.073791499758954, "gpu_update_peak_mib": 332.6298828125, "cpu_rss_peak_mib": 1980.25, "controller_seconds_cumulative": 24.94917060300122, "optimized_pixels": 117682176, "replay_pool": [0, 6, 13, 19, 26, 32, 40, 46, 53, 59, 66, 72, 79, 85, 92, 98, 70, 14, 73, 25, 76, 22, 82, 16, 36, 34, 74, 68, 77, 30, 28, 95, 80, 17, 78, 10, 44, 29, 23, 24, 71, 31, 42, 20, 67, 88, 35, 38], "replay_probability": 0.55, "teacher_max_frame": 115, "psnr": 18.68891365697295, "ssim": 0.6422604829072952, "old_psnr": 16.278727736729746, "object_sam_miou": 0.44229823422318015, "fine_sam_miou": 0.2820230765557407, "small_fine_sam_miou": 0.24410683036650274, "fine_coverage": 0.5106463583476194, "old_fine_sam_miou": null, "gaussian_object_coverage": 0.3174052643901134, "gaussian_fine_coverage": 0.11395364393457975, "evaluation_gpu_peak_mib": 332.6298828125}}
+PHASE_COMPLETE verification
+ALL_32_RUNS_AUDITED: equal steps, caps and optimized pixel budgets; no future teacher input
+tum-desk
+000 PSNR 19.695 fine SAM 0.3441 old delta -1.877 p95 ms 29.57
+001 PSNR 19.961 fine SAM 0.3433 old delta -1.264 p95 ms 30.09
+010 PSNR 19.666 fine SAM 0.3473 old delta -1.795 p95 ms 29.35
+011 PSNR 19.888 fine SAM 0.346 old delta -1.22 p95 ms 30.05
+100 PSNR 19.555 fine SAM 0.3507 old delta -2.166 p95 ms 30.74
+101 PSNR 19.989 fine SAM 0.3561 old delta -1.547 p95 ms 30.88
+110 PSNR 19.736 fine SAM 0.346 old delta -1.71 p95 ms 30.17
+111 PSNR 19.91 fine SAM 0.3511 old delta -1.001 p95 ms 30.99
+kitchen
+000 PSNR 24.745 fine SAM 0.2251 old delta -0.149 p95 ms 28.8
+001 PSNR 25.729 fine SAM 0.2287 old delta 2.954 p95 ms 28.81
+010 PSNR 24.966 fine SAM 0.2127 old delta 0.415 p95 ms 28.85
+011 PSNR 25.649 fine SAM 0.2164 old delta 2.757 p95 ms 28.68
+100 PSNR 25.149 fine SAM 0.2386 old delta 1.173 p95 ms 29.93
+101 PSNR 25.746 fine SAM 0.2278 old delta 2.543 p95 ms 29.64
+110 PSNR 25.006 fine SAM 0.2187 old delta 0.571 p95 ms 29.75
+111 PSNR 25.637 fine SAM 0.2305 old delta 2.304 p95 ms 29.49
+MATCHED_REPLAY_CONTROL_COMPLETE tum-desk 7 {'dataset': 'tum-desk', 'seed': 7, 'delta': {'psnr': -0.053232561500209385, 'old_psnr': -0.16844217320073795, 'fine_sam_miou': -0.004020553304492247}}
+MATCHED_REPLAY_CONTROL_COMPLETE tum-desk 17 {'dataset': 'tum-desk', 'seed': 17, 'delta': {'psnr': -0.03859782040244397, 'old_psnr': -0.4221285333095963, 'fine_sam_miou': 0.00448096116456953}}
+MATCHED_REPLAY_CONTROL_COMPLETE kitchen 7 {'dataset': 'kitchen', 'seed': 7, 'delta': {'psnr': 0.4458529252543961, 'old_psnr': 0.7769944742019277, 'fine_sam_miou': 0.02396811689914738}}
+MATCHED_REPLAY_CONTROL_COMPLETE kitchen 17 {'dataset': 'kitchen', 'seed': 17, 'delta': {'psnr': -0.0024356112183632206, 'old_psnr': 0.5108463846835569, 'fine_sam_miou': -0.01162729072674376}}
+ACTUAL_RENDER_COMPARISON_PANELS_SAVED
+HELDOUT_DEPTH_DIAGNOSTIC_COMPLETE [{"dataset": "tum-desk", "seed": 7, "factors": "000", "covered_depth_rmse_m": 0.14498584591160432, "covered_depth_mae_m": 0.055030619323277664, "depth_coverage": 1.0, "penalized_depth_rmse_m": 0.14498584591160432, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}, {"dataset": "tum-desk", "seed": 7, "factors": "111", "covered_depth_rmse_m": 0.14334658911497103, "covered_depth_mae_m": 0.0529040676977016, "depth_coverage": 0.9999099800970594, "penalized_depth_rmse_m": 0.1457684561932725, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}, {"dataset": "tum-desk", "seed": 17, "factors": "000", "covered_depth_rmse_m": 0.1466588140192514, "covered_depth_mae_m": 0.05589462478831059, "depth_coverage": 0.9999934292041649, "penalized_depth_rmse_m": 0.14680501393117784, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}, {"dataset": "tum-desk", "seed": 17, "factors": "111", "covered_depth_rmse_m": 0.14294603893137728, "covered_depth_mae_m": 0.052018931994410406, "depth_coverage": 0.9998433960325973, "penalized_depth_rmse_m": 0.1460766493742586, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}, {"dataset": "tum-desk2", "seed": 7, "factors": "000", "covered_depth_rmse_m": 0.17254025602392273, "covered_depth_mae_m": 0.08236096219435449, "depth_coverage": 1.0, "penalized_depth_rmse_m": 0.17254025602392273, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}, {"dataset": "tum-desk2", "seed": 7, "factors": "111", "covered_depth_rmse_m": 0.1691021569280948, "covered_depth_mae_m": 0.07955881311298191, "depth_coverage": 1.0, "penalized_depth_rmse_m": 0.1691021569280948, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}, {"dataset": "tum-desk2", "seed": 17, "factors": "000", "covered_depth_rmse_m": 0.17116727981208849, "covered_depth_mae_m": 0.08086426295647335, "depth_coverage": 1.0, "penalized_depth_rmse_m": 0.17116727981208849, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}, {"dataset": "tum-desk2", "seed": 17, "factors": "111", "covered_depth_rmse_m": 0.1683132857005301, "covered_depth_mae_m": 0.07912509557960201, "depth_coverage": 1.0, "penalized_depth_rmse_m": 0.1683132857005301, "qualification": "GT depth .2\u20135m; coverage alpha>.1; uncovered predictions assigned 5m only in explicitly penalized metric; final stage; independent diagnostic, not selection objective"}]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING:huggingface_hub.utils._http:Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+{
+  "device": "NVIDIA L4",
+  "model_load_seconds": 3.0748679810003523,
+  "frames": [
+    {
+      "dataset": "tum-desk",
+      "frame": 0,
+      "masks": 17,
+      "seconds": 2.3103848099999595,
+      "gpu_allocated_peak_mib": 2441.5751953125
+    },
+    {
+      "dataset": "tum-desk",
+      "frame": 7,
+      "masks": 24,
+      "seconds": 1.463607807999324,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "tum-desk",
+      "frame": 14,
+      "masks": 33,
+      "seconds": 1.595583995999732,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 1,
+      "masks": 28,
+      "seconds": 1.535011177999877,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 7,
+      "masks": 42,
+      "seconds": 1.6952173810004751,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 14,
+      "masks": 39,
+      "seconds": 1.7359807319999163,
+      "gpu_allocated_peak_mib": 2445.220703125
+    }
+  ],
+  "whole_gpu_sampled_peak_mib": 3492.0,
+  "whole_gpu_sampling_interval_seconds": 0.2,
+  "qualification": "Separate isolated SAM+CLIP benchmark after mapping; includes RGB load and crops; excludes pose estimation. First frame includes warm-up."
+}
+Traceback (most recent call last):
+  File "/content/semantic-incremental-v2/work/aux/finalize.py", line 70, in <module>
+    if __name__=='__main__':main()
+                            ~~~~^^
+  File "/content/semantic-incremental-v2/work/aux/finalize.py", line 32, in main
+    row,history,check=audit_run(folder,plan,'tum-desk2',seed,factors,True);rows.append(row)
+                      ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/content/semantic-incremental-v2/work/aux/analyze_results.py", line 145, in audit_run
+    old_fine_change=f['old_fine_sam_miou']-history[0]['old_fine_sam_miou'],
+                    ~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'NoneType' and 'NoneType'
+Traceback (most recent call last):
+  File "/content/semantic-incremental-v2/work/aux/coordinate.py", line 53, in <module>
+    try:main()
+        ~~~~^^
+  File "/content/semantic-incremental-v2/work/aux/coordinate.py", line 49, in main
+    subprocess.run([sys.executable,str(AUX/'finalize.py')],cwd=ROOT,check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['/usr/bin/python3', '/content/semantic-incremental-v2/work/aux/finalize.py']' returned non-zero exit status 1.

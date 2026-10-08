@@ -1,0 +1,4082 @@
+[
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "psnr",
+    "mean": 0.012560215216230297,
+    "sd": 0.04286575648177947,
+    "n": 2,
+    "paired_values": [
+      0.04287088230518776,
+      -0.01775045187272717
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "psnr",
+    "mean": -0.077761841510684,
+    "sd": 0.0019428140311891823,
+    "n": 2,
+    "paired_values": [
+      -0.07913561848672224,
+      -0.07638806453464575
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "psnr",
+    "mean": -0.03471039111534058,
+    "sd": 0.06671355801522784,
+    "n": 2,
+    "paired_values": [
+      -0.08188400038499033,
+      0.012463218154309175
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "psnr",
+    "mean": -0.02707801571765245,
+    "sd": 0.33678462861312203,
+    "n": 2,
+    "paired_values": [
+      0.2110646789740791,
+      -0.265220710409384
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "psnr",
+    "mean": -0.1237106017675238,
+    "sd": 0.09265291535110498,
+    "n": 2,
+    "paired_values": [
+      -0.0581950970260543,
+      -0.1892261065089933
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "psnr",
+    "mean": -0.11363734731154551,
+    "sd": 0.03542778445875687,
+    "n": 2,
+    "paired_values": [
+      -0.08858612067834315,
+      -0.13868857394474787
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "psnr",
+    "mean": -0.07004663250508614,
+    "sd": 0.00594506024413398,
+    "n": 2,
+    "paired_values": [
+      -0.07425042491827583,
+      -0.06584284009189645
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "psnr",
+    "mean": -0.03652541989922575,
+    "sd": 0.26652770371914847,
+    "n": 2,
+    "paired_values": [
+      0.15193812677466312,
+      -0.22498896657311462
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "psnr",
+    "mean": -0.10248181177795601,
+    "sd": 0.2816189299025295,
+    "n": 2,
+    "paired_values": [
+      0.0966528432666216,
+      -0.3016164668225336
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "psnr",
+    "mean": -0.11510287042387013,
+    "sd": 0.11702735559556726,
+    "n": 2,
+    "paired_values": [
+      -0.1978537071498252,
+      -0.03235203369791506
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "ssim",
+    "mean": -0.004184178635478014,
+    "sd": 0.0016341518547787984,
+    "n": 2,
+    "paired_values": [
+      -0.005339698493480677,
+      -0.0030286587774753515
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "ssim",
+    "mean": -0.0014575686305761115,
+    "sd": 0.0005223517085402148,
+    "n": 2,
+    "paired_values": [
+      -0.0018269270658492764,
+      -0.0010882101953029466
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "ssim",
+    "mean": -0.0006894554942846465,
+    "sd": 0.0037503092936895695,
+    "n": 2,
+    "paired_values": [
+      -0.0033413246273994723,
+      0.0019624136388301794
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "ssim",
+    "mean": -0.007036481052637045,
+    "sd": 0.007513195206974806,
+    "n": 2,
+    "paired_values": [
+      -0.0017238497734068936,
+      -0.012349112331867196
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "ssim",
+    "mean": -0.005292498320341066,
+    "sd": 0.0025989422129046196,
+    "n": 2,
+    "paired_values": [
+      -0.0034547686576842374,
+      -0.007130227982997894
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "ssim",
+    "mean": -0.004522811621427536,
+    "sd": 0.002720405215628102,
+    "n": 2,
+    "paired_values": [
+      -0.002599194645881653,
+      -0.006446428596973419
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "ssim",
+    "mean": -0.00616691857576368,
+    "sd": 0.0064606377246743075,
+    "n": 2,
+    "paired_values": [
+      -0.01073527932167051,
+      -0.0015985578298568504
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "ssim",
+    "mean": -0.0030181601643561873,
+    "sd": 0.006351751341546491,
+    "n": 2,
+    "paired_values": [
+      0.0014732062816620872,
+      -0.007509526610374462
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "ssim",
+    "mean": -0.0030150130391120578,
+    "sd": 0.013050592517292165,
+    "n": 2,
+    "paired_values": [
+      0.006213149428367648,
+      -0.012243175506591764
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "ssim",
+    "mean": -0.004980267584323905,
+    "sd": 0.0009984862366746274,
+    "n": 2,
+    "paired_values": [
+      -0.00427423119544984,
+      -0.00568630397319797
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "object_sam_miou",
+    "mean": -0.00578898935117475,
+    "sd": 0.001083292019828829,
+    "n": 2,
+    "paired_values": [
+      -0.0050229862179485135,
+      -0.006554992484400987
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "object_sam_miou",
+    "mean": 0.01403555691902493,
+    "sd": 0.009047695819290328,
+    "n": 2,
+    "paired_values": [
+      0.020433243986958297,
+      0.007637869851091564
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "object_sam_miou",
+    "mean": -0.004561946227228525,
+    "sd": 0.005336641959417521,
+    "n": 2,
+    "paired_values": [
+      -0.008335521945497318,
+      -0.000788370508959732
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "object_sam_miou",
+    "mean": -0.004454446685493274,
+    "sd": 0.008706662264758868,
+    "n": 2,
+    "paired_values": [
+      -0.010610986614405293,
+      0.0017020932434187452
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "object_sam_miou",
+    "mean": 0.0072423652491289126,
+    "sd": 0.0014430803967821486,
+    "n": 2,
+    "paired_values": [
+      0.008262777183490944,
+      0.0062219533147668815
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "object_sam_miou",
+    "mean": -0.015870285595942307,
+    "sd": 0.014454865397318491,
+    "n": 2,
+    "paired_values": [
+      -0.02609141893952499,
+      -0.005649152252359624
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "object_sam_miou",
+    "mean": 0.0012348099639328536,
+    "sd": 0.004982550511344565,
+    "n": 2,
+    "paired_values": [
+      0.004758005218109096,
+      -0.0022883852902433888
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "object_sam_miou",
+    "mean": 0.008299501741188042,
+    "sd": 0.008464550900837834,
+    "n": 2,
+    "paired_values": [
+      0.0023141603995069093,
+      0.014284843082869175
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "object_sam_miou",
+    "mean": -0.0007307936564474871,
+    "sd": 0.01149176693162342,
+    "n": 2,
+    "paired_values": [
+      -0.00885669998161373,
+      0.007395112668718756
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "object_sam_miou",
+    "mean": -0.016986262327602475,
+    "sd": 0.007121089207464382,
+    "n": 2,
+    "paired_values": [
+      -0.022021632795634877,
+      -0.011950891859570073
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "fine_sam_miou",
+    "mean": 0.0005715713040995371,
+    "sd": 0.002942259695559682,
+    "n": 2,
+    "paired_values": [
+      0.002652063086841655,
+      -0.0015089204786425808
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "fine_sam_miou",
+    "mean": -0.005351441904325106,
+    "sd": 0.00634411106975046,
+    "n": 2,
+    "paired_values": [
+      -0.009837405862346299,
+      -0.0008654779463039136
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "fine_sam_miou",
+    "mean": 0.003679105344466839,
+    "sd": 0.010311847144547864,
+    "n": 2,
+    "paired_values": [
+      0.01097068238693577,
+      -0.0036124716980020927
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "fine_sam_miou",
+    "mean": -0.006971968030626358,
+    "sd": 0.004031591946212593,
+    "n": 2,
+    "paired_values": [
+      -0.004121202026482362,
+      -0.009822734034770353
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "fine_sam_miou",
+    "mean": -0.00804326829887464,
+    "sd": 0.006666114062083816,
+    "n": 2,
+    "paired_values": [
+      -0.012756922756337108,
+      -0.003329613841412171
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "fine_sam_miou",
+    "mean": 0.0003424398156233188,
+    "sd": 0.014070188236793643,
+    "n": 2,
+    "paired_values": [
+      0.010291565330431296,
+      -0.009606685699184658
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "fine_sam_miou",
+    "mean": -0.00324495970855887,
+    "sd": 0.007868929314426079,
+    "n": 2,
+    "paired_values": [
+      0.002319213570349421,
+      -0.008809132987467161
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "fine_sam_miou",
+    "mean": -0.004754505747631768,
+    "sd": 0.003949945377995216,
+    "n": 2,
+    "paired_values": [
+      -0.007547538909728646,
+      -0.0019614725855348902
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "fine_sam_miou",
+    "mean": -0.006044184016219742,
+    "sd": 0.004210742791163052,
+    "n": 2,
+    "paired_values": [
+      -0.0030667392347559774,
+      -0.009021628797683506
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "fine_sam_miou",
+    "mean": 0.003659241864132981,
+    "sd": 0.0013880723051905182,
+    "n": 2,
+    "paired_values": [
+      0.0046407572039104394,
+      0.0026777265243555226
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.010011605744046454,
+    "sd": 0.008092928973499646,
+    "n": 2,
+    "paired_values": [
+      0.01573417070086914,
+      0.00428904078722377
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.008662619574640382,
+    "sd": 0.0018723403679694669,
+    "n": 2,
+    "paired_values": [
+      0.007338675003759856,
+      0.009986564145520908
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.0017808807441844366,
+    "sd": 0.006566052367930576,
+    "n": 2,
+    "paired_values": [
+      0.006423780899174135,
+      -0.0028620194108052617
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.004943265358117857,
+    "sd": 0.022000578499066004,
+    "n": 2,
+    "paired_values": [
+      0.020500023604834383,
+      -0.010613492888598669
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.007396816367772299,
+    "sd": 0.0036398361521248227,
+    "n": 2,
+    "paired_values": [
+      0.009970569193347711,
+      0.004823063542196887
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.0002782287548184076,
+    "sd": 0.028781131170419055,
+    "n": 2,
+    "paired_values": [
+      0.020629561775641236,
+      -0.02007310426600442
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.0173917917845647,
+    "sd": 0.02376430425247307,
+    "n": 2,
+    "paired_values": [
+      0.03419569247166872,
+      0.0005878910974606855
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "small_fine_sam_miou",
+    "mean": -0.0017681773251240797,
+    "sd": 0.013772916035840146,
+    "n": 2,
+    "paired_values": [
+      -0.01150709965077959,
+      0.00797074500053143
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "small_fine_sam_miou",
+    "mean": -0.002241874890119972,
+    "sd": 0.01963288852894823,
+    "n": 2,
+    "paired_values": [
+      0.011640673722978903,
+      -0.016124423503218847
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.005363199468001057,
+    "sd": 0.0028419425180040963,
+    "n": 2,
+    "paired_values": [
+      0.007372756294224125,
+      0.003353642641777989
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "old_psnr",
+    "mean": -0.10901620516666188,
+    "sd": 0.22183319691255005,
+    "n": 2,
+    "paired_values": [
+      0.04784355266249296,
+      -0.26587596299581673
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "old_psnr",
+    "mean": 0.15382546473465997,
+    "sd": 0.13788590476667237,
+    "n": 2,
+    "paired_values": [
+      0.05632540644410344,
+      0.2513255230252165
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "old_psnr",
+    "mean": 0.017226372167056248,
+    "sd": 0.13755318564606023,
+    "n": 2,
+    "paired_values": [
+      0.11449116251119751,
+      -0.08003841817708501
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "old_psnr",
+    "mean": -0.08022532862703535,
+    "sd": 0.0751291254783243,
+    "n": 2,
+    "paired_values": [
+      -0.02710101453669722,
+      -0.13334964271737348
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "old_psnr",
+    "mean": 0.20270904393333744,
+    "sd": 0.25579492881934557,
+    "n": 2,
+    "paired_values": [
+      0.021834715172047936,
+      0.38358337269462695
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "old_psnr",
+    "mean": -0.050893023829312156,
+    "sd": 0.14389466945887516,
+    "n": 2,
+    "paired_values": [
+      0.05085587272165526,
+      -0.15264192038027957
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "old_psnr",
+    "mean": 0.1535746508405147,
+    "sd": 0.2925902824456162,
+    "n": 2,
+    "paired_values": [
+      0.36046722366709716,
+      -0.05331792198606777
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "old_psnr",
+    "mean": 0.054254832629212046,
+    "sd": 0.3420443839533922,
+    "n": 2,
+    "paired_values": [
+      -0.1876070707310067,
+      0.2961167359894308
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "old_psnr",
+    "mean": -0.1797511177608797,
+    "sd": 0.09354336822241587,
+    "n": 2,
+    "paired_values": [
+      -0.24589626776598017,
+      -0.11360596775577925
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "old_psnr",
+    "mean": -0.13956571244277782,
+    "sd": 0.03595327345931081,
+    "n": 2,
+    "paired_values": [
+      -0.16498851591171082,
+      -0.11414290897384483
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "old_fine_sam_miou",
+    "mean": 0.00431576269617874,
+    "sd": 0.01859520629804101,
+    "n": 2,
+    "paired_values": [
+      0.017464559167086335,
+      -0.008833033774728855
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.005339544877730126,
+    "sd": 0.018199738733360084,
+    "n": 2,
+    "paired_values": [
+      -0.01820870355191251,
+      0.007529613796452256
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "old_fine_sam_miou",
+    "mean": 0.006826221358921719,
+    "sd": 0.009921619835815094,
+    "n": 2,
+    "paired_values": [
+      0.013841866025181532,
+      -0.00018942330733809354
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.027463596748094926,
+    "sd": 0.010336505004216285,
+    "n": 2,
+    "paired_values": [
+      -0.034772609530344945,
+      -0.020154583965844908
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.01951293297236481,
+    "sd": 0.04860669926288945,
+    "n": 2,
+    "paired_values": [
+      -0.0538830596322491,
+      0.014857193687519477
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.016097267979351765,
+    "sd": 0.0364951044350272,
+    "n": 2,
+    "paired_values": [
+      -0.041903203805470746,
+      0.009708667846767216
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "old_fine_sam_miou",
+    "mean": 0.004066511713017307,
+    "sd": 0.011055075656672981,
+    "n": 2,
+    "paired_values": [
+      -0.0037506072503464827,
+      0.011883630676381096
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.02129333073628184,
+    "sd": 0.00845021549622464,
+    "n": 2,
+    "paired_values": [
+      -0.01531812605641375,
+      -0.02726853541614993
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.03879353322355944,
+    "sd": 0.02356931198640123,
+    "n": 2,
+    "paired_values": [
+      -0.05545955355704513,
+      -0.022127512890073753
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.003581590524281475,
+    "sd": 0.02651981044094536,
+    "n": 2,
+    "paired_values": [
+      -0.022333928322855745,
+      0.015170747274292795
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "old_psnr_change",
+    "mean": -0.0674945036125072,
+    "sd": 0.2774521920778192,
+    "n": 2,
+    "paired_values": [
+      0.12869382286079123,
+      -0.2636828300858056
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "old_psnr_change",
+    "mean": 0.10200995560334025,
+    "sd": 0.29666667435483113,
+    "n": 2,
+    "paired_values": [
+      -0.10776506158502208,
+      0.3117849727917026
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "old_psnr_change",
+    "mean": 0.01292048896071929,
+    "sd": 0.1599564561386619,
+    "n": 2,
+    "paired_values": [
+      0.12602678379093568,
+      -0.1001858058694971
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "old_psnr_change",
+    "mean": -0.09399799748167403,
+    "sd": 0.43442795367774895,
+    "n": 2,
+    "paired_values": [
+      0.21318895450085762,
+      -0.4011849494642057
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "old_psnr_change",
+    "mean": 0.09978719367786582,
+    "sd": 0.13236073038323318,
+    "n": 2,
+    "paired_values": [
+      0.0061940236610773525,
+      0.19338036369465428
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "old_psnr_change",
+    "mean": -0.06592698182788048,
+    "sd": 0.12710193413740817,
+    "n": 2,
+    "paired_values": [
+      0.02394765770260676,
+      -0.15580162135836773
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "old_psnr_change",
+    "mean": 0.13747303260717025,
+    "sd": 0.20135706836025996,
+    "n": 2,
+    "paired_values": [
+      0.2798539810845533,
+      -0.004907915870212776
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "old_psnr_change",
+    "mean": -0.03991587666165941,
+    "sd": 0.2935211330741715,
+    "n": 2,
+    "paired_values": [
+      0.1676349069566463,
+      -0.2474666602799651
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "old_psnr_change",
+    "mean": -0.19316529438791008,
+    "sd": 0.10079979887153194,
+    "n": 2,
+    "paired_values": [
+      -0.2644415157122104,
+      -0.12188907306360974
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "old_psnr_change",
+    "mean": -0.14460383050052528,
+    "sd": 0.08613943412819564,
+    "n": 2,
+    "paired_values": [
+      -0.20551360850014433,
+      -0.08369405250090622
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "old_fine_change",
+    "mean": -0.016156621121228863,
+    "sd": 0.0379237021435825,
+    "n": 2,
+    "paired_values": [
+      0.010659485832197127,
+      -0.04297272807465485
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "old_fine_change",
+    "mean": 0.008923938105667238,
+    "sd": 0.015200667107334032,
+    "n": 2,
+    "paired_values": [
+      -0.0018245566844879574,
+      0.019672432895822434
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "old_fine_change",
+    "mean": 0.008506298928510313,
+    "sd": 0.011548127836750341,
+    "n": 2,
+    "paired_values": [
+      0.016672058431885614,
+      0.00034053942513501134
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "old_fine_change",
+    "mean": -0.024703005185654686,
+    "sd": 0.008066210176135348,
+    "n": 2,
+    "paired_values": [
+      -0.030406677099675927,
+      -0.018999333271633445
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "old_fine_change",
+    "mean": 0.02531049001087521,
+    "sd": 0.06672966484872489,
+    "n": 2,
+    "paired_values": [
+      -0.021874508509963753,
+      0.07249548853171417
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "old_fine_change",
+    "mean": -0.01739462767129868,
+    "sd": 0.03726168743317613,
+    "n": 2,
+    "paired_values": [
+      -0.04374261953375108,
+      0.008953364191153723
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "old_fine_change",
+    "mean": -0.0020067984733142252,
+    "sd": 0.010067572535497322,
+    "n": 2,
+    "paired_values": [
+      0.005112050336623375,
+      -0.009125647283251825
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "old_fine_change",
+    "mean": 0.03702150882685405,
+    "sd": 0.024505504453680747,
+    "n": 2,
+    "paired_values": [
+      0.019693500451259255,
+      0.05434951720244885
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "old_fine_change",
+    "mean": -0.04755344818317987,
+    "sd": 0.01906713951075198,
+    "n": 2,
+    "paired_values": [
+      -0.061035951829062546,
+      -0.0340709445372972
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "old_fine_change",
+    "mean": 0.0023124237560877142,
+    "sd": 0.030145310354098002,
+    "n": 2,
+    "paired_values": [
+      -0.019003529616268028,
+      0.023628377128443456
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "gaussians",
+    "mean": -97.0,
+    "sd": 27.93071785686863,
+    "n": 2,
+    "paired_values": [
+      -116.75,
+      -77.25
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "gaussians",
+    "mean": -192.75,
+    "sd": 96.16652224137046,
+    "n": 2,
+    "paired_values": [
+      -260.75,
+      -124.75
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "gaussians",
+    "mean": 14.25,
+    "sd": 111.72287142747452,
+    "n": 2,
+    "paired_values": [
+      93.25,
+      -64.75
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "gaussians",
+    "mean": -174.5,
+    "sd": 47.37615433949868,
+    "n": 2,
+    "paired_values": [
+      -141,
+      -208
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "gaussians",
+    "mean": -286.5,
+    "sd": 191.6259377015544,
+    "n": 2,
+    "paired_values": [
+      -422,
+      -151
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "gaussians",
+    "mean": -60.5,
+    "sd": 174.65537495307723,
+    "n": 2,
+    "paired_values": [
+      63,
+      -184
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "gaussians",
+    "mean": -296.5,
+    "sd": 2.1213203435596424,
+    "n": 2,
+    "paired_values": [
+      -295,
+      -298
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "gaussians",
+    "mean": -75.5,
+    "sd": 97.58073580374356,
+    "n": 2,
+    "paired_values": [
+      -144.5,
+      -6.5
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "gaussians",
+    "mean": -37.5,
+    "sd": 219.20310216782974,
+    "n": 2,
+    "paired_values": [
+      117.5,
+      -192.5
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "gaussians",
+    "mean": -70.0,
+    "sd": 122.32947314527271,
+    "n": 2,
+    "paired_values": [
+      -156.5,
+      16.5
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "mapping_seconds",
+    "mean": 0.8855143321272863,
+    "sd": 0.5966696637649862,
+    "n": 2,
+    "paired_values": [
+      0.46360516675076724,
+      1.3074234975038053
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "mapping_seconds",
+    "mean": 0.061149520375920474,
+    "sd": 0.5445160474615607,
+    "n": 2,
+    "paired_values": [
+      -0.32388146924904504,
+      0.446180510000886
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "mapping_seconds",
+    "mean": 0.5072826076259389,
+    "sd": 0.26927299729180904,
+    "n": 2,
+    "paired_values": [
+      0.3168778452504739,
+      0.6976873700014039
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "mapping_seconds",
+    "mean": 1.1122244675007096,
+    "sd": 0.43684833849205,
+    "n": 2,
+    "paired_values": [
+      1.4211228899985144,
+      0.8033260450029047
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "mapping_seconds",
+    "mean": 0.48820982899906085,
+    "sd": 0.6413081391168945,
+    "n": 2,
+    "paired_values": [
+      0.9416831629987428,
+      0.03473649499937892
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "mapping_seconds",
+    "mean": 0.8839482684998075,
+    "sd": 0.3247352360417878,
+    "n": 2,
+    "paired_values": [
+      1.1135707559951697,
+      0.6543257810044452
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "mapping_seconds",
+    "mean": 0.7936266575043192,
+    "sd": 2.22505491301502,
+    "n": 2,
+    "paired_values": [
+      -0.7797247600010451,
+      2.3669780750096834
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "mapping_seconds",
+    "mean": 0.9374245857475216,
+    "sd": 2.439930159998559,
+    "n": 2,
+    "paired_values": [
+      2.6627157475040804,
+      -0.7878665760090371
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "mapping_seconds",
+    "mean": 0.836635290248978,
+    "sd": 1.2562982535088418,
+    "n": 2,
+    "paired_values": [
+      1.7249723044978964,
+      -0.05170172399994044
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "mapping_seconds",
+    "mean": 1.237335636748412,
+    "sd": 1.5609106221516797,
+    "n": 2,
+    "paired_values": [
+      2.3410661224979776,
+      0.1336051509988465
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "update_p95_ms",
+    "mean": 0.3823474316277444,
+    "sd": 0.14113875227674696,
+    "n": 2,
+    "paired_values": [
+      0.28254726280464837,
+      0.4821476004508405
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "update_p95_ms",
+    "mean": -0.08557808164369085,
+    "sd": 0.36800706796817084,
+    "n": 2,
+    "paired_values": [
+      0.17464221164118143,
+      -0.34579837492856313
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "update_p95_ms",
+    "mean": -0.11015618085821721,
+    "sd": 0.6539039680262483,
+    "n": 2,
+    "paired_values": [
+      -0.5725361108943687,
+      0.3522237491779343
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "update_p95_ms",
+    "mean": 1.6552118260733408,
+    "sd": 0.46284936841212404,
+    "n": 2,
+    "paired_values": [
+      1.9824957531454643,
+      1.3279278990012173
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "update_p95_ms",
+    "mean": 1.9285947264052048,
+    "sd": 0.8915036488040664,
+    "n": 2,
+    "paired_values": [
+      2.5589830019271105,
+      1.2982064508832991
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "update_p95_ms",
+    "mean": 1.9073116252911717,
+    "sd": 1.23019648597298,
+    "n": 2,
+    "paired_values": [
+      2.7771919027145273,
+      1.037431347867816
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "update_p95_ms",
+    "mean": 0.39085017538126365,
+    "sd": 0.03032303886034872,
+    "n": 2,
+    "paired_values": [
+      0.41229180178559943,
+      0.3694085489769279
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "update_p95_ms",
+    "mean": 1.0653323900896758,
+    "sd": 1.2139744436696347,
+    "n": 2,
+    "paired_values": [
+      0.2069228287837106,
+      1.923741951395641
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "update_p95_ms",
+    "mean": 1.0719223862906624,
+    "sd": 1.5072333026570304,
+    "n": 2,
+    "paired_values": [
+      2.1376972754296446,
+      0.00614749715168017
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "update_p95_ms",
+    "mean": 2.554539213497261,
+    "sd": 1.3462502229510795,
+    "n": 2,
+    "paired_values": [
+      3.5064818753198708,
+      1.602596551674651
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "gpu_update_peak_mib",
+    "mean": 0.8275146484375,
+    "sd": 0.8298491936434897,
+    "n": 2,
+    "paired_values": [
+      0.24072265625,
+      1.414306640625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "gpu_update_peak_mib",
+    "mean": 1.4947509765625,
+    "sd": 0.5784948300185841,
+    "n": 2,
+    "paired_values": [
+      1.90380859375,
+      1.085693359375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "gpu_update_peak_mib",
+    "mean": -0.0443115234375,
+    "sd": 1.4395906856236864,
+    "n": 2,
+    "paired_values": [
+      -1.062255859375,
+      0.9736328125
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "gpu_update_peak_mib",
+    "mean": 2.310791015625,
+    "sd": 5.02674200551511,
+    "n": 2,
+    "paired_values": [
+      5.865234375,
+      -1.24365234375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "gpu_update_peak_mib",
+    "mean": 7.643798828125,
+    "sd": 5.0923427322853465,
+    "n": 2,
+    "paired_values": [
+      11.24462890625,
+      4.04296875
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "gpu_update_peak_mib",
+    "mean": 0.204345703125,
+    "sd": 5.916149753726314,
+    "n": 2,
+    "paired_values": [
+      4.3876953125,
+      -3.97900390625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "gpu_update_peak_mib",
+    "mean": 1.69580078125,
+    "sd": 0.16710921977260204,
+    "n": 2,
+    "paired_values": [
+      1.57763671875,
+      1.81396484375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "gpu_update_peak_mib",
+    "mean": 7.9658203125,
+    "sd": 1.4908628325993711,
+    "n": 2,
+    "paired_values": [
+      9.02001953125,
+      6.91162109375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "gpu_update_peak_mib",
+    "mean": -3.8349609375,
+    "sd": 7.174647906765848,
+    "n": 2,
+    "paired_values": [
+      1.23828125,
+      -8.908203125
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "gpu_update_peak_mib",
+    "mean": 5.49658203125,
+    "sd": 4.489161312982174,
+    "n": 2,
+    "paired_values": [
+      8.6708984375,
+      2.322265625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 0.8275146484375,
+    "sd": 0.8298491936434897,
+    "n": 2,
+    "paired_values": [
+      0.24072265625,
+      1.414306640625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 1.4947509765625,
+    "sd": 0.5784948300185841,
+    "n": 2,
+    "paired_values": [
+      1.90380859375,
+      1.085693359375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": -0.0443115234375,
+    "sd": 1.4395906856236864,
+    "n": 2,
+    "paired_values": [
+      -1.062255859375,
+      0.9736328125
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 2.310791015625,
+    "sd": 5.02674200551511,
+    "n": 2,
+    "paired_values": [
+      5.865234375,
+      -1.24365234375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 7.643798828125,
+    "sd": 5.0923427322853465,
+    "n": 2,
+    "paired_values": [
+      11.24462890625,
+      4.04296875
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 0.204345703125,
+    "sd": 5.916149753726314,
+    "n": 2,
+    "paired_values": [
+      4.3876953125,
+      -3.97900390625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 1.69580078125,
+    "sd": 0.16710921977260204,
+    "n": 2,
+    "paired_values": [
+      1.57763671875,
+      1.81396484375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 7.9658203125,
+    "sd": 1.4908628325993711,
+    "n": 2,
+    "paired_values": [
+      9.02001953125,
+      6.91162109375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": -3.8349609375,
+    "sd": 7.174647906765848,
+    "n": 2,
+    "paired_values": [
+      1.23828125,
+      -8.908203125
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 5.49658203125,
+    "sd": 4.489161312982174,
+    "n": 2,
+    "paired_values": [
+      8.6708984375,
+      2.322265625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 0.60205078125,
+    "sd": 1.3513749714668686,
+    "n": 2,
+    "paired_values": [
+      -0.353515625,
+      1.5576171875
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 36.38720703125,
+    "sd": 3.925685596724143,
+    "n": 2,
+    "paired_values": [
+      33.611328125,
+      39.1630859375
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -2.49560546875,
+    "sd": 5.320564208049168,
+    "n": 2,
+    "paired_values": [
+      -6.2578125,
+      1.2666015625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -7.041015625,
+    "sd": 4.383509616183793,
+    "n": 2,
+    "paired_values": [
+      -3.94140625,
+      -10.140625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 31.095703125,
+    "sd": 6.80866490478453,
+    "n": 2,
+    "paired_values": [
+      35.91015625,
+      26.28125
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -7.52734375,
+    "sd": 8.877504666927983,
+    "n": 2,
+    "paired_values": [
+      -13.8046875,
+      -1.25
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 32.111328125,
+    "sd": 9.195150291289128,
+    "n": 2,
+    "paired_values": [
+      25.609375,
+      38.61328125
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -5.5205078125,
+    "sd": 18.623701063087097,
+    "n": 2,
+    "paired_values": [
+      7.6484375,
+      -18.689453125
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -5.0009765625,
+    "sd": 9.958880857687879,
+    "n": 2,
+    "paired_values": [
+      -12.04296875,
+      2.041015625
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -0.2978515625,
+    "sd": 0.04005097002814429,
+    "n": 2,
+    "paired_values": [
+      -0.26953125,
+      -0.326171875
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "process_seconds",
+    "mean": 1.1540636895008447,
+    "sd": 1.120448913558506,
+    "n": 2,
+    "paired_values": [
+      0.36178666475052523,
+      1.9463407142511642
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "process_seconds",
+    "mean": 0.26843879274952087,
+    "sd": 1.6898216200042488,
+    "n": 2,
+    "paired_values": [
+      -0.9264455337511208,
+      1.4633231192501626
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "process_seconds",
+    "mean": -0.02701120374990751,
+    "sd": 0.042432584156264656,
+    "n": 2,
+    "paired_values": [
+      -0.0570155717500711,
+      0.0029931642502560862
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "process_seconds",
+    "mean": 1.5018993160001628,
+    "sd": 1.476825671574499,
+    "n": 2,
+    "paired_values": [
+      2.546172763000868,
+      0.45762586899945745
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "process_seconds",
+    "mean": 1.4453240134989755,
+    "sd": 0.941445868165929,
+    "n": 2,
+    "paired_values": [
+      2.1110267709991604,
+      0.7796212559987907
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "process_seconds",
+    "mean": 0.05101726799875905,
+    "sd": 2.5689866698112054,
+    "n": 2,
+    "paired_values": [
+      1.8675651630001084,
+      -1.7655306270025903
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "process_seconds",
+    "mean": 0.36715703400022903,
+    "sd": 2.9275125965093753,
+    "n": 2,
+    "paired_values": [
+      -1.7029069750005874,
+      2.4372210430010455
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "process_seconds",
+    "mean": 2.4750266200003352,
+    "sd": 2.6919322981260687,
+    "n": 2,
+    "paired_values": [
+      4.378510202500365,
+      0.5715430375003052
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "process_seconds",
+    "mean": 0.277313121998759,
+    "sd": 2.6522358297206527,
+    "n": 2,
+    "paired_values": [
+      2.152727062500162,
+      -1.598100818502644
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "process_seconds",
+    "mean": 1.9354123104990322,
+    "sd": 2.7202216357949984,
+    "n": 2,
+    "paired_values": [
+      3.8588994755000385,
+      0.011925145498025813
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_S",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.6805044072477813,
+    "sd": 0.5498387023986295,
+    "n": 2,
+    "paired_values": [
+      0.2917097322228983,
+      1.0692990822726642
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_B",
+    "metric": "controller_seconds_cumulative",
+    "mean": -0.1311888729767361,
+    "sd": 0.028662582931752043,
+    "n": 2,
+    "paired_values": [
+      -0.15145637973409976,
+      -0.11092136621937243
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "main_R",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.7129026419813727,
+    "sd": 0.26812993994479756,
+    "n": 2,
+    "paired_values": [
+      0.9024991407554808,
+      0.5233061432072645
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_011_S",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.6195708570066927,
+    "sd": 0.621664495020729,
+    "n": 2,
+    "paired_values": [
+      0.17998767695462448,
+      1.0591540370587609
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_101_B",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.3152621045464912,
+    "sd": 0.2171955870388857,
+    "n": 2,
+    "paired_values": [
+      0.46884257698548026,
+      0.16168163210750208
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_110_R",
+    "metric": "controller_seconds_cumulative",
+    "mean": 1.10022777141603,
+    "sd": 0.09147468842839451,
+    "n": 2,
+    "paired_values": [
+      1.1649101439106744,
+      1.0355453989213856
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "111_minus_000",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.9860991919904336,
+    "sd": 0.9147773918444685,
+    "n": 2,
+    "paired_values": [
+      0.3392538949410664,
+      1.6329444890398008
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SB",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.27431128210946554,
+    "sd": 0.9550936753238258,
+    "n": 2,
+    "paired_values": [
+      0.9496644965993255,
+      -0.40104193238039443
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_SR",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.15605958593232572,
+    "sd": 0.11006683234974418,
+    "n": 2,
+    "paired_values": [
+      0.2338885894705527,
+      0.07823058239409875
+    ]
+  },
+  {
+    "dataset": "tum-desk",
+    "contrast": "interaction_BR",
+    "metric": "controller_seconds_cumulative",
+    "mean": 1.1708286414609574,
+    "sd": 0.7454347575352186,
+    "n": 2,
+    "paired_values": [
+      1.6979306134462604,
+      0.6437266694756545
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "psnr",
+    "mean": 0.2855048009141705,
+    "sd": 0.21920129591796125,
+    "n": 2,
+    "paired_values": [
+      0.44050352370264,
+      0.13050607812570103
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "psnr",
+    "mean": -0.15918198281292328,
+    "sd": 0.07664166436355266,
+    "n": 2,
+    "paired_values": [
+      -0.10498814222003183,
+      -0.21337582340581474
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "psnr",
+    "mean": 0.09876525307416317,
+    "sd": 0.02831979336838551,
+    "n": 2,
+    "paired_values": [
+      0.07874013514157596,
+      0.11879037100675038
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "psnr",
+    "mean": 0.17992947543454818,
+    "sd": 0.5563828524417469,
+    "n": 2,
+    "paired_values": [
+      0.5733515633320216,
+      -0.21349261246292528
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "psnr",
+    "mean": -0.20291028165667768,
+    "sd": 0.26894493006884745,
+    "n": 2,
+    "paired_values": [
+      -0.01273749783925382,
+      -0.39308306547410155
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "psnr",
+    "mean": 0.02316409140889064,
+    "sd": 0.23537099725804836,
+    "n": 2,
+    "paired_values": [
+      0.18959651966469693,
+      -0.14326833684691564
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "psnr",
+    "mean": 0.24814596994047733,
+    "sd": 0.29775495831920273,
+    "n": 2,
+    "paired_values": [
+      0.4586905200999034,
+      0.03760141978105125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "psnr",
+    "mean": -0.09676036142317113,
+    "sd": 0.2355622401965722,
+    "n": 2,
+    "paired_values": [
+      0.06980729601131941,
+      -0.26332801885766166
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "psnr",
+    "mean": -0.1605060870662074,
+    "sd": 0.3783372900388503,
+    "n": 2,
+    "paired_values": [
+      0.10701877629600531,
+      -0.4280309504284201
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "psnr",
+    "mean": -0.03681203379447151,
+    "sd": 0.08858070840186875,
+    "n": 2,
+    "paired_values": [
+      0.025823985798798077,
+      -0.0994480533877411
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "ssim",
+    "mean": 0.002048530642475413,
+    "sd": 0.00038284315631559323,
+    "n": 2,
+    "paired_values": [
+      0.0023192416344370304,
+      0.0017778196505137955
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "ssim",
+    "mean": -0.00290965256946428,
+    "sd": 0.0009974754649326356,
+    "n": 2,
+    "paired_values": [
+      -0.003614974234785351,
+      -0.002204330904143209
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "ssim",
+    "mean": 0.002529570353882668,
+    "sd": 0.0020533051984465913,
+    "n": 2,
+    "paired_values": [
+      0.003981476383549842,
+      0.0010776643242154937
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "ssim",
+    "mean": -0.00023947528430384724,
+    "sd": 0.00029390683340588415,
+    "n": 2,
+    "paired_values": [
+      -0.00044729879924221283,
+      -3.165176936548164e-05
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "ssim",
+    "mean": -0.003969571420124551,
+    "sd": 0.0015325882607929967,
+    "n": 2,
+    "paired_values": [
+      -0.0028858678681509264,
+      -0.005053274972098176
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "ssim",
+    "mean": -0.001824306590216429,
+    "sd": 0.0029442933390783567,
+    "n": 2,
+    "paired_values": [
+      0.00025762319564825997,
+      -0.003906236376081118
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "ssim",
+    "mean": -0.00137528691972999,
+    "sd": 0.0014461739751932792,
+    "n": 2,
+    "paired_values": [
+      -0.0023978863443646636,
+      -0.00035268749509531627
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "ssim",
+    "mean": 0.0040496875132833565,
+    "sd": 0.0038471724603952174,
+    "n": 2,
+    "paired_values": [
+      0.006770049248422949,
+      0.001329325778143764
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "ssim",
+    "mean": -0.002538228673594295,
+    "sd": 0.0005690212902074842,
+    "n": 2,
+    "paired_values": [
+      -0.0021358698606490645,
+      -0.0029405874865395254
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "ssim",
+    "mean": -8.20545213563173e-05,
+    "sd": 0.006982648721101703,
+    "n": 2,
+    "paired_values": [
+      0.004855423739978271,
+      -0.005019532782690905
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "object_sam_miou",
+    "mean": -0.0015319878733749681,
+    "sd": 0.00556302333159001,
+    "n": 2,
+    "paired_values": [
+      0.002401663648291308,
+      -0.005465639395041244
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "object_sam_miou",
+    "mean": 0.0076299342204122905,
+    "sd": 0.0011619674447065304,
+    "n": 2,
+    "paired_values": [
+      0.008451569280082283,
+      0.006808299160742298
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "object_sam_miou",
+    "mean": 0.0012376671232548625,
+    "sd": 0.008221251226436488,
+    "n": 2,
+    "paired_values": [
+      0.007050969615306324,
+      -0.004575635368796599
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "object_sam_miou",
+    "mean": -0.017490703988492534,
+    "sd": 0.0031135351517583413,
+    "n": 2,
+    "paired_values": [
+      -0.015289102169221525,
+      -0.019692305807763544
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "object_sam_miou",
+    "mean": 0.010512994064673015,
+    "sd": 0.009872746068447414,
+    "n": 2,
+    "paired_values": [
+      0.0035319083707410215,
+      0.017494079758605008
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "object_sam_miou",
+    "mean": -0.000986552175177402,
+    "sd": 0.008358843958113541,
+    "n": 2,
+    "paired_values": [
+      0.004924043070484885,
+      -0.006897147420839689
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "object_sam_miou",
+    "mean": 0.0020889320104462428,
+    "sd": 0.006654679394541761,
+    "n": 2,
+    "paired_values": [
+      0.0067945009369491105,
+      -0.002616636916056625
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "object_sam_miou",
+    "mean": -0.005604755512578635,
+    "sd": 0.005330231816471399,
+    "n": 2,
+    "paired_values": [
+      -0.00937379857530185,
+      -0.00183571244985542
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "object_sam_miou",
+    "mean": -0.015819313797964613,
+    "sd": 0.017014380673190596,
+    "n": 2,
+    "paired_values": [
+      -0.003788329846262206,
+      -0.02785029774966702
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "object_sam_miou",
+    "mean": 0.021864238120791968,
+    "sd": 0.00015606999345395525,
+    "n": 2,
+    "paired_values": [
+      0.021753879970080936,
+      0.021974596271503
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "fine_sam_miou",
+    "mean": -0.0016131123324496614,
+    "sd": 0.015021457441340683,
+    "n": 2,
+    "paired_values": [
+      0.009008662087627461,
+      -0.012234886752526784
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "fine_sam_miou",
+    "mean": -0.0023676648710550773,
+    "sd": 0.000546988507723841,
+    "n": 2,
+    "paired_values": [
+      -0.0027544441540977155,
+      -0.001980885588012439
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "fine_sam_miou",
+    "mean": 0.0010080901054710968,
+    "sd": 0.01550764577347536,
+    "n": 2,
+    "paired_values": [
+      0.011973651592134427,
+      -0.009957471381192233
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "fine_sam_miou",
+    "mean": 0.0007926007052210249,
+    "sd": 0.008887147234534695,
+    "n": 2,
+    "paired_values": [
+      0.007076762780163781,
+      -0.005491561369721731
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "fine_sam_miou",
+    "mean": 0.003759002208258852,
+    "sd": 0.00685763040427109,
+    "n": 2,
+    "paired_values": [
+      -0.001090074753472281,
+      0.008608079169989985
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "fine_sam_miou",
+    "mean": 0.012300970249002063,
+    "sd": 0.012693306027360247,
+    "n": 2,
+    "paired_values": [
+      0.02127649301662457,
+      0.0033254474813795565
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "fine_sam_miou",
+    "mean": 0.0033697596739439978,
+    "sd": 0.035660131416828965,
+    "n": 2,
+    "paired_values": [
+      0.028585280416787207,
+      -0.02184576106889921
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "fine_sam_miou",
+    "mean": -0.009102946798523984,
+    "sd": 0.015308629066974878,
+    "n": 2,
+    "paired_values": [
+      -0.01992778222245141,
+      0.0017218886254034421
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "fine_sam_miou",
+    "mean": 0.001229479329910084,
+    "sd": 0.008316024766110616,
+    "n": 2,
+    "paired_values": [
+      -0.004650838174722005,
+      0.007109796834542173
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "fine_sam_miou",
+    "mean": 0.00867138741319657,
+    "sd": 0.008668688145593137,
+    "n": 2,
+    "paired_values": [
+      0.0025416992414562245,
+      0.014801075584936915
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.0001889892628286231,
+    "sd": 0.014679398993802521,
+    "n": 2,
+    "paired_values": [
+      0.01056889183508937,
+      -0.010190913309432123
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.001606744716177202,
+    "sd": 0.003299392220595377,
+    "n": 2,
+    "paired_values": [
+      -0.0007262778967999303,
+      0.003939767329154334
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "small_fine_sam_miou",
+    "mean": -0.004568325799260355,
+    "sd": 0.009794836333673795,
+    "n": 2,
+    "paired_values": [
+      0.0023576693928927667,
+      -0.011494320991413476
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "small_fine_sam_miou",
+    "mean": -0.0017934479014469137,
+    "sd": 0.013625366916889703,
+    "n": 2,
+    "paired_values": [
+      0.007841141441640637,
+      -0.011428037244534464
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.00830344537521326,
+    "sd": 0.01108836589354353,
+    "n": 2,
+    "paired_values": [
+      0.0004627866596109975,
+      0.01614410409081552
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.008318804907173204,
+    "sd": 0.0010131975324769906,
+    "n": 2,
+    "paired_values": [
+      0.0076023660612772465,
+      0.009035243753069161
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.009215508990881527,
+    "sd": 0.022587289036299325,
+    "n": 2,
+    "paired_values": [
+      0.025187134237069336,
+      -0.006756116255306283
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "small_fine_sam_miou",
+    "mean": -0.020160968022809096,
+    "sd": 0.0005525821868714311,
+    "n": 2,
+    "paired_values": [
+      -0.019770233411309415,
+      -0.020551702634308777
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "small_fine_sam_miou",
+    "mean": -0.007780107928014091,
+    "sd": 0.005485538199533837,
+    "n": 2,
+    "paired_values": [
+      -0.011658969187362311,
+      -0.0039012466686658698
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "small_fine_sam_miou",
+    "mean": 0.009578167718609096,
+    "sd": 0.018955421391604502,
+    "n": 2,
+    "paired_values": [
+      -0.00382533928764299,
+      0.022981674724861182
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "old_psnr",
+    "mean": 0.3709054550829549,
+    "sd": 0.359831363877979,
+    "n": 2,
+    "paired_values": [
+      0.11646625760123186,
+      0.625344652564678
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "old_psnr",
+    "mean": -0.06363290659335252,
+    "sd": 0.03651758009729773,
+    "n": 2,
+    "paired_values": [
+      -0.08945473511267465,
+      -0.03781107807403039
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "old_psnr",
+    "mean": 0.7493168867545892,
+    "sd": 0.24000211364673593,
+    "n": 2,
+    "paired_values": [
+      0.9190240088133006,
+      0.5796097646958778
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "old_psnr",
+    "mean": 0.0934613658416783,
+    "sd": 0.5151005016997435,
+    "n": 2,
+    "paired_values": [
+      -0.2707696919028031,
+      0.4576924235861597
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "old_psnr",
+    "mean": -0.18961030043731775,
+    "sd": 0.13418956453120495,
+    "n": 2,
+    "paired_values": [
+      -0.0947239493928329,
+      -0.2844966514818026
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "old_psnr",
+    "mean": 0.11593343339505502,
+    "sd": 0.6017616436590848,
+    "n": 2,
+    "paired_values": [
+      0.5414431722843567,
+      -0.30957630549424664
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "old_psnr",
+    "mean": 0.6077411454852406,
+    "sd": 0.16973938969039842,
+    "n": 2,
+    "paired_values": [
+      0.4877172720006939,
+      0.7277650189697873
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "old_psnr",
+    "mean": 0.6788102600332433,
+    "sd": 0.3329289638437531,
+    "n": 2,
+    "paired_values": [
+      0.4433939320459146,
+      0.914226588020572
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "old_psnr",
+    "mean": -0.3360018589978946,
+    "sd": 0.04917580692393929,
+    "n": 2,
+    "paired_values": [
+      -0.30122931245165674,
+      -0.37077440554413243
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "old_psnr",
+    "mean": -0.033068468203271806,
+    "sd": 0.7011283718244737,
+    "n": 2,
+    "paired_values": [
+      0.46270415799609665,
+      -0.5288410944026403
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.013640729261745883,
+    "sd": 0.020979538521468475,
+    "n": 2,
+    "paired_values": [
+      0.0011940446929488702,
+      -0.028475503216440635
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.017770687648958002,
+    "sd": 0.007147114051796709,
+    "n": 2,
+    "paired_values": [
+      -0.022824460460897117,
+      -0.012716914837018888
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "old_fine_sam_miou",
+    "mean": 0.009055875365319158,
+    "sd": 0.008754493715374267,
+    "n": 2,
+    "paired_values": [
+      0.015246237237315316,
+      0.0028655134933230006
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.026570660209691746,
+    "sd": 0.01884221934116959,
+    "n": 2,
+    "paired_values": [
+      -0.039894121278437084,
+      -0.013247199140946408
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.030205936569169367,
+    "sd": 0.05738837832685796,
+    "n": 2,
+    "paired_values": [
+      -0.07078564804538973,
+      0.010373774907050992
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "old_fine_sam_miou",
+    "mean": 0.0006688371637284668,
+    "sd": 0.034099660483128666,
+    "n": 2,
+    "paired_values": [
+      -0.023443264000050756,
+      0.02478093832750769
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.01827498260337236,
+    "sd": 0.015012694994196949,
+    "n": 2,
+    "paired_values": [
+      -0.007659404169090361,
+      -0.02889056103765436
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.021058700608578902,
+    "sd": 0.03963464474834728,
+    "n": 2,
+    "paired_values": [
+      -0.049084626680055046,
+      0.006967225462897242
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.012962279171337548,
+    "sd": 0.024860424595230652,
+    "n": 2,
+    "paired_values": [
+      -0.030541253985801972,
+      0.004616695643126875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "old_fine_sam_miou",
+    "mean": -0.011972915115868558,
+    "sd": 0.045699437420077045,
+    "n": 2,
+    "paired_values": [
+      -0.0442872972120153,
+      0.02034146698027818
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "old_psnr_change",
+    "mean": 0.02496626417826686,
+    "sd": 0.4632712370641694,
+    "n": 2,
+    "paired_values": [
+      -0.302615969078488,
+      0.3525484974350217
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "old_psnr_change",
+    "mean": 0.47869314842183286,
+    "sd": 0.04188985465407031,
+    "n": 2,
+    "paired_values": [
+      0.4490725481330209,
+      0.5083137487106448
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "old_psnr_change",
+    "mean": 0.7791670008973144,
+    "sd": 0.28278768207292476,
+    "n": 2,
+    "paired_values": [
+      0.979128088527105,
+      0.5792059132675238
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "old_psnr_change",
+    "mean": -0.2713723152960643,
+    "sd": 0.8379776678208125,
+    "n": 2,
+    "paired_values": [
+      -0.863912006695049,
+      0.32116737610292034
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "old_psnr_change",
+    "mean": 0.40485782160544126,
+    "sd": 0.15149606057449042,
+    "n": 2,
+    "paired_values": [
+      0.2977339298501711,
+      0.5119817133607114
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "old_psnr_change",
+    "mean": 0.1261048012895234,
+    "sd": 0.58980061668638,
+    "n": 2,
+    "paired_values": [
+      0.5431568168964702,
+      -0.29094721431742343
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "old_psnr_change",
+    "mean": 0.7847546629316806,
+    "sd": 0.22386531550893685,
+    "n": 2,
+    "paired_values": [
+      0.6264579802628454,
+      0.9430513456005158
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "old_psnr_change",
+    "mean": 0.7809600438828017,
+    "sd": 0.7898336654268964,
+    "n": 2,
+    "paired_values": [
+      0.2224633030500165,
+      1.339456784715587
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "old_psnr_change",
+    "mean": -0.3774937016999971,
+    "sd": 0.04340461564085408,
+    "n": 2,
+    "paired_values": [
+      -0.34680200364555347,
+      -0.4081853997544407
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "old_psnr_change",
+    "mean": 0.06751280361588208,
+    "sd": 0.5736050653132999,
+    "n": 2,
+    "paired_values": [
+      0.47311283502186896,
+      -0.3380872277901048
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "old_fine_change",
+    "mean": -0.010666961748832152,
+    "sd": 0.007569289211579743,
+    "n": 2,
+    "paired_values": [
+      -0.005314666018561939,
+      -0.016019257479102364
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "old_fine_change",
+    "mean": -0.0003811629971133823,
+    "sd": 0.02536022312266042,
+    "n": 2,
+    "paired_values": [
+      0.017551222745323683,
+      -0.018313548739550448
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "old_fine_change",
+    "mean": 0.006038120858615582,
+    "sd": 0.0015926172911399224,
+    "n": 2,
+    "paired_values": [
+      0.0071642713450155715,
+      0.004911970372215593
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "old_fine_change",
+    "mean": -0.0002044964763363022,
+    "sd": 0.0410462554289945,
+    "n": 2,
+    "paired_values": [
+      -0.029228582032493455,
+      0.02881958907982085
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "old_fine_change",
+    "mean": 0.007126512201138427,
+    "sd": 0.02770052552327522,
+    "n": 2,
+    "paired_values": [
+      -0.012460717238800517,
+      0.02671374164107737
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "old_fine_change",
+    "mean": 0.004741896769364817,
+    "sd": 0.03930811295987726,
+    "n": 2,
+    "paired_values": [
+      -0.023053136460211204,
+      0.03253692999894084
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "old_fine_change",
+    "mean": 0.005621904384076379,
+    "sd": 0.02139115521442228,
+    "n": 2,
+    "paired_values": [
+      0.02074773529360835,
+      -0.009503926525455592
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "old_fine_change",
+    "mean": 0.008634456288592093,
+    "sd": 0.04764458862453489,
+    "n": 2,
+    "paired_values": [
+      -0.025055355414659974,
+      0.04232426799184416
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "old_fine_change",
+    "mean": -0.008973342286413055,
+    "sd": 0.02332455183469798,
+    "n": 2,
+    "paired_values": [
+      -0.025466291056865126,
+      0.007519606484039015
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "old_fine_change",
+    "mean": -0.014882922434901136,
+    "sd": 0.03221495984542077,
+    "n": 2,
+    "paired_values": [
+      -0.037662338997250494,
+      0.007896494127448223
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "gaussians",
+    "mean": 30.375,
+    "sd": 39.067649660556754,
+    "n": 2,
+    "paired_values": [
+      2.75,
+      58.0
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "gaussians",
+    "mean": -311.125,
+    "sd": 27.75394116157199,
+    "n": 2,
+    "paired_values": [
+      -330.75,
+      -291.5
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "gaussians",
+    "mean": -56.375,
+    "sd": 1.9445436482630056,
+    "n": 2,
+    "paired_values": [
+      -57.75,
+      -55.0
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "gaussians",
+    "mean": -25.5,
+    "sd": 118.08683245815344,
+    "n": 2,
+    "paired_values": [
+      -109,
+      58
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "gaussians",
+    "mean": -366.5,
+    "sd": 45.96194077712559,
+    "n": 2,
+    "paired_values": [
+      -399,
+      -334
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "gaussians",
+    "mean": -111.5,
+    "sd": 14.849242404917497,
+    "n": 2,
+    "paired_values": [
+      -122,
+      -101
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "gaussians",
+    "mean": -367.5,
+    "sd": 55.86143571373726,
+    "n": 2,
+    "paired_values": [
+      -407,
+      -328
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "gaussians",
+    "mean": -25.75,
+    "sd": 97.22718241315029,
+    "n": 2,
+    "paired_values": [
+      -94.5,
+      43.0
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "gaussians",
+    "mean": -25.25,
+    "sd": 86.62058069535207,
+    "n": 2,
+    "paired_values": [
+      -86.5,
+      36.0
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "gaussians",
+    "mean": -24.25,
+    "sd": 35.0017856687341,
+    "n": 2,
+    "paired_values": [
+      0.5,
+      -49.0
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "mapping_seconds",
+    "mean": 2.5798547943754784,
+    "sd": 0.9050170825005432,
+    "n": 2,
+    "paired_values": [
+      3.2197985105012776,
+      1.9399110782496791
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "mapping_seconds",
+    "mean": -0.45670019987710475,
+    "sd": 0.7638336478991865,
+    "n": 2,
+    "paired_values": [
+      -0.9968121520050772,
+      0.08341175225086772
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "mapping_seconds",
+    "mean": 1.3499431036220813,
+    "sd": 1.9794695650834144,
+    "n": 2,
+    "paired_values": [
+      -0.049753249000787036,
+      2.7496394562449495
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "mapping_seconds",
+    "mean": 3.950056355997731,
+    "sd": 0.9342864707038454,
+    "n": 2,
+    "paired_values": [
+      3.289416056992195,
+      4.610696655003267
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "mapping_seconds",
+    "mean": 2.342355939996196,
+    "sd": 1.5707769442425992,
+    "n": 2,
+    "paired_values": [
+      1.2316489109907707,
+      3.4530629690016212
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "mapping_seconds",
+    "mean": 3.348431204491135,
+    "sd": 3.159563123905803,
+    "n": 2,
+    "paired_values": [
+      1.1142826939903898,
+      5.58257971499188
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "mapping_seconds",
+    "mean": 4.390656805493563,
+    "sd": 1.0544059501879208,
+    "n": 2,
+    "paired_values": [
+      3.6450792079922394,
+      5.136234402994887
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "mapping_seconds",
+    "mean": 1.2532104932533912,
+    "sd": 2.2500334710195498,
+    "n": 2,
+    "paired_values": [
+      -0.3378034320012375,
+      2.84422441850802
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "mapping_seconds",
+    "mean": -0.34792558475510305,
+    "sd": 2.9963339959775013,
+    "n": 2,
+    "paired_values": [
+      -2.4666536720105796,
+      1.7708025025003735
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "mapping_seconds",
+    "mean": 2.5097835717469934,
+    "sd": 0.9316134822555491,
+    "n": 2,
+    "paired_values": [
+      1.8510333609992813,
+      3.1685337824947055
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "update_p95_ms",
+    "mean": 4.61057051759325,
+    "sd": 4.080058214704277,
+    "n": 2,
+    "paired_values": [
+      7.495607348846523,
+      1.7255336863399773
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "update_p95_ms",
+    "mean": 1.7604912304932467,
+    "sd": 2.309026425432391,
+    "n": 2,
+    "paired_values": [
+      3.3932194738554244,
+      0.12776298713106904
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "update_p95_ms",
+    "mean": -4.520270443504159,
+    "sd": 3.4646947899285157,
+    "n": 2,
+    "paired_values": [
+      -6.970179624204313,
+      -2.0703612628040045
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "update_p95_ms",
+    "mean": 2.208157197128447,
+    "sd": 2.8045288260381205,
+    "n": 2,
+    "paired_values": [
+      4.191258548053149,
+      0.22505584620374464
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "update_p95_ms",
+    "mean": -0.4469785518267635,
+    "sd": 1.909406524617813,
+    "n": 2,
+    "paired_values": [
+      0.9031757497723305,
+      -1.7971328534258575
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "update_p95_ms",
+    "mean": -11.2523877757667,
+    "sd": 9.095845911991024,
+    "n": 2,
+    "paired_values": [
+      -17.68412210076349,
+      -4.82065345076991
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "update_p95_ms",
+    "mean": 0.2271775228109476,
+    "sd": 2.215951914244811,
+    "n": 2,
+    "paired_values": [
+      1.7940921481567642,
+      -1.339737102534869
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "update_p95_ms",
+    "mean": 3.7458480112491177,
+    "sd": 4.6644397685451136,
+    "n": 2,
+    "paired_values": [
+      7.044105002023578,
+      0.4475910204746576
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "update_p95_ms",
+    "mean": -5.303447088635945,
+    "sd": 5.798622673950747,
+    "n": 2,
+    "paired_values": [
+      -9.403692502928589,
+      -1.2032016743433012
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "update_p95_ms",
+    "mean": -4.913560012346357,
+    "sd": 4.0468036982475875,
+    "n": 2,
+    "paired_values": [
+      -7.7750823495080255,
+      -2.052037675184689
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "gpu_update_peak_mib",
+    "mean": -0.725830078125,
+    "sd": 0.11048543456039805,
+    "n": 2,
+    "paired_values": [
+      -0.803955078125,
+      -0.647705078125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "gpu_update_peak_mib",
+    "mean": -0.9228515625,
+    "sd": 0.438834335394581,
+    "n": 2,
+    "paired_values": [
+      -0.612548828125,
+      -1.233154296875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "gpu_update_peak_mib",
+    "mean": 1.3885498046875,
+    "sd": 0.23081097813633156,
+    "n": 2,
+    "paired_values": [
+      1.5517578125,
+      1.225341796875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "gpu_update_peak_mib",
+    "mean": -0.438720703125,
+    "sd": 1.4767068862963202,
+    "n": 2,
+    "paired_values": [
+      -1.48291015625,
+      0.60546875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "gpu_update_peak_mib",
+    "mean": 1.102294921875,
+    "sd": 1.0299314102927106,
+    "n": 2,
+    "paired_values": [
+      1.83056640625,
+      0.3740234375
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "gpu_update_peak_mib",
+    "mean": 3.376953125,
+    "sd": 1.163549732714192,
+    "n": 2,
+    "paired_values": [
+      2.55419921875,
+      4.19970703125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "gpu_update_peak_mib",
+    "mean": 0.601318359375,
+    "sd": 1.4380369842001808,
+    "n": 2,
+    "paired_values": [
+      -0.41552734375,
+      1.6181640625
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "gpu_update_peak_mib",
+    "mean": -0.53759765625,
+    "sd": 2.6164331971834263,
+    "n": 2,
+    "paired_values": [
+      1.3125,
+      -2.3876953125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "gpu_update_peak_mib",
+    "mean": -0.611083984375,
+    "sd": 1.3544823743138799,
+    "n": 2,
+    "paired_values": [
+      -1.56884765625,
+      0.3466796875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "gpu_update_peak_mib",
+    "mean": 2.864990234375,
+    "sd": 2.5601546789542238,
+    "n": 2,
+    "paired_values": [
+      4.67529296875,
+      1.0546875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": -0.725830078125,
+    "sd": 0.11048543456039805,
+    "n": 2,
+    "paired_values": [
+      -0.803955078125,
+      -0.647705078125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": -0.9228515625,
+    "sd": 0.438834335394581,
+    "n": 2,
+    "paired_values": [
+      -0.612548828125,
+      -1.233154296875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 1.3885498046875,
+    "sd": 0.23081097813633156,
+    "n": 2,
+    "paired_values": [
+      1.5517578125,
+      1.225341796875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": -0.438720703125,
+    "sd": 1.4767068862963202,
+    "n": 2,
+    "paired_values": [
+      -1.48291015625,
+      0.60546875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 1.102294921875,
+    "sd": 1.0299314102927106,
+    "n": 2,
+    "paired_values": [
+      1.83056640625,
+      0.3740234375
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 3.376953125,
+    "sd": 1.163549732714192,
+    "n": 2,
+    "paired_values": [
+      2.55419921875,
+      4.19970703125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 0.601318359375,
+    "sd": 1.4380369842001808,
+    "n": 2,
+    "paired_values": [
+      -0.41552734375,
+      1.6181640625
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": -0.53759765625,
+    "sd": 2.6164331971834263,
+    "n": 2,
+    "paired_values": [
+      1.3125,
+      -2.3876953125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": -0.611083984375,
+    "sd": 1.3544823743138799,
+    "n": 2,
+    "paired_values": [
+      -1.56884765625,
+      0.3466796875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "evaluation_gpu_peak_mib",
+    "mean": 2.864990234375,
+    "sd": 2.5601546789542238,
+    "n": 2,
+    "paired_values": [
+      4.67529296875,
+      1.0546875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -0.544921875,
+    "sd": 6.344626079630858,
+    "n": 2,
+    "paired_values": [
+      3.94140625,
+      -5.03125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 37.7021484375,
+    "sd": 2.6281722746054688,
+    "n": 2,
+    "paired_values": [
+      35.84375,
+      39.560546875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "cpu_rss_peak_mib",
+    "mean": -3.7392578125,
+    "sd": 1.9127790858268912,
+    "n": 2,
+    "paired_values": [
+      -5.091796875,
+      -2.38671875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 5.16796875,
+    "sd": 1.2429611388044781,
+    "n": 2,
+    "paired_values": [
+      6.046875,
+      4.2890625
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 41.2421875,
+    "sd": 3.629446525309076,
+    "n": 2,
+    "paired_values": [
+      38.67578125,
+      43.80859375
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 2.021484375,
+    "sd": 7.007538686993247,
+    "n": 2,
+    "paired_values": [
+      -2.93359375,
+      6.9765625
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 35.853515625,
+    "sd": 1.936257240670976,
+    "n": 2,
+    "paired_values": [
+      37.22265625,
+      34.484375
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 1.056640625,
+    "sd": 1.14076211183611,
+    "n": 2,
+    "paired_values": [
+      0.25,
+      1.86328125
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 5.498046875,
+    "sd": 9.327732812761605,
+    "n": 2,
+    "paired_values": [
+      -1.09765625,
+      12.09375
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "cpu_rss_peak_mib",
+    "mean": 1.15234375,
+    "sd": 1.1269514325160601,
+    "n": 2,
+    "paired_values": [
+      0.35546875,
+      1.94921875
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "process_seconds",
+    "mean": 3.0759830897509346,
+    "sd": 0.28295644671166253,
+    "n": 2,
+    "paired_values": [
+      2.875902667500668,
+      3.276063512001201
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "process_seconds",
+    "mean": 0.46072859799960497,
+    "sd": 1.2550747293209659,
+    "n": 2,
+    "paired_values": [
+      -0.4267432539991205,
+      1.3482004499983304
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "process_seconds",
+    "mean": 1.9291782207515098,
+    "sd": 0.8621025112051165,
+    "n": 2,
+    "paired_values": [
+      1.3195796890004203,
+      2.5387767525025993
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "process_seconds",
+    "mean": 5.39400013750128,
+    "sd": 1.132113981648666,
+    "n": 2,
+    "paired_values": [
+      6.194525611001154,
+      4.5934746640014055
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "process_seconds",
+    "mean": 4.121576963498228,
+    "sd": 0.15879869701126267,
+    "n": 2,
+    "paired_values": [
+      4.23386459899848,
+      4.009289327997976
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "process_seconds",
+    "mean": 2.8648987135002244,
+    "sd": 1.2198256592183316,
+    "n": 2,
+    "paired_values": [
+      3.7274457089988573,
+      2.0023517180015915
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "process_seconds",
+    "mean": 5.755980231002468,
+    "sd": 0.6838287212994377,
+    "n": 2,
+    "paired_values": [
+      5.27244030500151,
+      6.239520157003426
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "process_seconds",
+    "mean": 4.753054597999835,
+    "sd": 0.9692892816691983,
+    "n": 2,
+    "paired_values": [
+      4.0676635740001075,
+      5.438445621999563
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "process_seconds",
+    "mean": -0.6972011474999817,
+    "sd": 0.36682020651324115,
+    "n": 2,
+    "paired_values": [
+      -0.43782009199821914,
+      -0.9565822030017443
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "process_seconds",
+    "mean": 1.9884614879965739,
+    "sd": 0.3644262024570409,
+    "n": 2,
+    "paired_values": [
+      2.246149726996009,
+      1.7307732489971386
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_S",
+    "metric": "controller_seconds_cumulative",
+    "mean": 2.9825000711152825,
+    "sd": 0.7671333447322031,
+    "n": 2,
+    "paired_values": [
+      3.5249452612497407,
+      2.4400548809808242
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_B",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.08865545418666443,
+    "sd": 0.7069839382387927,
+    "n": 2,
+    "paired_values": [
+      -0.4112576827319572,
+      0.588568591105286
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "main_R",
+    "metric": "controller_seconds_cumulative",
+    "mean": 1.490877102100967,
+    "sd": 1.415006110140164,
+    "n": 2,
+    "paired_values": [
+      0.4903166862004582,
+      2.491437518001476
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_011_S",
+    "metric": "controller_seconds_cumulative",
+    "mean": 3.6982904331725877,
+    "sd": 0.7437520428237913,
+    "n": 2,
+    "paired_values": [
+      3.1723783201705373,
+      4.224202546174638
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_101_B",
+    "metric": "controller_seconds_cumulative",
+    "mean": 1.9898974161842489,
+    "sd": 1.401127442665817,
+    "n": 2,
+    "paired_values": [
+      0.9991507001686841,
+      2.9806441321998136
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_110_R",
+    "metric": "controller_seconds_cumulative",
+    "mean": 2.9454869210640027,
+    "sd": 2.501066390654373,
+    "n": 2,
+    "paired_values": [
+      1.1769659160345327,
+      4.714007926093473
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "111_minus_000",
+    "metric": "controller_seconds_cumulative",
+    "mean": 5.028541386591314,
+    "sd": 0.6863627326306009,
+    "n": 2,
+    "paired_values": [
+      4.543209643994487,
+      5.513873129188141
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SB",
+    "metric": "controller_seconds_cumulative",
+    "mean": 0.6959137459034537,
+    "sd": 1.7874625824849626,
+    "n": 2,
+    "paired_values": [
+      -0.568013167288882,
+      1.9598406590957893
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_SR",
+    "metric": "controller_seconds_cumulative",
+    "mean": -0.1973505401656439,
+    "sd": 2.571296134659332,
+    "n": 2,
+    "paired_values": [
+      -2.0155314734220156,
+      1.6208303930907277
+    ]
+  },
+  {
+    "dataset": "kitchen",
+    "contrast": "interaction_BR",
+    "metric": "controller_seconds_cumulative",
+    "mean": 2.1735526597149146,
+    "sd": 0.9378123684013917,
+    "n": 2,
+    "paired_values": [
+      1.5104191745376738,
+      2.8366861448921554
+    ]
+  }
+]

@@ -1,0 +1,190 @@
+{
+  "timestamp": 1791390932.752252,
+  "reason": "User permits fewer random seeds; preserve first two complete paired seeds before inspecting aggregate results, use resources for method refinement.",
+  "retained_seeds": [
+    7,
+    17
+  ],
+  "original_seeds": [
+    7,
+    17,
+    27
+  ],
+  "completed_before": [
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "011"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "000"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "101"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "010"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "110"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "001"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "100"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "111"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "011"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "110"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "100"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "000"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "101"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "111"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "001"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "010"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "100"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "110"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "111"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "011"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "000"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "101"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "001"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "010"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "000"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "001"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "010"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "110"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "011"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "111"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "101"
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "100"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 27,
+      "factors": "101"
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 27,
+      "factors": "100"
+    }
+  ],
+  "excluded_partial": {
+    "dataset": "tum-desk",
+    "seed": 27,
+    "factors": "000"
+  }
+}

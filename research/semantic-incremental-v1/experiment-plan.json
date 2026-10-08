@@ -1,0 +1,31 @@
+{
+  "width": 640,
+  "cap": 300000,
+  "stages": 6,
+  "steps": 600,
+  "seeds": [
+    7,
+    17
+  ],
+  "datasets": [
+    {
+      "name": "tum-desk",
+      "data": "/content/semantic-incremental/data/tum640/manifest.json"
+    },
+    {
+      "name": "kitchen",
+      "data": "/content/mip360/kitchen"
+    }
+  ],
+  "factors": [
+    "semantic_sampling",
+    "hierarchical_budget",
+    "coverage_replay"
+  ],
+  "replay_probability": 0.3,
+  "replay_capacity": 48,
+  "rgb_cache_capacity": 32,
+  "crop_width": 384,
+  "crop_height": 256,
+  "semantic_supervision": "SAM2/CLIP pseudo labels, not human ground truth"
+}

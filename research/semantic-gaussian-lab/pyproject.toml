@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "semantic-gaussian-lab"
+version = "0.1.0"
+description = "Budgeted incremental RGB-D Gaussian fusion with semantic and instance mapping"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24,<3", "Pillow>=10,<13"]
+
+[project.optional-dependencies]
+segmentation = ["torch>=2.2,<3", "torchvision>=0.17,<1", "transformers>=4.44,<5", "scipy>=1.11,<2", "timm>=1,<2"]
+
+[project.scripts]
+sglab = "sglab.__main__:main"
+
+[tool.setuptools]
+packages = ["sglab", "sglab.web"]
+
+[tool.setuptools.package-data]
+"sglab.web" = ["*.html", "*.js", "*.css"]

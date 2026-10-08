@@ -1,0 +1,335 @@
+{
+  "passed": true,
+  "runs": 32,
+  "frozen_sources_unchanged": true,
+  "paired_pixels_equal": true,
+  "all_checkpoint_numeric_checks": true,
+  "checks": [
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "000",
+      "checkpoint": {
+        "gaussians": 299258,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "001",
+      "checkpoint": {
+        "gaussians": 298946,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "010",
+      "checkpoint": {
+        "gaussians": 299015,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "011",
+      "checkpoint": {
+        "gaussians": 298893,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "100",
+      "checkpoint": {
+        "gaussians": 299335,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "101",
+      "checkpoint": {
+        "gaussians": 299097,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "110",
+      "checkpoint": {
+        "gaussians": 298948,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 7,
+      "factors": "111",
+      "checkpoint": {
+        "gaussians": 298800,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "000",
+      "checkpoint": {
+        "gaussians": 299131,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "001",
+      "checkpoint": {
+        "gaussians": 299005,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "010",
+      "checkpoint": {
+        "gaussians": 299037,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "011",
+      "checkpoint": {
+        "gaussians": 298723,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "100",
+      "checkpoint": {
+        "gaussians": 299075,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "101",
+      "checkpoint": {
+        "gaussians": 298912,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "110",
+      "checkpoint": {
+        "gaussians": 299064,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "tum-desk",
+      "seed": 17,
+      "factors": "111",
+      "checkpoint": {
+        "gaussians": 298902,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "000",
+      "checkpoint": {
+        "gaussians": 299532,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "001",
+      "checkpoint": {
+        "gaussians": 299519,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "010",
+      "checkpoint": {
+        "gaussians": 299455,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "011",
+      "checkpoint": {
+        "gaussians": 299337,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "100",
+      "checkpoint": {
+        "gaussians": 299527,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "101",
+      "checkpoint": {
+        "gaussians": 299520,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "110",
+      "checkpoint": {
+        "gaussians": 299372,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 7,
+      "factors": "111",
+      "checkpoint": {
+        "gaussians": 299341,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "000",
+      "checkpoint": {
+        "gaussians": 299496,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "001",
+      "checkpoint": {
+        "gaussians": 299468,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "010",
+      "checkpoint": {
+        "gaussians": 299409,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "011",
+      "checkpoint": {
+        "gaussians": 299395,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "100",
+      "checkpoint": {
+        "gaussians": 299530,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "101",
+      "checkpoint": {
+        "gaussians": 299580,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "110",
+      "checkpoint": {
+        "gaussians": 299363,
+        "finite": true,
+        "semantic_identity": true
+      }
+    },
+    {
+      "dataset": "kitchen",
+      "seed": 17,
+      "factors": "111",
+      "checkpoint": {
+        "gaussians": 299313,
+        "finite": true,
+        "semantic_identity": true
+      }
+    }
+  ],
+  "qualifications": [
+    "N=2 seeds: descriptive uncertainty, no significance or SOTA claim",
+    "TUM known GT poses; kitchen offline COLMAP inputs",
+    "SAM pseudo-region agreement is not human-annotated semantic/part accuracy",
+    "Whole-GPU nvidia-smi 1 Hz samples can miss brief peaks; first observed job is partially covered"
+  ]
+}

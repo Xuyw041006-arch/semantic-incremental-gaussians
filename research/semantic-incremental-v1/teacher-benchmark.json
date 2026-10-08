@@ -1,0 +1,51 @@
+{
+  "device": "Tesla T4",
+  "model_load_seconds": 4.40679352600273,
+  "frames": [
+    {
+      "dataset": "tum-desk",
+      "frame": 0,
+      "masks": 17,
+      "seconds": 2.843499418999272,
+      "gpu_allocated_peak_mib": 2441.5751953125
+    },
+    {
+      "dataset": "tum-desk",
+      "frame": 7,
+      "masks": 24,
+      "seconds": 3.1708165449999797,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "tum-desk",
+      "frame": 14,
+      "masks": 33,
+      "seconds": 2.404405807999865,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 1,
+      "masks": 28,
+      "seconds": 2.361854659000528,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 7,
+      "masks": 42,
+      "seconds": 2.5263257670012536,
+      "gpu_allocated_peak_mib": 2444.70263671875
+    },
+    {
+      "dataset": "kitchen",
+      "frame": 14,
+      "masks": 39,
+      "seconds": 4.549734988002456,
+      "gpu_allocated_peak_mib": 2445.220703125
+    }
+  ],
+  "whole_gpu_sampled_peak_mib": 2995.0,
+  "whole_gpu_sampling_interval_seconds": 0.2,
+  "qualification": "Separate isolated SAM+CLIP benchmark after mapping; includes RGB load and crops; excludes pose estimation. First frame includes warm-up."
+}

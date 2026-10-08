@@ -1,0 +1,5 @@
+variant,gaussians,capacity_mib,update_p50_ms,update_p95_ms,peak_rss_mib,rejected_observations
+cap-8000,8000,0.61,4.699,15.377,65.34,113774
+cap-24000,20396,1.831,8.779,15.697,66.28,0
+cap-50000,20396,3.815,8.814,15.305,65.08,0
+no-freeze-24000,20396,1.831,15.982,17.508,66.11,0

@@ -1,0 +1,21 @@
+{
+  "state": "complete",
+  "config": {
+    "video": "/content/video-gaussian-priority/results/rgb-video-06-stable/source-input.mp4",
+    "video_sha256": "0cad78d40c44b5a067aea50bf557d9a92e7ce97fbd3dd282fb16c7b933cbac5f",
+    "source_sha256": "6f23960f7119d987aec48563d19c0283dd329a1fb77639dbd221610c2cd34640",
+    "cap": 500000,
+    "steps": 2400,
+    "stages": 4,
+    "width": 640,
+    "seed": 7,
+    "stability_mode": "mature"
+  },
+  "stages": {
+    "train": {
+      "state": "complete",
+      "seconds": 114.58352194999998
+    }
+  },
+  "qualification": "Exploratory schedule correction; same input/steps/cap/seed, actual point counts and optimized pixels may differ"
+}

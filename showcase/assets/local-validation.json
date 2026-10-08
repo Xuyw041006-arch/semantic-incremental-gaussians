@@ -1,0 +1,32 @@
+{
+  "state": "passed",
+  "checkpoint_step": 9600,
+  "gaussians": 498621,
+  "cap": 500000,
+  "archive_sha256_passed": true,
+  "checkpoint_zip_crc_passed": true,
+  "all_parameters_finite": true,
+  "map_matches_fp32_checkpoint_within_export_precision": true,
+  "scales_recomputed_max_float16_ulps": 1,
+  "scales_recomputed_one_ulp_count": 84,
+  "opacity_recomputed_max_float16_ulps": 1,
+  "semantic_ids_match": true,
+  "adam_moment_tensors": 14,
+  "all_adam_moments_finite": true,
+  "youngest_global_update_age": 899,
+  "younger_than_500_global_updates": 0,
+  "fit_observation_percentiles": [
+    0.0,
+    516.0,
+    961.0,
+    1751.0,
+    7438.0
+  ],
+  "all_stage_splat_sizes_match": true,
+  "all_settle_views_balanced": true,
+  "no_topology_change_during_warmup_or_settle": true,
+  "cpu_tests": 16,
+  "cuda_regression_groups": 2,
+  "checkpoint_sha256": "244cf972cbaf7d097772f40ea51c4fc52b053565a53dea16f27ea8e22d0f946b",
+  "packaged_python_matches_frozen_experiment": true
+}

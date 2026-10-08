@@ -1,0 +1,24 @@
+ALL_32_RUNS_AUDITED: equal steps, caps and optimized pixel budgets; no future teacher input
+tum-desk
+000 PSNR 19.695 fine SAM 0.3441 old delta -1.877 p95 ms 29.57
+001 PSNR 19.961 fine SAM 0.3433 old delta -1.264 p95 ms 30.09
+010 PSNR 19.666 fine SAM 0.3473 old delta -1.795 p95 ms 29.35
+011 PSNR 19.888 fine SAM 0.346 old delta -1.22 p95 ms 30.05
+100 PSNR 19.555 fine SAM 0.3507 old delta -2.166 p95 ms 30.74
+101 PSNR 19.989 fine SAM 0.3561 old delta -1.547 p95 ms 30.88
+110 PSNR 19.736 fine SAM 0.346 old delta -1.71 p95 ms 30.17
+111 PSNR 19.91 fine SAM 0.3511 old delta -1.001 p95 ms 30.99
+kitchen
+000 PSNR 24.745 fine SAM 0.2251 old delta -0.149 p95 ms 28.8
+001 PSNR 25.729 fine SAM 0.2287 old delta 2.954 p95 ms 28.81
+010 PSNR 24.966 fine SAM 0.2127 old delta 0.415 p95 ms 28.85
+011 PSNR 25.649 fine SAM 0.2164 old delta 2.757 p95 ms 28.68
+100 PSNR 25.149 fine SAM 0.2386 old delta 1.173 p95 ms 29.93
+101 PSNR 25.746 fine SAM 0.2278 old delta 2.543 p95 ms 29.64
+110 PSNR 25.006 fine SAM 0.2187 old delta 0.571 p95 ms 29.75
+111 PSNR 25.637 fine SAM 0.2305 old delta 2.304 p95 ms 29.49
+MATCHED_REPLAY_CONTROL_COMPLETE tum-desk 7 {'dataset': 'tum-desk', 'seed': 7, 'delta': {'psnr': -0.053232561500209385, 'old_psnr': -0.16844217320073795, 'fine_sam_miou': -0.004020553304492247}}
+MATCHED_REPLAY_CONTROL_COMPLETE tum-desk 17 {'dataset': 'tum-desk', 'seed': 17, 'delta': {'psnr': -0.03859782040244397, 'old_psnr': -0.4221285333095963, 'fine_sam_miou': 0.00448096116456953}}
+MATCHED_REPLAY_CONTROL_COMPLETE kitchen 7 {'dataset': 'kitchen', 'seed': 7, 'delta': {'psnr': 0.4458529252543961, 'old_psnr': 0.7769944742019277, 'fine_sam_miou': 0.02396811689914738}}
+MATCHED_REPLAY_CONTROL_COMPLETE kitchen 17 {'dataset': 'kitchen', 'seed': 17, 'delta': {'psnr': -0.0024356112183632206, 'old_psnr': 0.5108463846835569, 'fine_sam_miou': -0.01162729072674376}}
+ACTUAL_RESULTS_HTML_WRITTEN
